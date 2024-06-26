@@ -1,0 +1,1001 @@
+"order_id","customer_id","name","gender","age","credit_score","monthly_income","country","state","city","campaign_schema","Category","Product","Cost","Price","quantity","order_confirmation","cart_addition_time","order_confirmation_time","payment_method","order_return","Total.Revenue","Gender_Num"
+2000,1324,"Nicole Wilson","Male",29,698,44716,"UK","Scotland","Glasgow","E-mails","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-03-2012 23:13","20-04-2020 12:23","Cash On Delivery",FALSE,300,0
+2001,1363,"Tristan Brown","Male",62,760,59599,"Japan","Tokyo","Tokyo","Instagram-ads","home appliances","mixer grinder","$60 ","$90 ",2,TRUE,"20-01-2009 20:17","20-05-2020 09:20","Debit Card",FALSE,180,0
+2002,1387,"Robert Harrison","Female",50,706,59622,"UK","England","Birmingham","Billboard-QR code","home appliances","electric stove","$250 ","$400 ",3,FALSE,"20-06-2006 20:00","20-01-2019 00:00",NA,NA,1200,1
+2003,1310,"David Lara","Female",57,709,60892,"Italy","Lazio","Rome","Facebook-ads","books","magazine","$5 ","$8 ",3,TRUE,"20-11-2002 23:13","20-12-2020 02:23","Paypal",FALSE,24,1
+2004,1278,"Lisa Juarez","Female",18,607,21658,"Spain","Andalusia","Malaga","Google-ads","electronics","television","$1,000 ","$1,500 ",3,TRUE,"20-04-2026 21:21","20-02-2020 05:21","Cash On Delivery",FALSE,4500,1
+2005,1098,"Kenneth Castro","Male",22,628,21115,"Australia","Victoria","Ballarat","Google-ads","toys","plush toy","$12 ","$20 ",1,TRUE,"20-03-2025 20:21","20-03-2027 20:18","Cash On Delivery",FALSE,20,0
+2006,1237,"Charlotte Bailey","Female",18,637,25204,"Japan","Tokyo","Kawasaki","Facebook-ads","home appliances","electric stove","$250 ","$400 ",1,TRUE,"20-10-2024 23:15","20-10-2031 23:04","Debit Card",FALSE,400,1
+2007,1000,"Michael Saunders","Male",74,747,59129,"Canada","Quebec","Laval","Billboard-QR code","books","textbook","$30 ","$50 ",5,TRUE,"20-10-2002 20:17","20-02-2020 14:20","Paypal",FALSE,250,0
+2008,1300,"Sara Patel","Male",41,682,44342,"China","Guangdong","Guangzhou","Google-ads","fashion","t-shirt","$15 ","$25 ",3,FALSE,"20-07-2006 21:03","20-01-2019 00:00",NA,NA,75,0
+2009,1110,"Kristen Schaefer","Female",19,672,21454,"Japan","Tokyo","Tokyo","Twitter-ads","fashion","shoes","$60 ","$100 ",4,FALSE,"20-07-2006 22:04","20-01-2019 00:00",NA,NA,400,1
+2011,1331,"Nathan Carson","Male",18,623,25555,"China","Guangdong","Shenzhen","Billboard-QR code","electronics","hair dryer","$25 ","$40 ",2,TRUE,"20-06-2027 23:02","20-06-2027 23:18","Credit Card",FALSE,80,0
+2012,1146,"Richard Baker","Male",71,749,59512,"China","Shandong","Yantai","Instagram-ads","home appliances","toaster","$40 ","$60 ",3,TRUE,"20-09-2011 20:10","20-11-2020 11:20","Paypal",FALSE,180,0
+2013,1070,"Susan Stevenson","Male",21,609,39508,"Canada","Ontario","Mississauga","E-mails","fashion","dress","$50 ","$80 ",5,TRUE,"20-12-2031 22:09","20-07-2020 01:23","Debit Card",FALSE,400,0
+2014,1216,"Kyle Williams","Male",68,747,59926,"Japan","Kanagawa","Yokohama","Twitter-ads","books","textbook","$30 ","$50 ",5,TRUE,"20-04-2016 20:03","20-04-2020 20:20","Paypal",FALSE,250,0
+2015,1152,"Danielle Williams","Male",38,698,41718,"Canada","Quebec","Laval","Google-ads","toys","puzzle","$15 ","$25 ",1,TRUE,"20-08-2006 20:15","20-10-2020 06:20","Debit Card",FALSE,25,0
+2016,1045,"Connor Carlson","Female",26,616,15958,"India","Maharashtra","Pune","Billboard-QR code","toys","action figure","$8 ","$15 ",4,FALSE,"20-04-2005 20:11","20-01-2019 00:00",NA,NA,60,1
+2017,1454,"Thomas Castillo","Female",79,745,59646,"Japan","Kanagawa","Sagamihara","Billboard-QR code","fashion","jeans","$40 ","$70 ",5,FALSE,"20-05-2013 20:10","20-01-2019 00:00",NA,NA,350,1
+2018,1352,"Mrs. Jennifer Johnson DDS","Male",28,699,51242,"Australia","New South Wales","Sydney","E-mails","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-02-2012 22:16","20-05-2020 12:22","Credit Card",FALSE,1500,0
+2019,1452,"Samuel Hudson","Female",48,725,58207,"China","Shandong","Qingdao","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-03-2026 20:18","20-02-2020 04:20","Credit Card",FALSE,2500,1
+2020,1144,"Joseph Brown","Female",69,743,59705,"Italy","Lombardy","Bergamo","Google-ads","toys","puzzle","$15 ","$25 ",5,FALSE,"20-08-2011 22:13","20-01-2019 00:00",NA,NA,125,1
+2021,1218,"Nancy Richards","Male",71,752,59309,"Canada","Ontario","Toronto","Facebook-ads","books","textbook","$30 ","$50 ",2,TRUE,"20-05-2008 20:21","20-12-2020 08:20","Paypal",FALSE,100,0
+2022,1029,"Grace Sutton","Female",60,757,59503,"Australia","Victoria","Geelong","Twitter-ads","toys","action figure","$8 ","$15 ",1,TRUE,"20-08-2003 22:09","20-03-2020 15:22","Debit Card",FALSE,15,1
+2023,1171,"April Blair","Female",65,746,59651,"Italy","Lombardy","Bergamo","Billboard-QR code","toys","board game","$20 ","$35 ",2,FALSE,"20-01-2031 20:03","20-01-2019 00:00",NA,NA,70,1
+2024,1101,"Katherine Maddox","Female",60,755,59103,"Spain","Andalusia","Granada","Facebook-ads","electronics","laptop","$800 ","$1,200 ",3,TRUE,"20-09-2012 21:22","20-12-2020 12:21","Cash On Delivery",FALSE,3600,1
+2027,1018,"Aaron Cooper","Female",49,726,58638,"Spain","Andalusia","Malaga","Twitter-ads","electronics","laptop","$800 ","$1,200 ",5,TRUE,"20-08-2009 20:00","20-09-2020 09:20","Credit Card",TRUE,6000,1
+2028,1240,"Craig Bailey","Female",54,739,60221,"USA","California","Los Angeles","Instagram-ads","electronics","television","$1,000 ","$1,500 ",3,TRUE,"20-04-2023 21:05","20-04-2028 21:15","Paypal",FALSE,4500,1
+2029,1338,"Marcus Meadows","Male",35,684,48477,"USA","Texas","San Antonio","Instagram-ads","books","autobiography","$20 ","$35 ",2,TRUE,"20-01-2028 23:11","20-01-2020 02:23","Debit Card",FALSE,70,0
+2030,1385,"Brett Mayo","Male",57,732,59050,"Canada","Quebec","Quebec City","Instagram-ads","toys","plush toy","$12 ","$20 ",4,TRUE,"20-06-2025 20:20","20-06-2026 20:01","Paypal",FALSE,80,0
+2031,1065,"Kevin Pineda","Female",23,639,21237,"UK","England","Birmingham","E-mails","electronics","television","$1,000 ","$1,500 ",4,TRUE,"20-10-2003 23:17","20-03-2020 15:23","Credit Card",FALSE,6000,1
+2032,1445,"Martin Kelly","Male",17,NA,NA,"Canada","Ontario","Mississauga","Facebook-ads","fashion","dress","$50 ","$80 ",1,TRUE,"20-08-2010 20:14","20-09-2020 10:20","Credit Card",FALSE,80,0
+2033,1113,"Andrew Murphy","Male",73,743,59061,"UK","Scotland","Edinburgh","Facebook-ads","toys","action figure","$8 ","$15 ",2,TRUE,"20-08-2006 20:11","20-06-2020 14:20","Cash On Delivery",FALSE,30,0
+2034,1267,"Tracy Lowe","Male",32,687,50488,"Spain","Andalusia","Granada","Google-ads","fashion","t-shirt","$15 ","$25 ",5,TRUE,"20-10-2029 23:14","20-03-2020 11:23","Cash On Delivery",FALSE,125,0
+2035,1466,"Shannon Munoz MD","Male",73,742,59316,"Canada","Ontario","Mississauga","Google-ads","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-10-2004 22:09","20-04-2020 14:22","Paypal",FALSE,1500,0
+2036,1468,"Mrs. Jennifer Scott","Male",62,756,59229,"Australia","Victoria","Geelong","Instagram-ads","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-12-2005 21:09","20-05-2020 14:21","Cash On Delivery",FALSE,40,0
+2038,1498,"Patricia Rasmussen","Female",17,NA,NA,"Italy","Lazio","Latina","Twitter-ads","books","novel","$10 ","$18 ",3,TRUE,"20-08-2011 23:17","20-10-2020 11:23","Cash On Delivery",FALSE,54,1
+2039,1172,"Edward Little","Male",18,653,16725,"USA","Texas","Houston","Google-ads","fashion","jeans","$40 ","$70 ",3,TRUE,"20-09-2019 22:00","20-09-2020 22:22","Paypal",FALSE,210,0
+2040,1404,"Angela Griffith DVM","Female",77,758,59108,"Italy","Lombardy","Milan","E-mails","toys","board game","$20 ","$35 ",1,TRUE,"20-09-2004 20:02","20-10-2020 04:20","Paypal",FALSE,35,1
+2041,1373,"John Henry","Female",55,707,58533,"UK","England","Manchester","Facebook-ads","fashion","shoes","$60 ","$100 ",3,TRUE,"20-08-2024 21:10","20-08-2027 21:03","Cash On Delivery",FALSE,300,1
+2042,1472,"Cory Morales","Female",46,733,59171,"Spain","Andalusia","Granada","E-mails","fashion","dress","$50 ","$80 ",4,TRUE,"20-02-2012 20:15","20-08-2020 12:20","Credit Card",FALSE,320,1
+2043,1383,"Amanda Anderson","Female",44,713,60323,"Australia","New South Wales","Newcastle","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-09-2012 21:08","20-10-2020 12:21","Credit Card",FALSE,1500,1
+2044,1202,"Makayla Coleman","Male",57,716,56965,"Spain","Andalusia","Granada","Twitter-ads","electronics","television","$1,000 ","$1,500 ",2,TRUE,"20-03-2014 20:12","20-03-2020 21:20","Cash On Delivery",FALSE,3000,0
+2045,1424,"Anthony Hall","Female",31,689,44474,"Canada","Quebec","Quebec City","E-mails","books","novel","$10 ","$18 ",3,FALSE,"20-12-2018 20:00","20-01-2019 00:00",NA,NA,54,1
+2047,1281,"Dawn Wood","Female",77,749,59681,"Australia","Victoria","Geelong","Twitter-ads","fashion","jeans","$40 ","$70 ",3,TRUE,"20-08-2002 22:11","20-02-2020 13:22","Cash On Delivery",FALSE,210,1
+2048,1004,"Allen Bass","Male",33,695,47139,"UK","Scotland","Aberdeen","Billboard-QR code","home appliances","electric stove","$250 ","$400 ",4,FALSE,"20-12-2019 23:16","20-01-2019 00:00",NA,NA,1600,0
+2049,1059,"Dorothy Gibson","Male",37,696,51219,"UK","England","London","Billboard-QR code","books","novel","$10 ","$18 ",5,FALSE,"20-06-2020 20:22","20-01-2019 00:00",NA,NA,90,0
+2050,1404,"Angela Griffith DVM","Female",77,758,59108,"Italy","Lombardy","Milan","Instagram-ads","toys","plush toy","$12 ","$20 ",4,FALSE,"20-10-2014 23:10","20-01-2019 00:00",NA,NA,80,1
+2051,1428,"Lisa Gonzalez","Male",66,757,59577,"Australia","New South Wales","Wollongong","E-mails","toys","action figure","$8 ","$15 ",3,TRUE,"20-09-2027 21:01","20-02-2020 10:21","Credit Card",FALSE,45,0
+2052,1469,"Paula Ware","Female",46,707,56645,"Italy","Lombardy","Bergamo","Google-ads","home appliances","toaster","$40 ","$60 ",2,TRUE,"20-02-2028 20:17","20-01-2020 03:20","Paypal",FALSE,120,1
+2053,1150,"Patrick Smith II","Male",49,736,57881,"Japan","Kanagawa","Kawasaki","Twitter-ads","electronics","table fan","$30 ","$50 ",1,TRUE,"20-11-2022 21:16","21-11-2020 00:21","Debit Card",FALSE,50,0
+2054,1471,"Kyle Thompson","Male",40,686,48116,"Canada","Ontario","Mississauga","E-mails","fashion","jeans","$40 ","$70 ",3,TRUE,"20-08-2025 21:15","20-08-2030 21:04","Paypal",FALSE,210,0
+2055,1486,"Jordan Hoffman","Female",29,695,44738,"Australia","Victoria","Geelong","Twitter-ads","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-01-2031 22:18","20-04-2020 02:22","Paypal",FALSE,40,1
+2056,1094,"Mary Durham DVM","Female",36,683,47043,"USA","Texas","San Antonio","E-mails","toys","action figure","$8 ","$15 ",4,FALSE,"20-12-2015 21:14","20-01-2019 00:00",NA,NA,60,1
+2057,1369,"Kelsey Richardson","Female",71,758,59890,"China","Shandong","Jinan","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",5,TRUE,"20-10-2005 20:07","20-12-2020 05:20","Credit Card",FALSE,125,1
+2058,1094,"Mary Durham DVM","Female",36,683,47043,"USA","Texas","San Antonio","Google-ads","toys","action figure","$8 ","$15 ",2,FALSE,"20-06-2009 22:20","20-01-2019 00:00",NA,NA,30,1
+2059,1117,"Robert Hill","Male",53,727,56958,"Australia","Victoria","Melbourne","E-mails","toys","action figure","$8 ","$15 ",4,TRUE,"20-10-2009 20:21","20-09-2020 14:20","Cash On Delivery",FALSE,60,0
+2060,1140,"Jonathan Sherman","Female",47,721,57584,"Canada","Ontario","Mississauga","Billboard-QR code","toys","action figure","$8 ","$15 ",3,FALSE,"20-02-2010 23:14","20-01-2019 00:00",NA,NA,45,1
+2061,1185,"Bryan Nguyen","Male",49,701,56463,"Japan","Tokyo","Tokyo","Billboard-QR code","books","novel","$10 ","$18 ",3,TRUE,"20-07-2026 23:13","20-07-2030 23:15","Credit Card",FALSE,54,0
+2062,1362,"Maria Adams","Male",62,753,59916,"India","Maharashtra","Mumbai","Twitter-ads","fashion","jeans","$40 ","$70 ",1,TRUE,"20-01-2025 22:13","20-01-2031 22:13","Paypal",FALSE,70,0
+2063,1260,"Shelly Anderson","Male",32,694,50095,"USA","Texas","Houston","E-mails","fashion","jeans","$40 ","$70 ",2,TRUE,"20-12-2018 21:00","20-12-2020 22:21","Paypal",FALSE,140,0
+2064,1389,"Jason Bryant","Male",69,748,59458,"Australia","Victoria","Ballarat","Facebook-ads","books","novel","$10 ","$18 ",3,TRUE,"20-02-2007 22:12","20-04-2020 07:22","Cash On Delivery",FALSE,54,0
+2066,1184,"Christopher Abbott","Male",26,637,35464,"Japan","Tokyo","Yokohama","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",3,TRUE,"20-06-2009 22:21","20-11-2020 09:22","Debit Card",FALSE,270,0
+2067,1127,"Michael Weber","Male",71,752,59963,"Australia","Victoria","Melbourne","Facebook-ads","fashion","t-shirt","$15 ","$25 ",1,TRUE,"20-12-2020 22:10","21-12-2020 00:22","Debit Card",FALSE,25,0
+2068,1327,"Heather Moore","Female",20,649,21530,"India","Uttar Pradesh","Lucknow","E-mails","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-03-2005 20:20","20-10-2020 05:20","Cash On Delivery",FALSE,160,1
+2069,1244,"Marie Graves","Female",71,748,59793,"Canada","Quebec","Laval","E-mails","home appliances","mixer grinder","$60 ","$90 ",2,TRUE,"20-09-2019 21:08","20-09-2025 21:04","Debit Card",FALSE,180,1
+2070,1226,"Tina Smith","Female",22,656,22154,"Italy","Lombardy","Bergamo","Billboard-QR code","toys","board game","$20 ","$35 ",2,TRUE,"20-12-2025 22:09","20-12-2028 22:21","Paypal",FALSE,70,1
+2071,1000,"Michael Saunders","Male",74,747,59129,"Canada","Quebec","Laval","Google-ads","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-05-2006 21:03","20-09-2020 06:21","Debit Card",FALSE,300,0
+2072,1243,"Sarah Holloway","Female",14,NA,NA,"Australia","New South Wales","Newcastle","Facebook-ads","fashion","shoes","$60 ","$100 ",2,TRUE,"20-09-2006 23:17","20-09-2020 06:23","Paypal",FALSE,200,1
+2073,1344,"Kristin Koch","Male",63,749,59343,"India","Maharashtra","Nagpur","Instagram-ads","electronics","laptop","$800 ","$1,200 ",1,TRUE,"20-08-2031 21:23","20-04-2020 09:21","Cash On Delivery",FALSE,1200,0
+2074,1435,"Joshua Williams","Male",52,715,58739,"USA","Texas","San Antonio","Google-ads","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-05-2008 21:03","20-10-2020 08:21","Credit Card",FALSE,100,0
+2075,1024,"Regina Mcfarland","Female",53,730,58533,"India","Maharashtra","Mumbai","Billboard-QR code","books","magazine","$5 ","$8 ",2,TRUE,"20-11-2021 21:00","20-11-2020 23:21","Debit Card",FALSE,16,1
+2076,1104,"Angel Lewis","Female",79,760,59455,"India","Uttar Pradesh","Ghaziabad","Billboard-QR code","fashion","shoes","$60 ","$100 ",3,TRUE,"20-05-2019 23:13","21-05-2020 00:23","Credit Card",FALSE,300,1
+2077,1218,"Nancy Richards","Male",71,752,59309,"Canada","Ontario","Toronto","Billboard-QR code","books","magazine","$5 ","$8 ",2,TRUE,"20-10-2009 22:01","20-10-2020 09:22","Cash On Delivery",FALSE,16,0
+2078,1051,"Amber Vargas","Female",41,697,41444,"Spain","Andalusia","Seville","Billboard-QR code","fashion","dress","$50 ","$80 ",5,FALSE,"20-11-2023 22:00","20-01-2019 00:00",NA,NA,400,1
+2079,1025,"Jonathan Flores","Female",76,742,59555,"Italy","Lazio","Frosinone","Facebook-ads","home appliances","microwave oven","$300 ","$500 ",2,FALSE,"20-10-2010 20:02","20-01-2019 00:00",NA,NA,1000,1
+2080,1278,"Lisa Juarez","Female",18,607,21658,"Spain","Andalusia","Malaga","Billboard-QR code","books","novel","$10 ","$18 ",2,TRUE,"20-03-2028 22:00","20-03-2020 04:22","Paypal",FALSE,36,1
+2081,1418,"Kelly Moore","Male",28,682,50958,"Japan","Kanagawa","Sagamihara","Twitter-ads","fashion","jeans","$40 ","$70 ",4,FALSE,"20-07-2002 22:19","20-01-2019 00:00",NA,NA,280,0
+2082,1453,"Scott Martin","Male",15,NA,NA,"Italy","Lazio","Rome","Twitter-ads","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-06-2019 22:23","20-06-2020 20:22","Paypal",FALSE,40,0
+2083,1481,"David Berry","Female",34,697,44654,"Japan","Tokyo","Yokohama","E-mails","fashion","t-shirt","$15 ","$25 ",3,FALSE,"20-09-2006 22:01","20-01-2019 00:00",NA,NA,75,1
+2084,1373,"John Henry","Female",55,707,58533,"UK","England","Manchester","E-mails","toys","puzzle","$15 ","$25 ",3,FALSE,"20-07-2012 21:03","20-01-2019 00:00",NA,NA,75,1
+2085,1048,"Kyle Griffin","Female",28,692,51446,"USA","Texas","San Antonio","Google-ads","books","magazine","$5 ","$8 ",2,TRUE,"20-08-2003 22:12","20-11-2020 03:22","Debit Card",FALSE,16,1
+2086,1226,"Tina Smith","Female",22,656,22154,"Italy","Lombardy","Bergamo","Billboard-QR code","toys","plush toy","$12 ","$20 ",2,TRUE,"20-09-2012 23:19","20-12-2020 14:23","Paypal",FALSE,40,1
+2087,1243,"Sarah Holloway","Female",14,NA,NA,"Australia","New South Wales","Newcastle","Billboard-QR code","fashion","dress","$50 ","$80 ",3,TRUE,"20-03-2008 23:07","20-09-2020 08:23","Credit Card",FALSE,240,1
+2088,1148,"Jeremy Lee","Male",38,687,41962,"India","Maharashtra","Mumbai","Google-ads","books","novel","$10 ","$18 ",5,TRUE,"20-05-2017 22:10","20-05-2020 22:22","Paypal",FALSE,90,0
+2089,1093,"Angelica Adams","Female",28,699,44451,"Canada","Ontario","Mississauga","Twitter-ads","electronics","table fan","$30 ","$50 ",4,TRUE,"20-02-2002 22:11","20-08-2020 02:22","Debit Card",FALSE,200,1
+2090,1258,"Peter Hobbs","Male",65,751,59126,"China","Shandong","Jinan","E-mails","toys","puzzle","$15 ","$25 ",4,TRUE,"20-01-2015 20:22","20-01-2020 20:20","Credit Card",TRUE,100,0
+2091,1180,"Curtis Howard","Female",74,757,59959,"Spain","Catalonia","Tarragona","Twitter-ads","books","textbook","$30 ","$50 ",5,TRUE,"20-07-2027 20:01","20-07-2031 20:07","Cash On Delivery",FALSE,250,1
+2092,1082,"Jacqueline Pruitt","Female",24,600,32767,"Australia","New South Wales","Wollongong","Instagram-ads","fashion","dress","$50 ","$80 ",1,TRUE,"20-06-2004 23:02","20-10-2020 04:23","Credit Card",FALSE,80,1
+2093,1207,"Rachel Harris","Female",37,691,44430,"Italy","Lombardy","Brescia","Billboard-QR code","electronics","table fan","$30 ","$50 ",2,FALSE,"20-10-2025 21:18","20-01-2019 00:00",NA,NA,100,1
+2094,1288,"Lisa Rivera","Female",72,756,59007,"Japan","Tokyo","Tokyo","Instagram-ads","toys","puzzle","$15 ","$25 ",2,TRUE,"20-03-2012 23:12","20-07-2020 12:23","Cash On Delivery",FALSE,50,1
+2095,1129,"Stephen Pearson","Female",14,NA,NA,"Japan","Tokyo","Yokohama","Instagram-ads","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-10-2005 22:10","20-05-2020 13:22","Credit Card",FALSE,40,1
+2096,1076,"Monica Smith","Male",24,632,17006,"Italy","Lazio","Rome","E-mails","fashion","shoes","$60 ","$100 ",1,TRUE,"20-07-2013 23:06","20-07-2020 16:23","Credit Card",FALSE,100,0
+2097,1084,"Tara Norton","Male",46,727,58650,"Italy","Lazio","Frosinone","Instagram-ads","fashion","jeans","$40 ","$70 ",1,FALSE,"20-04-2010 23:07","20-01-2019 00:00",NA,NA,70,0
+2098,1215,"Aaron Cox","Female",44,730,56568,"India","Uttar Pradesh","Kanpur","E-mails","fashion","shoes","$60 ","$100 ",4,TRUE,"20-10-2016 20:14","20-10-2020 17:20","Paypal",FALSE,400,1
+2099,1095,"Jasmine Brown","Female",67,743,59909,"USA","Texas","San Antonio","Instagram-ads","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-06-2006 20:18","20-12-2020 06:20","Credit Card",FALSE,300,1
+2100,1036,"Courtney Palmer","Male",45,703,56570,"Canada","Quebec","Quebec City","Twitter-ads","books","novel","$10 ","$18 ",3,FALSE,"20-05-2025 22:17","20-01-2019 00:00",NA,NA,54,0
+2101,1425,"Christopher Tran","Female",23,655,37563,"UK","Scotland","Aberdeen","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",1,FALSE,"20-12-2015 21:20","20-01-2019 00:00",NA,NA,500,1
+2102,1156,"Megan Vaughan","Male",51,714,58739,"Australia","New South Wales","Newcastle","E-mails","books","textbook","$30 ","$50 ",4,TRUE,"20-06-2008 21:23","20-08-2020 08:21","Paypal",FALSE,200,0
+2104,1261,"Thomas Smith","Male",20,645,28659,"Canada","Ontario","Toronto","Billboard-QR code","home appliances","toaster","$40 ","$60 ",2,TRUE,"20-04-2011 20:03","20-08-2020 11:20","Cash On Delivery",FALSE,120,0
+2105,1312,"Alyssa Berry","Female",62,746,59263,"China","Shandong","Yantai","Google-ads","electronics","television","$1,000 ","$1,500 ",2,FALSE,"20-06-2015 23:09","20-01-2019 00:00",NA,NA,3000,1
+2106,1044,"Thomas Fitzgerald","Male",28,684,45763,"Canada","Ontario","Ottawa","E-mails","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-02-2023 22:12","21-02-2020 00:22","Credit Card",FALSE,1500,0
+2107,1324,"Nicole Wilson","Male",29,698,44716,"UK","Scotland","Glasgow","Facebook-ads","electronics","hair dryer","$25 ","$40 ",2,TRUE,"20-05-2027 20:08","20-05-2031 20:23","Credit Card",FALSE,80,0
+2108,1363,"Tristan Brown","Male",62,760,59599,"Japan","Tokyo","Tokyo","Instagram-ads","toys","board game","$20 ","$35 ",4,FALSE,"20-06-2008 20:16","20-01-2019 00:00",NA,NA,140,0
+2109,1387,"Robert Harrison","Female",50,706,59622,"UK","England","Birmingham","Twitter-ads","home appliances","mixer grinder","$60 ","$90 ",4,TRUE,"20-10-2008 20:08","20-11-2020 08:20","Credit Card",FALSE,360,1
+2110,1310,"David Lara","Female",57,709,60892,"Italy","Lazio","Rome","E-mails","toys","plush toy","$12 ","$20 ",1,TRUE,"20-04-2023 23:02","20-04-2020 23:23","Credit Card",FALSE,20,1
+2111,1278,"Lisa Juarez","Female",18,607,21658,"Spain","Andalusia","Malaga","Twitter-ads","books","autobiography","$20 ","$35 ",4,TRUE,"20-07-2001 21:05","20-08-2020 01:21","Debit Card",TRUE,140,1
+2112,1098,"Kenneth Castro","Male",22,628,21115,"Australia","Victoria","Ballarat","Facebook-ads","electronics","laptop","$800 ","$1,200 ",1,TRUE,"20-04-2021 21:06","21-04-2020 00:21","Debit Card",FALSE,1200,0
+2113,1237,"Charlotte Bailey","Female",18,637,25204,"Japan","Tokyo","Kawasaki","Instagram-ads","books","novel","$10 ","$18 ",3,TRUE,"20-05-2010 22:19","20-10-2020 10:22","Paypal",FALSE,54,1
+2114,1000,"Michael Saunders","Male",74,747,59129,"Canada","Quebec","Laval","Google-ads","electronics","laptop","$800 ","$1,200 ",4,TRUE,"20-04-2009 21:21","20-07-2020 09:21","Cash On Delivery",TRUE,4800,0
+2115,1300,"Sara Patel","Male",41,682,44342,"China","Guangdong","Guangzhou","E-mails","home appliances","microwave oven","$300 ","$500 ",2,TRUE,"20-10-2010 22:06","20-12-2020 10:22","Debit Card",FALSE,1000,0
+2116,1110,"Kristen Schaefer","Female",19,672,21454,"Japan","Tokyo","Tokyo","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",4,TRUE,"20-05-2014 21:03","20-05-2020 17:21","Debit Card",TRUE,360,1
+2117,1331,"Nathan Carson","Male",18,623,25555,"China","Guangdong","Shenzhen","Instagram-ads","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-04-2012 23:03","20-07-2020 12:23","Paypal",FALSE,40,0
+2118,1146,"Richard Baker","Male",71,749,59512,"China","Shandong","Yantai","Facebook-ads","toys","plush toy","$12 ","$20 ",1,FALSE,"20-03-2014 22:21","20-01-2019 00:00",NA,NA,20,0
+2119,1070,"Susan Stevenson","Male",21,609,39508,"Canada","Ontario","Mississauga","Google-ads","fashion","dress","$50 ","$80 ",3,TRUE,"20-10-2015 23:17","20-10-2020 18:23","Cash On Delivery",FALSE,240,0
+2120,1216,"Kyle Williams","Male",68,747,59926,"Japan","Kanagawa","Yokohama","Twitter-ads","toys","board game","$20 ","$35 ",2,TRUE,"20-01-2031 21:05","20-03-2020 02:21","Paypal",FALSE,70,0
+2121,1152,"Danielle Williams","Male",38,698,41718,"Canada","Quebec","Laval","Twitter-ads","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-08-2010 22:02","20-10-2020 10:22","Paypal",FALSE,100,0
+2122,1045,"Connor Carlson","Female",26,616,15958,"India","Maharashtra","Pune","Billboard-QR code","electronics","laptop","$800 ","$1,200 ",3,TRUE,"20-03-2026 23:01","20-03-2027 23:19","Cash On Delivery",FALSE,3600,1
+2123,1454,"Thomas Castillo","Female",79,745,59646,"Japan","Kanagawa","Sagamihara","Instagram-ads","electronics","table fan","$30 ","$50 ",2,TRUE,"20-12-2024 22:16","20-12-2027 22:09","Debit Card",FALSE,100,1
+2124,1352,"Mrs. Jennifer Johnson DDS","Male",28,699,51242,"Australia","New South Wales","Sydney","Google-ads","books","novel","$10 ","$18 ",4,TRUE,"20-09-2005 23:01","20-11-2020 05:23","Cash On Delivery",FALSE,72,0
+2125,1452,"Samuel Hudson","Female",48,725,58207,"China","Shandong","Qingdao","Google-ads","books","autobiography","$20 ","$35 ",5,FALSE,"20-08-2025 23:19","20-01-2019 00:00",NA,NA,175,1
+2126,1144,"Joseph Brown","Female",69,743,59705,"Italy","Lombardy","Bergamo","E-mails","fashion","shoes","$60 ","$100 ",2,TRUE,"20-12-2019 23:07","20-12-2025 23:13","Debit Card",FALSE,200,1
+2127,1218,"Nancy Richards","Male",71,752,59309,"Canada","Ontario","Toronto","E-mails","home appliances","electric stove","$250 ","$400 ",3,FALSE,"20-02-2006 20:22","20-01-2019 00:00",NA,NA,1200,0
+2128,1029,"Grace Sutton","Female",60,757,59503,"Australia","Victoria","Geelong","Billboard-QR code","fashion","dress","$50 ","$80 ",3,FALSE,"20-07-2024 20:03","20-01-2019 00:00",NA,NA,240,1
+2129,1171,"April Blair","Female",65,746,59651,"Italy","Lombardy","Bergamo","Google-ads","fashion","dress","$50 ","$80 ",4,TRUE,"20-09-2011 22:10","20-12-2020 11:22","Cash On Delivery",FALSE,320,1
+2130,1101,"Katherine Maddox","Female",60,755,59103,"Spain","Andalusia","Granada","Google-ads","electronics","table fan","$30 ","$50 ",2,TRUE,"20-12-2010 23:21","20-10-2020 18:23","Paypal",FALSE,100,1
+2131,1018,"Aaron Cooper","Female",49,726,58638,"Spain","Andalusia","Malaga","Facebook-ads","home appliances","electric stove","$250 ","$400 ",4,FALSE,"20-02-2024 21:02","20-01-2019 00:00",NA,NA,1600,1
+2132,1240,"Craig Bailey","Female",54,739,60221,"USA","California","Los Angeles","E-mails","toys","board game","$20 ","$35 ",3,TRUE,"20-12-2016 20:03","20-12-2020 21:20","Debit Card",FALSE,105,1
+2133,1338,"Marcus Meadows","Male",35,684,48477,"USA","Texas","San Antonio","Billboard-QR code","home appliances","microwave oven","$300 ","$500 ",2,TRUE,"20-12-2020 22:03","20-12-2020 23:22","Credit Card",FALSE,1000,0
+2134,1385,"Brett Mayo","Male",57,732,59050,"Canada","Quebec","Quebec City","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",1,TRUE,"20-05-2023 22:19","20-05-2028 22:19","Paypal",FALSE,90,0
+2135,1065,"Kevin Pineda","Female",23,639,21237,"UK","England","Birmingham","Google-ads","toys","action figure","$8 ","$15 ",2,FALSE,"20-12-2007 22:02","20-01-2019 00:00",NA,NA,30,1
+2137,1445,"Martin Kelly","Male",17,NA,NA,"Canada","Ontario","Mississauga","E-mails","electronics","laptop","$800 ","$1,200 ",4,FALSE,"20-01-2015 22:21","20-01-2019 00:00",NA,NA,4800,0
+2138,1113,"Andrew Murphy","Male",73,743,59061,"UK","Scotland","Edinburgh","Instagram-ads","home appliances","electric stove","$250 ","$400 ",3,FALSE,"20-08-2001 23:18","20-01-2019 00:00",NA,NA,1200,0
+2139,1267,"Tracy Lowe","Male",32,687,50488,"Spain","Andalusia","Granada","E-mails","books","textbook","$30 ","$50 ",2,TRUE,"20-12-2004 21:01","20-12-2020 04:21","Credit Card",FALSE,100,0
+2140,1466,"Shannon Munoz MD","Male",73,742,59316,"Canada","Ontario","Mississauga","Instagram-ads","home appliances","electric stove","$250 ","$400 ",3,FALSE,"20-06-2022 21:16","20-01-2019 00:00",NA,NA,1200,0
+2141,1468,"Mrs. Jennifer Scott","Male",62,756,59229,"Australia","Victoria","Geelong","E-mails","books","autobiography","$20 ","$35 ",1,TRUE,"20-12-2008 23:16","20-08-2020 16:23","Cash On Delivery",FALSE,35,0
+2142,1498,"Patricia Rasmussen","Female",17,NA,NA,"Italy","Lazio","Latina","Twitter-ads","fashion","t-shirt","$15 ","$25 ",3,TRUE,"20-09-2006 21:10","20-10-2020 06:21","Debit Card",FALSE,75,1
+2143,1172,"Edward Little","Male",18,653,16725,"USA","Texas","Houston","Facebook-ads","toys","action figure","$8 ","$15 ",4,TRUE,"20-04-2023 21:04","20-04-2026 21:17","Paypal",FALSE,60,0
+2144,1404,"Angela Griffith DVM","Female",77,758,59108,"Italy","Lombardy","Milan","Twitter-ads","electronics","television","$1,000 ","$1,500 ",2,FALSE,"20-06-2017 22:09","20-01-2019 00:00",NA,NA,3000,1
+2145,1373,"John Henry","Female",55,707,58533,"UK","England","Manchester","Facebook-ads","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-01-2001 22:12","20-03-2020 01:22","Debit Card",FALSE,500,1
+2146,1472,"Cory Morales","Female",46,733,59171,"Spain","Andalusia","Granada","Instagram-ads","home appliances","toaster","$40 ","$60 ",4,FALSE,"20-12-2014 21:08","20-01-2019 00:00",NA,NA,240,1
+2147,1383,"Amanda Anderson","Female",44,713,60323,"Australia","New South Wales","Newcastle","Twitter-ads","toys","plush toy","$12 ","$20 ",4,TRUE,"20-05-2029 22:02","20-05-2030 22:04","Cash On Delivery",FALSE,80,1
+2148,1202,"Makayla Coleman","Male",57,716,56965,"Spain","Andalusia","Granada","Google-ads","toys","plush toy","$12 ","$20 ",4,FALSE,"20-08-2031 21:02","20-01-2019 00:00",NA,NA,80,0
+2149,1424,"Anthony Hall","Female",31,689,44474,"Canada","Quebec","Quebec City","Instagram-ads","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-10-2003 23:16","20-03-2020 14:23","Debit Card",FALSE,1500,1
+2150,1281,"Dawn Wood","Female",77,749,59681,"Australia","Victoria","Geelong","Instagram-ads","home appliances","microwave oven","$300 ","$500 ",4,FALSE,"20-04-2020 23:02","20-01-2019 00:00",NA,NA,2000,1
+2151,1004,"Allen Bass","Male",33,695,47139,"UK","Scotland","Aberdeen","Facebook-ads","fashion","shoes","$60 ","$100 ",4,TRUE,"20-06-2013 22:09","20-06-2020 19:22","Paypal",FALSE,400,0
+2152,1059,"Dorothy Gibson","Male",37,696,51219,"UK","England","London","Twitter-ads","books","autobiography","$20 ","$35 ",3,TRUE,"20-04-2029 21:00","20-04-2029 21:20","Credit Card",TRUE,105,0
+2153,1404,"Angela Griffith DVM","Female",77,758,59108,"Italy","Lombardy","Milan","Google-ads","fashion","t-shirt","$15 ","$25 ",1,TRUE,"20-01-2028 23:17","20-02-2020 02:23","Paypal",FALSE,25,1
+2154,1428,"Lisa Gonzalez","Male",66,757,59577,"Australia","New South Wales","Wollongong","Twitter-ads","home appliances","mixer grinder","$60 ","$90 ",4,FALSE,"20-02-2027 22:22","20-01-2019 00:00",NA,NA,360,0
+2155,1469,"Paula Ware","Female",46,707,56645,"Italy","Lombardy","Bergamo","Twitter-ads","toys","puzzle","$15 ","$25 ",4,FALSE,"20-06-2020 22:02","20-01-2019 00:00",NA,NA,100,1
+2156,1150,"Patrick Smith II","Male",49,736,57881,"Japan","Kanagawa","Kawasaki","Instagram-ads","home appliances","toaster","$40 ","$60 ",4,TRUE,"20-03-2014 21:11","20-03-2020 20:21","Debit Card",FALSE,240,0
+2157,1471,"Kyle Thompson","Male",40,686,48116,"Canada","Ontario","Mississauga","Twitter-ads","fashion","jeans","$40 ","$70 ",2,TRUE,"20-02-2005 23:17","20-08-2020 05:23","Cash On Delivery",FALSE,140,0
+2158,1486,"Jordan Hoffman","Female",29,695,44738,"Australia","Victoria","Geelong","Billboard-QR code","fashion","dress","$50 ","$80 ",4,TRUE,"20-09-2019 21:02","20-09-2025 21:09","Cash On Delivery",TRUE,320,1
+2160,1094,"Mary Durham DVM","Female",36,683,47043,"USA","Texas","San Antonio","Twitter-ads","books","magazine","$5 ","$8 ",5,TRUE,"20-03-2023 23:02","20-03-2029 23:16","Paypal",FALSE,40,1
+2161,1369,"Kelsey Richardson","Female",71,758,59890,"China","Shandong","Jinan","Billboard-QR code","toys","action figure","$8 ","$15 ",1,TRUE,"20-02-2001 21:05","20-04-2020 01:21","Debit Card",FALSE,15,1
+2162,1094,"Mary Durham DVM","Female",36,683,47043,"USA","Texas","San Antonio","E-mails","books","magazine","$5 ","$8 ",3,TRUE,"20-07-2030 20:20","20-06-2020 08:20","Cash On Delivery",FALSE,24,1
+2163,1117,"Robert Hill","Male",53,727,56958,"Australia","Victoria","Melbourne","Twitter-ads","home appliances","mixer grinder","$60 ","$90 ",3,TRUE,"20-03-2027 20:17","20-03-2020 04:20","Debit Card",FALSE,270,0
+2164,1140,"Jonathan Sherman","Female",47,721,57584,"Canada","Ontario","Mississauga","Instagram-ads","books","textbook","$30 ","$50 ",4,TRUE,"20-11-2001 20:21","20-01-2020 13:20","Credit Card",FALSE,200,1
+2165,1185,"Bryan Nguyen","Male",49,701,56463,"Japan","Tokyo","Tokyo","Twitter-ads","toys","puzzle","$15 ","$25 ",1,FALSE,"20-02-2012 20:18","20-01-2019 00:00",NA,NA,25,0
+2166,1362,"Maria Adams","Male",62,753,59916,"India","Maharashtra","Mumbai","Instagram-ads","toys","plush toy","$12 ","$20 ",4,FALSE,"20-10-2007 23:15","20-01-2019 00:00",NA,NA,80,0
+2167,1260,"Shelly Anderson","Male",32,694,50095,"USA","Texas","Houston","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-03-2013 23:18","20-03-2020 20:23","Cash On Delivery",FALSE,100,0
+2168,1389,"Jason Bryant","Male",69,748,59458,"Australia","Victoria","Ballarat","Google-ads","toys","plush toy","$12 ","$20 ",1,FALSE,"20-10-2015 23:06","20-01-2019 00:00",NA,NA,20,0
+2169,1184,"Christopher Abbott","Male",26,637,35464,"Japan","Tokyo","Yokohama","Instagram-ads","home appliances","microwave oven","$300 ","$500 ",4,TRUE,"20-04-2012 21:10","20-05-2020 12:21","Cash On Delivery",FALSE,2000,0
+2170,1127,"Michael Weber","Male",71,752,59963,"Australia","Victoria","Melbourne","Instagram-ads","electronics","television","$1,000 ","$1,500 ",3,FALSE,"20-07-2019 20:20","20-01-2019 00:00",NA,NA,4500,0
+2171,1327,"Heather Moore","Female",20,649,21530,"India","Uttar Pradesh","Lucknow","Billboard-QR code","books","textbook","$30 ","$50 ",5,TRUE,"20-08-2001 20:16","20-01-2020 15:20","Credit Card",FALSE,250,1
+2172,1244,"Marie Graves","Female",71,748,59793,"Canada","Quebec","Laval","Instagram-ads","fashion","dress","$50 ","$80 ",4,FALSE,"20-01-2022 21:02","20-01-2019 00:00",NA,NA,320,1
+2173,1226,"Tina Smith","Female",22,656,22154,"Italy","Lombardy","Bergamo","Google-ads","home appliances","toaster","$40 ","$60 ",4,TRUE,"20-09-2014 23:17","20-09-2020 21:23","Credit Card",FALSE,240,1
+2174,1000,"Michael Saunders","Male",74,747,59129,"Canada","Quebec","Laval","Facebook-ads","electronics","laptop","$800 ","$1,200 ",2,TRUE,"20-09-2007 22:10","20-12-2020 07:22","Debit Card",FALSE,2400,0
+2175,1243,"Sarah Holloway","Female",14,NA,NA,"Australia","New South Wales","Newcastle","Instagram-ads","electronics","table fan","$30 ","$50 ",2,FALSE,"20-04-2021 20:22","20-01-2019 00:00",NA,NA,100,1
+2176,1344,"Kristin Koch","Male",63,749,59343,"India","Maharashtra","Nagpur","E-mails","fashion","dress","$50 ","$80 ",4,FALSE,"20-03-2024 22:16","20-01-2019 00:00",NA,NA,320,0
+2177,1435,"Joshua Williams","Male",52,715,58739,"USA","Texas","San Antonio","Twitter-ads","fashion","jeans","$40 ","$70 ",2,TRUE,"20-02-2012 20:05","20-06-2020 12:20","Debit Card",FALSE,140,0
+2178,1024,"Regina Mcfarland","Female",53,730,58533,"India","Maharashtra","Mumbai","Google-ads","toys","puzzle","$15 ","$25 ",5,TRUE,"20-11-2025 22:09","20-11-2027 22:09","Debit Card",FALSE,125,1
+2179,1104,"Angel Lewis","Female",79,760,59455,"India","Uttar Pradesh","Ghaziabad","Instagram-ads","home appliances","electric stove","$250 ","$400 ",3,TRUE,"20-02-2006 20:16","20-08-2020 06:20","Paypal",FALSE,1200,1
+2180,1218,"Nancy Richards","Male",71,752,59309,"Canada","Ontario","Toronto","Instagram-ads","fashion","shoes","$60 ","$100 ",1,TRUE,"20-02-2004 23:16","20-06-2020 04:23","Paypal",FALSE,100,0
+2181,1051,"Amber Vargas","Female",41,697,41444,"Spain","Andalusia","Seville","Facebook-ads","electronics","hair dryer","$25 ","$40 ",5,TRUE,"20-04-2009 21:15","20-09-2020 09:21","Credit Card",FALSE,200,1
+2182,1025,"Jonathan Flores","Female",76,742,59555,"Italy","Lazio","Frosinone","Google-ads","toys","board game","$20 ","$35 ",2,TRUE,"20-01-2008 23:21","20-04-2020 08:23","Paypal",FALSE,70,1
+2183,1278,"Lisa Juarez","Female",18,607,21658,"Spain","Andalusia","Malaga","Google-ads","home appliances","toaster","$40 ","$60 ",2,FALSE,"20-08-2029 23:02","20-01-2019 00:00",NA,NA,120,1
+2184,1418,"Kelly Moore","Male",28,682,50958,"Japan","Kanagawa","Sagamihara","Billboard-QR code","electronics","table fan","$30 ","$50 ",4,TRUE,"20-07-2009 22:05","20-09-2020 09:22","Paypal",FALSE,200,0
+2185,1453,"Scott Martin","Male",15,NA,NA,"Italy","Lazio","Rome","Facebook-ads","home appliances","toaster","$40 ","$60 ",3,FALSE,"20-08-2014 21:03","20-01-2019 00:00",NA,NA,180,0
+2186,1481,"David Berry","Female",34,697,44654,"Japan","Tokyo","Yokohama","Facebook-ads","home appliances","electric stove","$250 ","$400 ",2,FALSE,"20-01-2013 22:21","20-01-2019 00:00",NA,NA,800,1
+2187,1373,"John Henry","Female",55,707,58533,"UK","England","Manchester","Facebook-ads","books","novel","$10 ","$18 ",4,TRUE,"20-11-2002 21:00","20-12-2020 02:21","Credit Card",FALSE,72,1
+2188,1048,"Kyle Griffin","Female",28,692,51446,"USA","Texas","San Antonio","Billboard-QR code","home appliances","toaster","$40 ","$60 ",4,TRUE,"20-09-2007 20:05","20-10-2020 07:20","Paypal",FALSE,240,1
+2189,1226,"Tina Smith","Female",22,656,22154,"Italy","Lombardy","Bergamo","Twitter-ads","books","textbook","$30 ","$50 ",1,FALSE,"20-02-2015 23:13","20-01-2019 00:00",NA,NA,50,1
+2190,1243,"Sarah Holloway","Female",14,NA,NA,"Australia","New South Wales","Newcastle","Twitter-ads","toys","puzzle","$15 ","$25 ",5,TRUE,"20-07-2023 21:06","20-07-2025 21:09","Credit Card",FALSE,125,1
+2191,1148,"Jeremy Lee","Male",38,687,41962,"India","Maharashtra","Mumbai","Facebook-ads","toys","plush toy","$12 ","$20 ",5,TRUE,"20-01-2004 22:21","20-05-2020 04:22","Credit Card",FALSE,100,0
+2192,1093,"Angelica Adams","Female",28,699,44451,"Canada","Ontario","Mississauga","Google-ads","toys","puzzle","$15 ","$25 ",1,FALSE,"20-10-2030 20:13","20-01-2019 00:00",NA,NA,25,1
+2193,1258,"Peter Hobbs","Male",65,751,59126,"China","Shandong","Jinan","Billboard-QR code","books","autobiography","$20 ","$35 ",3,TRUE,"20-04-2018 20:18","20-04-2020 19:20","Debit Card",FALSE,105,0
+2194,1180,"Curtis Howard","Female",74,757,59959,"Spain","Catalonia","Tarragona","Twitter-ads","fashion","shoes","$60 ","$100 ",2,TRUE,"20-09-2011 23:23","20-12-2020 11:23","Cash On Delivery",FALSE,200,1
+2195,1082,"Jacqueline Pruitt","Female",24,600,32767,"Australia","New South Wales","Wollongong","Facebook-ads","toys","puzzle","$15 ","$25 ",3,TRUE,"20-02-2001 22:22","20-03-2020 01:22","Paypal",FALSE,75,1
+2196,1207,"Rachel Harris","Female",37,691,44430,"Italy","Lombardy","Brescia","Instagram-ads","books","textbook","$30 ","$50 ",5,TRUE,"20-11-2002 22:23","20-02-2020 18:22","Cash On Delivery",FALSE,250,1
+2197,1288,"Lisa Rivera","Female",72,756,59007,"Japan","Tokyo","Tokyo","Twitter-ads","home appliances","electric stove","$250 ","$400 ",3,TRUE,"20-09-2022 21:07","20-09-2020 23:21","Credit Card",FALSE,1200,1
+2198,1129,"Stephen Pearson","Female",14,NA,NA,"Japan","Tokyo","Yokohama","Twitter-ads","toys","plush toy","$12 ","$20 ",2,TRUE,"20-04-2023 20:23","20-04-2029 20:13","Paypal",FALSE,40,1
+2199,1076,"Monica Smith","Male",24,632,17006,"Italy","Lazio","Rome","Instagram-ads","books","textbook","$30 ","$50 ",5,TRUE,"20-02-2019 20:22","20-02-2020 22:20","Credit Card",FALSE,250,0
+2200,1084,"Tara Norton","Male",46,727,58650,"Italy","Lazio","Frosinone","E-mails","home appliances","microwave oven","$300 ","$500 ",4,FALSE,"20-12-2031 23:03","20-01-2019 00:00",NA,NA,2000,0
+2201,1215,"Aaron Cox","Female",44,730,56568,"India","Uttar Pradesh","Kanpur","Google-ads","home appliances","toaster","$40 ","$60 ",4,TRUE,"20-10-2020 21:20","20-10-2025 21:22","Credit Card",FALSE,240,1
+2202,1095,"Jasmine Brown","Female",67,743,59909,"USA","Texas","San Antonio","E-mails","fashion","jeans","$40 ","$70 ",2,FALSE,"20-03-2025 22:09","20-01-2019 00:00",NA,NA,140,1
+2203,1036,"Courtney Palmer","Male",45,703,56570,"Canada","Quebec","Quebec City","Google-ads","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-06-2002 23:01","20-12-2020 02:23","Cash On Delivery",FALSE,40,0
+2204,1425,"Christopher Tran","Female",23,655,37563,"UK","Scotland","Aberdeen","E-mails","fashion","jeans","$40 ","$70 ",3,TRUE,"20-03-2013 23:04","20-03-2020 18:23","Paypal",FALSE,210,1
+2205,1156,"Megan Vaughan","Male",51,714,58739,"Australia","New South Wales","Newcastle","Instagram-ads","books","textbook","$30 ","$50 ",1,FALSE,"20-05-2009 20:04","20-01-2019 00:00",NA,NA,50,0
+2206,1261,"Thomas Smith","Male",20,645,28659,"Canada","Ontario","Toronto","Google-ads","fashion","dress","$50 ","$80 ",2,TRUE,"20-05-2019 21:15","20-05-2020 19:21","Debit Card",FALSE,160,0
+2207,1312,"Alyssa Berry","Female",62,746,59263,"China","Shandong","Yantai","Twitter-ads","fashion","jeans","$40 ","$70 ",1,TRUE,"20-11-2019 21:15","20-11-2020 21:21","Debit Card",FALSE,70,1
+2208,1044,"Thomas Fitzgerald","Male",28,684,45763,"Canada","Ontario","Ottawa","Twitter-ads","toys","puzzle","$15 ","$25 ",1,TRUE,"20-10-2008 22:18","20-08-2020 16:22","Paypal",FALSE,25,0
+2209,1324,"Nicole Wilson","Male",29,698,44716,"UK","Scotland","Glasgow","Instagram-ads","fashion","jeans","$40 ","$70 ",1,FALSE,"20-08-2009 21:08","20-01-2019 00:00",NA,NA,70,0
+2210,1363,"Tristan Brown","Male",62,760,59599,"Japan","Tokyo","Tokyo","E-mails","toys","puzzle","$15 ","$25 ",1,FALSE,"20-10-2020 23:16","20-01-2019 00:00",NA,NA,25,0
+2211,1387,"Robert Harrison","Female",50,706,59622,"UK","England","Birmingham","E-mails","electronics","laptop","$800 ","$1,200 ",1,TRUE,"20-12-2016 22:08","20-12-2020 20:22","Credit Card",FALSE,1200,1
+2212,1310,"David Lara","Female",57,709,60892,"Italy","Lazio","Rome","Google-ads","home appliances","microwave oven","$300 ","$500 ",2,TRUE,"20-05-2025 21:07","20-05-2029 21:20","Cash On Delivery",FALSE,1000,1
+2214,1278,"Lisa Juarez","Female",18,607,21658,"Spain","Andalusia","Malaga","Twitter-ads","fashion","jeans","$40 ","$70 ",2,FALSE,"20-08-2003 20:15","20-01-2019 00:00",NA,NA,140,1
+2215,1098,"Kenneth Castro","Male",22,628,21115,"Australia","Victoria","Ballarat","Instagram-ads","toys","action figure","$8 ","$15 ",2,TRUE,"20-06-2028 22:12","20-06-2030 22:07","Debit Card",FALSE,30,0
+2217,1237,"Charlotte Bailey","Female",18,637,25204,"Japan","Tokyo","Kawasaki","Facebook-ads","toys","board game","$20 ","$35 ",3,TRUE,"20-01-2006 23:09","20-08-2020 06:23","Cash On Delivery",FALSE,105,1
+2218,1000,"Michael Saunders","Male",74,747,59129,"Canada","Quebec","Laval","Instagram-ads","home appliances","electric stove","$250 ","$400 ",1,TRUE,"20-10-2003 22:11","20-03-2020 13:22","Credit Card",FALSE,400,0
+2219,1300,"Sara Patel","Male",41,682,44342,"China","Guangdong","Guangzhou","Google-ads","books","novel","$10 ","$18 ",1,TRUE,"20-09-2018 23:02","21-09-2020 00:23","Credit Card",FALSE,18,0
+2220,1110,"Kristen Schaefer","Female",19,672,21454,"Japan","Tokyo","Tokyo","Billboard-QR code","electronics","laptop","$800 ","$1,200 ",2,TRUE,"20-02-2027 21:12","20-02-2020 03:21","Debit Card",FALSE,2400,1
+2221,1331,"Nathan Carson","Male",18,623,25555,"China","Guangdong","Shenzhen","E-mails","fashion","jeans","$40 ","$70 ",5,FALSE,"20-01-2006 22:09","20-01-2019 00:00",NA,NA,350,0
+2222,1146,"Richard Baker","Male",71,749,59512,"China","Shandong","Yantai","Facebook-ads","home appliances","mixer grinder","$60 ","$90 ",1,TRUE,"20-03-2028 20:17","20-03-2020 04:20","Cash On Delivery",FALSE,90,0
+2223,1070,"Susan Stevenson","Male",21,609,39508,"Canada","Ontario","Mississauga","Instagram-ads","home appliances","mixer grinder","$60 ","$90 ",1,TRUE,"20-01-2012 20:15","20-02-2020 12:20","Credit Card",FALSE,90,0
+2224,1216,"Kyle Williams","Male",68,747,59926,"Japan","Kanagawa","Yokohama","Facebook-ads","toys","plush toy","$12 ","$20 ",2,TRUE,"20-05-2029 23:03","20-05-2031 23:12","Debit Card",TRUE,40,0
+2225,1152,"Danielle Williams","Male",38,698,41718,"Canada","Quebec","Laval","Billboard-QR code","books","magazine","$5 ","$8 ",4,TRUE,"20-10-2002 22:03","20-02-2020 13:22","Cash On Delivery",TRUE,32,0
+2226,1045,"Connor Carlson","Female",26,616,15958,"India","Maharashtra","Pune","Google-ads","fashion","t-shirt","$15 ","$25 ",1,TRUE,"20-02-2016 21:08","20-02-2020 16:21","Debit Card",FALSE,25,1
+2227,1454,"Thomas Castillo","Female",79,745,59646,"Japan","Kanagawa","Sagamihara","Google-ads","electronics","table fan","$30 ","$50 ",4,FALSE,"20-12-2006 20:21","20-01-2019 00:00",NA,NA,200,1
+2228,1352,"Mrs. Jennifer Johnson DDS","Male",28,699,51242,"Australia","New South Wales","Sydney","Instagram-ads","books","magazine","$5 ","$8 ",1,TRUE,"20-11-2005 20:12","20-05-2020 17:20","Cash On Delivery",FALSE,8,0
+2229,1452,"Samuel Hudson","Female",48,725,58207,"China","Shandong","Qingdao","E-mails","electronics","television","$1,000 ","$1,500 ",5,TRUE,"20-10-2024 22:18","20-10-2026 22:11","Debit Card",TRUE,7500,1
+2230,1144,"Joseph Brown","Female",69,743,59705,"Italy","Lombardy","Bergamo","Twitter-ads","home appliances","electric stove","$250 ","$400 ",1,TRUE,"20-09-2020 22:10","20-09-2020 23:22","Cash On Delivery",FALSE,400,1
+2231,1218,"Nancy Richards","Male",71,752,59309,"Canada","Ontario","Toronto","Twitter-ads","books","textbook","$30 ","$50 ",3,FALSE,"20-02-2012 21:12","20-01-2019 00:00",NA,NA,150,0
+2232,1029,"Grace Sutton","Female",60,757,59503,"Australia","Victoria","Geelong","Google-ads","fashion","shoes","$60 ","$100 ",3,TRUE,"20-05-2029 23:06","20-05-2030 23:22","Cash On Delivery",FALSE,300,1
+2233,1171,"April Blair","Female",65,746,59651,"Italy","Lombardy","Bergamo","Instagram-ads","fashion","jeans","$40 ","$70 ",4,TRUE,"20-02-2016 21:03","20-02-2020 22:21","Credit Card",FALSE,280,1
+2234,1101,"Katherine Maddox","Female",60,755,59103,"Spain","Andalusia","Granada","Facebook-ads","toys","action figure","$8 ","$15 ",1,FALSE,"20-01-2010 21:21","20-01-2019 00:00",NA,NA,15,1
+2235,1018,"Aaron Cooper","Female",49,726,58638,"Spain","Andalusia","Malaga","E-mails","fashion","jeans","$40 ","$70 ",1,TRUE,"20-02-2013 20:05","20-02-2020 15:20","Paypal",TRUE,70,1
+2237,1240,"Craig Bailey","Female",54,739,60221,"USA","California","Los Angeles","E-mails","books","novel","$10 ","$18 ",4,TRUE,"20-07-2003 21:07","20-11-2020 03:21","Cash On Delivery",TRUE,72,1
+2239,1338,"Marcus Meadows","Male",35,684,48477,"USA","Texas","San Antonio","Billboard-QR code","home appliances","electric stove","$250 ","$400 ",5,FALSE,"20-02-2001 20:22","20-01-2019 00:00",NA,NA,2000,0
+2240,1385,"Brett Mayo","Male",57,732,59050,"Canada","Quebec","Quebec City","Billboard-QR code","electronics","television","$1,000 ","$1,500 ",4,FALSE,"20-11-2019 23:10","20-01-2019 00:00",NA,NA,6000,0
+2241,1065,"Kevin Pineda","Female",23,639,21237,"UK","England","Birmingham","Twitter-ads","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-02-2015 22:15","20-02-2020 21:22","Credit Card",FALSE,100,1
+2243,1445,"Martin Kelly","Male",17,NA,NA,"Canada","Ontario","Mississauga","Instagram-ads","fashion","dress","$50 ","$80 ",3,TRUE,"20-02-2022 23:01","20-02-2028 23:08","Paypal",FALSE,240,0
+2244,1113,"Andrew Murphy","Male",73,743,59061,"UK","Scotland","Edinburgh","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-03-2005 20:04","20-08-2020 05:20","Paypal",FALSE,500,0
+2245,1267,"Tracy Lowe","Male",32,687,50488,"Spain","Andalusia","Granada","Twitter-ads","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-02-2022 23:12","21-02-2020 00:23","Cash On Delivery",FALSE,160,0
+2246,1466,"Shannon Munoz MD","Male",73,742,59316,"Canada","Ontario","Mississauga","Facebook-ads","electronics","laptop","$800 ","$1,200 ",5,TRUE,"20-11-2007 23:12","20-07-2020 14:23","Paypal",FALSE,6000,0
+2247,1468,"Mrs. Jennifer Scott","Male",62,756,59229,"Australia","Victoria","Geelong","E-mails","books","textbook","$30 ","$50 ",3,TRUE,"20-09-2022 23:11","20-09-2027 23:01","Debit Card",FALSE,150,0
+2248,1498,"Patricia Rasmussen","Female",17,NA,NA,"Italy","Lazio","Latina","Twitter-ads","books","autobiography","$20 ","$35 ",5,TRUE,"20-03-2013 22:20","20-03-2020 18:22","Cash On Delivery",FALSE,175,1
+2249,1172,"Edward Little","Male",18,653,16725,"USA","Texas","Houston","Google-ads","fashion","shoes","$60 ","$100 ",5,FALSE,"20-01-2026 21:15","20-01-2019 00:00",NA,NA,500,0
+2250,1404,"Angela Griffith DVM","Female",77,758,59108,"Italy","Lombardy","Milan","Billboard-QR code","books","novel","$10 ","$18 ",3,TRUE,"20-02-2008 21:19","20-05-2020 08:21","Credit Card",TRUE,54,1
+2252,1373,"John Henry","Female",55,707,58533,"UK","England","Manchester","Instagram-ads","books","magazine","$5 ","$8 ",4,TRUE,"20-06-2012 23:16","20-07-2020 12:23","Cash On Delivery",FALSE,32,1
+2253,1472,"Cory Morales","Female",46,733,59171,"Spain","Andalusia","Granada","Instagram-ads","electronics","hair dryer","$25 ","$40 ",5,TRUE,"20-04-2022 22:08","20-04-2028 22:16","Cash On Delivery",FALSE,200,1
+2254,1383,"Amanda Anderson","Female",44,713,60323,"Australia","New South Wales","Newcastle","Google-ads","toys","puzzle","$15 ","$25 ",5,TRUE,"20-05-2015 20:08","20-05-2020 19:20","Credit Card",FALSE,125,1
+2255,1202,"Makayla Coleman","Male",57,716,56965,"Spain","Andalusia","Granada","Facebook-ads","electronics","table fan","$30 ","$50 ",5,TRUE,"20-10-2002 20:16","20-02-2020 13:20","Debit Card",FALSE,250,0
+2256,1424,"Anthony Hall","Female",31,689,44474,"Canada","Quebec","Quebec City","Instagram-ads","fashion","shoes","$60 ","$100 ",5,FALSE,"20-11-2009 21:10","20-01-2019 00:00",NA,NA,500,1
+2257,1281,"Dawn Wood","Female",77,749,59681,"Australia","Victoria","Geelong","Billboard-QR code","fashion","dress","$50 ","$80 ",3,TRUE,"20-10-2006 23:06","20-06-2020 16:23","Cash On Delivery",FALSE,240,1
+2258,1004,"Allen Bass","Male",33,695,47139,"UK","Scotland","Aberdeen","E-mails","electronics","laptop","$800 ","$1,200 ",4,TRUE,"20-06-2028 20:12","20-01-2020 07:20","Debit Card",FALSE,4800,0
+2259,1059,"Dorothy Gibson","Male",37,696,51219,"UK","England","London","E-mails","electronics","laptop","$800 ","$1,200 ",5,TRUE,"20-03-2029 21:01","20-03-2029 21:18","Credit Card",FALSE,6000,0
+2260,1404,"Angela Griffith DVM","Female",77,758,59108,"Italy","Lombardy","Milan","Facebook-ads","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-07-2018 21:05","20-07-2020 23:21","Debit Card",FALSE,500,1
+2261,1428,"Lisa Gonzalez","Male",66,757,59577,"Australia","New South Wales","Wollongong","Facebook-ads","fashion","t-shirt","$15 ","$25 ",5,FALSE,"20-04-2012 20:22","20-01-2019 00:00",NA,NA,125,0
+2262,1469,"Paula Ware","Female",46,707,56645,"Italy","Lombardy","Bergamo","Billboard-QR code","home appliances","electric stove","$250 ","$400 ",3,FALSE,"20-02-2002 21:10","20-01-2019 00:00",NA,NA,1200,1
+2263,1150,"Patrick Smith II","Male",49,736,57881,"Japan","Kanagawa","Kawasaki","Twitter-ads","toys","board game","$20 ","$35 ",4,FALSE,"20-03-2021 22:02","20-01-2019 00:00",NA,NA,140,0
+2265,1471,"Kyle Thompson","Male",40,686,48116,"Canada","Ontario","Mississauga","E-mails","books","autobiography","$20 ","$35 ",5,TRUE,"20-06-2028 20:22","20-03-2020 07:20","Debit Card",FALSE,175,0
+2267,1486,"Jordan Hoffman","Female",29,695,44738,"Australia","Victoria","Geelong","Google-ads","books","textbook","$30 ","$50 ",5,TRUE,"20-09-2030 21:04","20-03-2020 10:21","Cash On Delivery",FALSE,250,1
+2268,1094,"Mary Durham DVM","Female",36,683,47043,"USA","Texas","San Antonio","Google-ads","electronics","laptop","$800 ","$1,200 ",2,FALSE,"20-12-2019 21:08","20-01-2019 00:00",NA,NA,2400,1
+2269,1369,"Kelsey Richardson","Female",71,758,59890,"China","Shandong","Jinan","Instagram-ads","electronics","table fan","$30 ","$50 ",1,FALSE,"20-05-2013 20:19","20-01-2019 00:00",NA,NA,50,1
+2270,1094,"Mary Durham DVM","Female",36,683,47043,"USA","Texas","San Antonio","Billboard-QR code","electronics","table fan","$30 ","$50 ",3,FALSE,"20-03-2025 23:18","20-01-2019 00:00",NA,NA,150,1
+2271,1117,"Robert Hill","Male",53,727,56958,"Australia","Victoria","Melbourne","Twitter-ads","toys","plush toy","$12 ","$20 ",1,TRUE,"20-08-2019 23:02","21-08-2020 00:23","Cash On Delivery",FALSE,20,0
+2272,1140,"Jonathan Sherman","Female",47,721,57584,"Canada","Ontario","Mississauga","Twitter-ads","toys","board game","$20 ","$35 ",4,TRUE,"20-04-2018 23:12","20-04-2020 20:23","Cash On Delivery",FALSE,140,1
+2273,1185,"Bryan Nguyen","Male",49,701,56463,"Japan","Tokyo","Tokyo","Instagram-ads","toys","puzzle","$15 ","$25 ",4,TRUE,"20-04-2024 21:19","20-04-2028 21:11","Cash On Delivery",FALSE,100,0
+2274,1362,"Maria Adams","Male",62,753,59916,"India","Maharashtra","Mumbai","Instagram-ads","toys","puzzle","$15 ","$25 ",5,TRUE,"20-01-2011 23:04","20-06-2020 11:23","Paypal",FALSE,125,0
+2275,1260,"Shelly Anderson","Male",32,694,50095,"USA","Texas","Houston","Twitter-ads","fashion","t-shirt","$15 ","$25 ",5,FALSE,"20-08-2018 21:12","20-01-2019 00:00",NA,NA,125,0
+2276,1389,"Jason Bryant","Male",69,748,59458,"Australia","Victoria","Ballarat","E-mails","home appliances","toaster","$40 ","$60 ",4,TRUE,"20-12-2019 22:10","20-12-2020 20:22","Credit Card",FALSE,240,0
+2277,1184,"Christopher Abbott","Male",26,637,35464,"Japan","Tokyo","Yokohama","Google-ads","toys","board game","$20 ","$35 ",4,FALSE,"20-12-2007 22:02","20-01-2019 00:00",NA,NA,140,0
+2278,1127,"Michael Weber","Male",71,752,59963,"Australia","Victoria","Melbourne","E-mails","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-03-2007 21:18","20-06-2020 07:21","Cash On Delivery",FALSE,1500,0
+2279,1327,"Heather Moore","Female",20,649,21530,"India","Uttar Pradesh","Lucknow","Instagram-ads","home appliances","mixer grinder","$60 ","$90 ",4,TRUE,"20-06-2008 20:08","20-12-2020 08:20","Paypal",FALSE,360,1
+2280,1244,"Marie Graves","Female",71,748,59793,"Canada","Quebec","Laval","Facebook-ads","fashion","shoes","$60 ","$100 ",2,TRUE,"20-07-2003 20:04","20-08-2020 03:20","Paypal",FALSE,200,1
+2281,1226,"Tina Smith","Female",22,656,22154,"Italy","Lombardy","Bergamo","Google-ads","electronics","table fan","$30 ","$50 ",5,TRUE,"20-06-2013 22:12","20-06-2020 19:22","Cash On Delivery",FALSE,250,1
+2282,1000,"Michael Saunders","Male",74,747,59129,"Canada","Quebec","Laval","E-mails","books","magazine","$5 ","$8 ",2,TRUE,"20-06-2005 21:18","20-05-2020 13:21","Cash On Delivery",FALSE,16,0
+2283,1243,"Sarah Holloway","Female",14,NA,NA,"Australia","New South Wales","Newcastle","E-mails","books","novel","$10 ","$18 ",2,FALSE,"20-04-2001 21:16","20-01-2019 00:00",NA,NA,36,1
+2284,1344,"Kristin Koch","Male",63,749,59343,"India","Maharashtra","Nagpur","Twitter-ads","books","autobiography","$20 ","$35 ",4,TRUE,"20-01-2030 22:11","20-05-2020 02:22","Debit Card",FALSE,140,0
+2285,1435,"Joshua Williams","Male",52,715,58739,"USA","Texas","San Antonio","Facebook-ads","toys","plush toy","$12 ","$20 ",3,FALSE,"20-06-2021 20:19","20-01-2019 00:00",NA,NA,60,0
+2286,1024,"Regina Mcfarland","Female",53,730,58533,"India","Maharashtra","Mumbai","Google-ads","books","novel","$10 ","$18 ",4,TRUE,"20-03-2015 21:23","20-03-2020 22:21","Paypal",FALSE,72,1
+2287,1104,"Angel Lewis","Female",79,760,59455,"India","Uttar Pradesh","Ghaziabad","Instagram-ads","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-01-2001 21:14","20-08-2020 01:21","Paypal",FALSE,500,1
+2288,1218,"Nancy Richards","Male",71,752,59309,"Canada","Ontario","Toronto","Twitter-ads","books","novel","$10 ","$18 ",2,FALSE,"20-02-2028 20:12","20-01-2019 00:00",NA,NA,36,0
+2289,1051,"Amber Vargas","Female",41,697,41444,"Spain","Andalusia","Seville","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",5,TRUE,"20-07-2028 20:04","20-07-2028 20:10","Debit Card",FALSE,125,1
+2290,1025,"Jonathan Flores","Female",76,742,59555,"Italy","Lazio","Frosinone","Twitter-ads","toys","plush toy","$12 ","$20 ",5,TRUE,"20-07-2006 20:03","20-12-2020 06:20","Paypal",FALSE,100,1
+2291,1278,"Lisa Juarez","Female",18,607,21658,"Spain","Andalusia","Malaga","E-mails","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-09-2017 21:20","20-09-2020 18:21","Credit Card",FALSE,100,1
+2292,1418,"Kelly Moore","Male",28,682,50958,"Japan","Kanagawa","Sagamihara","Instagram-ads","toys","plush toy","$12 ","$20 ",2,TRUE,"20-02-2017 20:00","20-02-2020 17:20","Debit Card",FALSE,40,0
+2293,1453,"Scott Martin","Male",15,NA,NA,"Italy","Lazio","Rome","Twitter-ads","toys","plush toy","$12 ","$20 ",1,TRUE,"20-08-2011 22:17","20-11-2020 11:22","Paypal",FALSE,20,0
+2294,1481,"David Berry","Female",34,697,44654,"Japan","Tokyo","Yokohama","Instagram-ads","fashion","t-shirt","$15 ","$25 ",2,TRUE,"20-04-2012 21:03","20-10-2020 12:21","Cash On Delivery",FALSE,50,1
+2295,1373,"John Henry","Female",55,707,58533,"UK","England","Manchester","Billboard-QR code","fashion","dress","$50 ","$80 ",5,FALSE,"20-06-2025 23:17","20-01-2019 00:00",NA,NA,400,1
+2296,1048,"Kyle Griffin","Female",28,692,51446,"USA","Texas","San Antonio","Instagram-ads","toys","action figure","$8 ","$15 ",4,TRUE,"20-03-2028 22:14","20-03-2030 22:05","Cash On Delivery",FALSE,60,1
+2297,1226,"Tina Smith","Female",22,656,22154,"Italy","Lombardy","Bergamo","Instagram-ads","electronics","table fan","$30 ","$50 ",4,FALSE,"20-11-2010 23:07","20-01-2019 00:00",NA,NA,200,1
+2298,1243,"Sarah Holloway","Female",14,NA,NA,"Australia","New South Wales","Newcastle","Billboard-QR code","electronics","table fan","$30 ","$50 ",1,FALSE,"20-06-2002 20:06","20-01-2019 00:00",NA,NA,50,1
+2299,1148,"Jeremy Lee","Male",38,687,41962,"India","Maharashtra","Mumbai","E-mails","electronics","table fan","$30 ","$50 ",1,TRUE,"20-06-2018 21:00","20-06-2020 23:21","Paypal",FALSE,50,0
+2300,1093,"Angelica Adams","Female",28,699,44451,"Canada","Ontario","Mississauga","Twitter-ads","books","novel","$10 ","$18 ",4,TRUE,"20-05-2007 21:17","20-07-2020 07:21","Paypal",FALSE,72,1
+2301,1258,"Peter Hobbs","Male",65,751,59126,"China","Shandong","Jinan","Google-ads","fashion","shoes","$60 ","$100 ",3,TRUE,"20-04-2007 22:15","20-10-2020 07:22","Paypal",FALSE,300,0
+2302,1180,"Curtis Howard","Female",74,757,59959,"Spain","Catalonia","Tarragona","Facebook-ads","home appliances","mixer grinder","$60 ","$90 ",5,TRUE,"20-09-2023 23:07","20-09-2027 23:15","Credit Card",FALSE,450,1
+2303,1082,"Jacqueline Pruitt","Female",24,600,32767,"Australia","New South Wales","Wollongong","Google-ads","fashion","jeans","$40 ","$70 ",2,TRUE,"20-07-2018 23:09","20-07-2020 22:23","Debit Card",FALSE,140,1
+2304,1207,"Rachel Harris","Female",37,691,44430,"Italy","Lombardy","Brescia","Twitter-ads","fashion","shoes","$60 ","$100 ",5,TRUE,"20-11-2017 21:23","20-11-2020 18:21","Paypal",FALSE,500,1
+2305,1288,"Lisa Rivera","Female",72,756,59007,"Japan","Tokyo","Tokyo","Google-ads","toys","plush toy","$12 ","$20 ",3,TRUE,"20-09-2009 23:20","20-09-2020 16:23","Credit Card",FALSE,60,1
+2306,1129,"Stephen Pearson","Female",14,NA,NA,"Japan","Tokyo","Yokohama","Google-ads","toys","action figure","$8 ","$15 ",1,TRUE,"20-06-2023 20:16","20-06-2025 20:03","Debit Card",FALSE,15,1
+2307,1076,"Monica Smith","Male",24,632,17006,"Italy","Lazio","Rome","Facebook-ads","electronics","television","$1,000 ","$1,500 ",5,FALSE,"20-03-2029 23:07","20-01-2019 00:00",NA,NA,7500,0
+2308,1084,"Tara Norton","Male",46,727,58650,"Italy","Lazio","Frosinone","E-mails","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-03-2014 20:08","20-03-2020 14:20","Debit Card",FALSE,2500,0
+2309,1215,"Aaron Cox","Female",44,730,56568,"India","Uttar Pradesh","Kanpur","Billboard-QR code","fashion","shoes","$60 ","$100 ",4,TRUE,"20-08-2001 23:11","20-01-2020 13:23","Paypal",TRUE,400,1
+2310,1095,"Jasmine Brown","Female",67,743,59909,"USA","Texas","San Antonio","Instagram-ads","home appliances","mixer grinder","$60 ","$90 ",1,TRUE,"20-12-2011 20:21","20-11-2020 18:20","Debit Card",FALSE,90,1
+2311,1036,"Courtney Palmer","Male",45,703,56570,"Canada","Quebec","Quebec City","Google-ads","books","textbook","$30 ","$50 ",1,FALSE,"20-11-2022 21:15","20-01-2019 00:00",NA,NA,50,0
+2312,1425,"Christopher Tran","Female",23,655,37563,"UK","Scotland","Aberdeen","E-mails","fashion","shoes","$60 ","$100 ",1,TRUE,"20-08-2013 20:17","20-08-2020 15:20","Cash On Delivery",FALSE,100,1
+2313,1156,"Megan Vaughan","Male",51,714,58739,"Australia","New South Wales","Newcastle","Instagram-ads","fashion","jeans","$40 ","$70 ",3,TRUE,"20-05-2012 20:16","20-10-2020 12:20","Credit Card",TRUE,210,0
+2314,1261,"Thomas Smith","Male",20,645,28659,"Canada","Ontario","Toronto","Google-ads","books","novel","$10 ","$18 ",3,TRUE,"20-03-2002 22:07","20-06-2020 02:22","Credit Card",TRUE,54,0
+2315,1312,"Alyssa Berry","Female",62,746,59263,"China","Shandong","Yantai","Billboard-QR code","fashion","dress","$50 ","$80 ",3,FALSE,"20-06-2021 23:14","20-01-2019 00:00",NA,NA,240,1
+2316,1044,"Thomas Fitzgerald","Male",28,684,45763,"Canada","Ontario","Ottawa","Twitter-ads","fashion","shoes","$60 ","$100 ",1,FALSE,"20-03-2006 21:03","20-01-2019 00:00",NA,NA,100,0
+2317,1324,"Nicole Wilson","Male",29,698,44716,"UK","Scotland","Glasgow","Facebook-ads","electronics","laptop","$800 ","$1,200 ",2,TRUE,"20-07-2010 20:23","20-10-2020 13:20","Cash On Delivery",FALSE,2400,0
+2318,1363,"Tristan Brown","Male",62,760,59599,"Japan","Tokyo","Tokyo","Instagram-ads","books","textbook","$30 ","$50 ",3,TRUE,"20-08-2028 23:15","20-04-2020 09:23","Cash On Delivery",FALSE,150,0
+2319,1387,"Robert Harrison","Female",50,706,59622,"UK","England","Birmingham","E-mails","fashion","dress","$50 ","$80 ",4,TRUE,"20-02-2001 20:22","20-05-2020 01:20","Paypal",FALSE,320,1
+2320,1310,"David Lara","Female",57,709,60892,"Italy","Lazio","Rome","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",4,FALSE,"20-06-2030 21:00","20-01-2019 00:00",NA,NA,2000,1
+2321,1278,"Lisa Juarez","Female",18,607,21658,"Spain","Andalusia","Malaga","Twitter-ads","toys","action figure","$8 ","$15 ",2,FALSE,"20-05-2009 20:02","20-01-2019 00:00",NA,NA,30,1
+2322,1098,"Kenneth Castro","Male",22,628,21115,"Australia","Victoria","Ballarat","Instagram-ads","books","textbook","$30 ","$50 ",3,TRUE,"20-01-2001 22:02","20-05-2020 01:22","Paypal",FALSE,150,0
+2323,1237,"Charlotte Bailey","Female",18,637,25204,"Japan","Tokyo","Kawasaki","Instagram-ads","home appliances","mixer grinder","$60 ","$90 ",2,TRUE,"20-09-2015 20:14","20-09-2020 21:20","Debit Card",FALSE,180,1
+2324,1000,"Michael Saunders","Male",74,747,59129,"Canada","Quebec","Laval","E-mails","electronics","laptop","$800 ","$1,200 ",4,TRUE,"20-06-2009 23:12","20-10-2020 09:23","Credit Card",FALSE,4800,0
+2325,1300,"Sara Patel","Male",41,682,44342,"China","Guangdong","Guangzhou","Google-ads","electronics","television","$1,000 ","$1,500 ",4,TRUE,"20-07-2015 22:07","20-07-2020 19:22","Credit Card",FALSE,6000,0
+2326,1110,"Kristen Schaefer","Female",19,672,21454,"Japan","Tokyo","Tokyo","Google-ads","home appliances","electric stove","$250 ","$400 ",3,TRUE,"20-07-2030 20:12","20-03-2020 08:20","Cash On Delivery",FALSE,1200,1
+2327,1331,"Nathan Carson","Male",18,623,25555,"China","Guangdong","Shenzhen","E-mails","toys","plush toy","$12 ","$20 ",3,TRUE,"20-04-2017 21:06","20-04-2020 19:21","Cash On Delivery",FALSE,60,0
+2328,1146,"Richard Baker","Male",71,749,59512,"China","Shandong","Yantai","Instagram-ads","books","textbook","$30 ","$50 ",5,FALSE,"20-07-2024 22:08","20-01-2019 00:00",NA,NA,250,0
+2329,1070,"Susan Stevenson","Male",21,609,39508,"Canada","Ontario","Mississauga","Instagram-ads","fashion","dress","$50 ","$80 ",2,FALSE,"20-12-2002 20:23","20-01-2019 00:00",NA,NA,160,0
+2330,1216,"Kyle Williams","Male",68,747,59926,"Japan","Kanagawa","Yokohama","Billboard-QR code","books","magazine","$5 ","$8 ",5,TRUE,"20-02-2023 21:16","20-02-2020 03:21","Paypal",FALSE,40,0
+2332,1152,"Danielle Williams","Male",38,698,41718,"Canada","Quebec","Laval","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",5,FALSE,"20-02-2011 23:01","20-01-2019 00:00",NA,NA,125,0
+2333,1045,"Connor Carlson","Female",26,616,15958,"India","Maharashtra","Pune","Google-ads","toys","action figure","$8 ","$15 ",5,TRUE,"20-09-2022 21:21","21-09-2020 00:21","Credit Card",FALSE,75,1
+2334,1454,"Thomas Castillo","Female",79,745,59646,"Japan","Kanagawa","Sagamihara","E-mails","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-05-2005 21:13","20-12-2020 05:21","Credit Card",TRUE,300,1
+2335,1352,"Mrs. Jennifer Johnson DDS","Male",28,699,51242,"Australia","New South Wales","Sydney","E-mails","fashion","t-shirt","$15 ","$25 ",2,TRUE,"20-10-2026 21:20","20-10-2030 21:06","Cash On Delivery",FALSE,50,0
+2336,1452,"Samuel Hudson","Female",48,725,58207,"China","Shandong","Qingdao","Twitter-ads","fashion","jeans","$40 ","$70 ",4,TRUE,"20-08-2012 23:20","20-12-2020 15:23","Paypal",FALSE,280,1
+2337,1144,"Joseph Brown","Female",69,743,59705,"Italy","Lombardy","Bergamo","Instagram-ads","books","magazine","$5 ","$8 ",1,TRUE,"20-10-2021 22:12","20-10-2028 22:04","Debit Card",FALSE,8,1
+2338,1218,"Nancy Richards","Male",71,752,59309,"Canada","Ontario","Toronto","Billboard-QR code","electronics","laptop","$800 ","$1,200 ",1,TRUE,"20-01-2001 23:10","20-03-2020 01:23","Cash On Delivery",FALSE,1200,0
+2339,1029,"Grace Sutton","Female",60,757,59503,"Australia","Victoria","Geelong","Twitter-ads","books","autobiography","$20 ","$35 ",1,TRUE,"20-04-2008 21:01","20-07-2020 08:21","Debit Card",FALSE,35,1
+2340,1171,"April Blair","Female",65,746,59651,"Italy","Lombardy","Bergamo","Instagram-ads","books","autobiography","$20 ","$35 ",2,TRUE,"20-12-2015 22:09","20-12-2020 17:22","Paypal",FALSE,70,1
+2341,1101,"Katherine Maddox","Female",60,755,59103,"Spain","Andalusia","Granada","Facebook-ads","toys","action figure","$8 ","$15 ",4,FALSE,"20-05-2004 20:10","20-01-2019 00:00",NA,NA,60,1
+2342,1018,"Aaron Cooper","Female",49,726,58638,"Spain","Andalusia","Malaga","Twitter-ads","home appliances","toaster","$40 ","$60 ",5,FALSE,"20-08-2006 22:13","20-01-2019 00:00",NA,NA,300,1
+2343,1240,"Craig Bailey","Female",54,739,60221,"USA","California","Los Angeles","E-mails","home appliances","electric stove","$250 ","$400 ",5,TRUE,"20-04-2011 23:08","20-05-2020 11:23","Paypal",FALSE,2000,1
+2344,1338,"Marcus Meadows","Male",35,684,48477,"USA","Texas","San Antonio","Google-ads","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-06-2005 23:20","20-11-2020 05:23","Debit Card",FALSE,100,0
+2345,1385,"Brett Mayo","Male",57,732,59050,"Canada","Quebec","Quebec City","Google-ads","toys","board game","$20 ","$35 ",2,TRUE,"20-11-2008 23:03","20-08-2020 15:23","Paypal",FALSE,70,0
+2346,1065,"Kevin Pineda","Female",23,639,21237,"UK","England","Birmingham","E-mails","home appliances","toaster","$40 ","$60 ",4,TRUE,"20-09-2020 21:19","20-09-2025 21:12","Paypal",FALSE,240,1
+2347,1445,"Martin Kelly","Male",17,NA,NA,"Canada","Ontario","Mississauga","Twitter-ads","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-01-2023 20:03","20-01-2029 20:02","Credit Card",FALSE,40,0
+2348,1113,"Andrew Murphy","Male",73,743,59061,"UK","Scotland","Edinburgh","Billboard-QR code","electronics","laptop","$800 ","$1,200 ",3,FALSE,"20-02-2017 22:09","20-01-2019 00:00",NA,NA,3600,0
+2350,1267,"Tracy Lowe","Male",32,687,50488,"Spain","Andalusia","Granada","Facebook-ads","home appliances","mixer grinder","$60 ","$90 ",3,FALSE,"20-01-2009 20:21","20-01-2019 00:00",NA,NA,270,0
+2351,1466,"Shannon Munoz MD","Male",73,742,59316,"Canada","Ontario","Mississauga","Instagram-ads","electronics","laptop","$800 ","$1,200 ",1,TRUE,"20-05-2009 21:09","20-05-2020 09:21","Paypal",FALSE,1200,0
+2352,1468,"Mrs. Jennifer Scott","Male",62,756,59229,"Australia","Victoria","Geelong","Twitter-ads","books","novel","$10 ","$18 ",4,FALSE,"20-07-2027 22:04","20-01-2019 00:00",NA,NA,72,0
+2353,1498,"Patricia Rasmussen","Female",17,NA,NA,"Italy","Lazio","Latina","Twitter-ads","electronics","table fan","$30 ","$50 ",5,TRUE,"20-09-2002 20:09","20-11-2020 02:20","Debit Card",FALSE,250,1
+2354,1172,"Edward Little","Male",18,653,16725,"USA","Texas","Houston","E-mails","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-02-2024 23:07","20-02-2025 23:13","Credit Card",FALSE,160,0
+2355,1404,"Angela Griffith DVM","Female",77,758,59108,"Italy","Lombardy","Milan","Billboard-QR code","fashion","shoes","$60 ","$100 ",2,TRUE,"20-05-2020 22:11","20-05-2020 23:22","Paypal",FALSE,200,1
+2356,1373,"John Henry","Female",55,707,58533,"UK","England","Manchester","E-mails","home appliances","microwave oven","$300 ","$500 ",2,TRUE,"20-03-2016 21:06","20-03-2020 21:21","Paypal",FALSE,1000,1
+2357,1472,"Cory Morales","Female",46,733,59171,"Spain","Andalusia","Granada","E-mails","books","textbook","$30 ","$50 ",4,FALSE,"20-08-2008 20:11","20-01-2019 00:00",NA,NA,200,1
+2358,1383,"Amanda Anderson","Female",44,713,60323,"Australia","New South Wales","Newcastle","E-mails","books","magazine","$5 ","$8 ",2,TRUE,"20-03-2009 22:16","20-04-2020 09:22","Debit Card",FALSE,16,1
+2359,1202,"Makayla Coleman","Male",57,716,56965,"Spain","Andalusia","Granada","Billboard-QR code","toys","plush toy","$12 ","$20 ",2,TRUE,"20-11-2009 21:06","20-09-2020 16:21","Debit Card",FALSE,40,0
+2360,1424,"Anthony Hall","Female",31,689,44474,"Canada","Quebec","Quebec City","Facebook-ads","home appliances","electric stove","$250 ","$400 ",1,TRUE,"20-11-2018 20:14","20-11-2020 19:20","Cash On Delivery",TRUE,400,1
+2361,1281,"Dawn Wood","Female",77,749,59681,"Australia","Victoria","Geelong","Billboard-QR code","home appliances","toaster","$40 ","$60 ",3,TRUE,"20-11-2004 20:01","20-12-2020 04:20","Paypal",FALSE,180,1
+2362,1004,"Allen Bass","Male",33,695,47139,"UK","Scotland","Aberdeen","Instagram-ads","fashion","dress","$50 ","$80 ",3,TRUE,"20-05-2019 22:21","20-05-2020 23:22","Paypal",FALSE,240,0
+2363,1059,"Dorothy Gibson","Male",37,696,51219,"UK","England","London","Google-ads","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-01-2031 22:05","20-05-2020 02:22","Debit Card",FALSE,160,0
+2364,1404,"Angela Griffith DVM","Female",77,758,59108,"Italy","Lombardy","Milan","Twitter-ads","toys","board game","$20 ","$35 ",5,TRUE,"20-05-2021 21:14","20-05-2020 22:21","Paypal",FALSE,175,1
+2365,1428,"Lisa Gonzalez","Male",66,757,59577,"Australia","New South Wales","Wollongong","E-mails","books","magazine","$5 ","$8 ",3,TRUE,"20-10-2010 23:10","20-10-2020 13:23","Paypal",FALSE,24,0
+2366,1469,"Paula Ware","Female",46,707,56645,"Italy","Lombardy","Bergamo","Instagram-ads","electronics","table fan","$30 ","$50 ",2,TRUE,"20-09-2008 20:23","20-12-2020 08:20","Debit Card",FALSE,100,1
+2367,1150,"Patrick Smith II","Male",49,736,57881,"Japan","Kanagawa","Kawasaki","Twitter-ads","books","novel","$10 ","$18 ",4,FALSE,"20-10-2013 23:05","20-01-2019 00:00",NA,NA,72,0
+2368,1471,"Kyle Thompson","Male",40,686,48116,"Canada","Ontario","Mississauga","Billboard-QR code","books","novel","$10 ","$18 ",4,TRUE,"20-04-2025 20:02","20-04-2028 20:19","Credit Card",FALSE,72,0
+2369,1486,"Jordan Hoffman","Female",29,695,44738,"Australia","Victoria","Geelong","Facebook-ads","fashion","t-shirt","$15 ","$25 ",5,TRUE,"20-04-2029 23:10","20-06-2020 05:23","Paypal",FALSE,125,1
+2370,1094,"Mary Durham DVM","Female",36,683,47043,"USA","Texas","San Antonio","Google-ads","toys","puzzle","$15 ","$25 ",3,TRUE,"20-08-2005 22:00","20-09-2020 05:22","Cash On Delivery",FALSE,75,1
+2371,1369,"Kelsey Richardson","Female",71,758,59890,"China","Shandong","Jinan","Twitter-ads","fashion","jeans","$40 ","$70 ",3,TRUE,"20-01-2027 22:01","20-01-2031 22:08","Debit Card",FALSE,210,1
+2372,1094,"Mary Durham DVM","Female",36,683,47043,"USA","Texas","San Antonio","E-mails","books","textbook","$30 ","$50 ",3,FALSE,"20-11-2019 21:13","20-01-2019 00:00",NA,NA,150,1
+2373,1117,"Robert Hill","Male",53,727,56958,"Australia","Victoria","Melbourne","Google-ads","books","textbook","$30 ","$50 ",2,FALSE,"20-09-2024 20:21","20-01-2019 00:00",NA,NA,100,0
+2374,1140,"Jonathan Sherman","Female",47,721,57584,"Canada","Ontario","Mississauga","Twitter-ads","electronics","hair dryer","$25 ","$40 ",2,TRUE,"20-11-2004 20:19","20-04-2020 16:20","Cash On Delivery",FALSE,80,1
+2375,1185,"Bryan Nguyen","Male",49,701,56463,"Japan","Tokyo","Tokyo","Instagram-ads","fashion","shoes","$60 ","$100 ",4,TRUE,"20-09-2004 23:11","20-12-2020 04:23","Credit Card",FALSE,400,0
+2376,1362,"Maria Adams","Male",62,753,59916,"India","Maharashtra","Mumbai","Twitter-ads","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-09-2028 22:11","20-01-2020 10:22","Paypal",FALSE,300,0
+2377,1260,"Shelly Anderson","Male",32,694,50095,"USA","Texas","Houston","E-mails","books","textbook","$30 ","$50 ",5,TRUE,"20-06-2027 21:09","20-06-2028 21:00","Credit Card",FALSE,250,0
+2378,1389,"Jason Bryant","Male",69,748,59458,"Australia","Victoria","Ballarat","Facebook-ads","books","textbook","$30 ","$50 ",5,TRUE,"20-06-2005 23:12","20-08-2020 05:23","Debit Card",FALSE,250,0
+2380,1184,"Christopher Abbott","Male",26,637,35464,"Japan","Tokyo","Yokohama","Twitter-ads","home appliances","mixer grinder","$60 ","$90 ",5,TRUE,"20-07-2021 23:02","21-07-2020 00:23","Credit Card",TRUE,450,0
+2381,1127,"Michael Weber","Male",71,752,59963,"Australia","Victoria","Melbourne","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",2,TRUE,"20-11-2021 22:20","20-11-2028 22:05","Paypal",FALSE,50,0
+2382,1327,"Heather Moore","Female",20,649,21530,"India","Uttar Pradesh","Lucknow","Instagram-ads","fashion","dress","$50 ","$80 ",3,TRUE,"20-05-2021 23:02","20-05-2020 21:23","Cash On Delivery",FALSE,240,1
+2383,1244,"Marie Graves","Female",71,748,59793,"Canada","Quebec","Laval","Facebook-ads","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-02-2021 23:19","21-02-2020 00:23","Cash On Delivery",FALSE,40,1
+2384,1226,"Tina Smith","Female",22,656,22154,"Italy","Lombardy","Bergamo","Facebook-ads","electronics","table fan","$30 ","$50 ",5,TRUE,"20-10-2008 22:23","20-08-2020 16:22","Cash On Delivery",FALSE,250,1
+2385,1000,"Michael Saunders","Male",74,747,59129,"Canada","Quebec","Laval","Facebook-ads","electronics","television","$1,000 ","$1,500 ",2,TRUE,"20-05-2006 23:02","20-10-2020 06:23","Credit Card",FALSE,3000,0
+2386,1243,"Sarah Holloway","Female",14,NA,NA,"Australia","New South Wales","Newcastle","Instagram-ads","electronics","television","$1,000 ","$1,500 ",5,TRUE,"20-01-2018 23:02","20-01-2020 22:23","Paypal",FALSE,7500,1
+2387,1344,"Kristin Koch","Male",63,749,59343,"India","Maharashtra","Nagpur","Google-ads","toys","board game","$20 ","$35 ",4,TRUE,"20-01-2002 20:03","20-06-2020 02:20","Cash On Delivery",FALSE,140,0
+2388,1435,"Joshua Williams","Male",52,715,58739,"USA","Texas","San Antonio","Google-ads","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-10-2012 21:17","20-11-2020 12:21","Paypal",FALSE,2500,0
+2389,1024,"Regina Mcfarland","Female",53,730,58533,"India","Maharashtra","Mumbai","Twitter-ads","home appliances","mixer grinder","$60 ","$90 ",5,TRUE,"20-04-2022 20:08","21-04-2020 00:20","Debit Card",FALSE,450,1
+2391,1104,"Angel Lewis","Female",79,760,59455,"India","Uttar Pradesh","Ghaziabad","Twitter-ads","toys","plush toy","$12 ","$20 ",1,FALSE,"20-07-2012 21:22","20-01-2019 00:00",NA,NA,20,1
+2393,1218,"Nancy Richards","Male",71,752,59309,"Canada","Ontario","Toronto","Twitter-ads","electronics","table fan","$30 ","$50 ",2,TRUE,"20-08-2011 20:02","20-11-2020 14:20","Cash On Delivery",FALSE,100,0
+2394,1051,"Amber Vargas","Female",41,697,41444,"Spain","Andalusia","Seville","Facebook-ads","electronics","television","$1,000 ","$1,500 ",5,FALSE,"20-03-2024 22:03","20-01-2019 00:00",NA,NA,7500,1
+2395,1025,"Jonathan Flores","Female",76,742,59555,"Italy","Lazio","Frosinone","Billboard-QR code","fashion","dress","$50 ","$80 ",5,FALSE,"20-11-2028 22:01","20-01-2019 00:00",NA,NA,400,1
+2396,1278,"Lisa Juarez","Female",18,607,21658,"Spain","Andalusia","Malaga","Facebook-ads","home appliances","mixer grinder","$60 ","$90 ",2,TRUE,"20-12-2002 20:06","20-02-2020 18:20","Debit Card",FALSE,180,1
+2397,1418,"Kelly Moore","Male",28,682,50958,"Japan","Kanagawa","Sagamihara","Billboard-QR code","electronics","table fan","$30 ","$50 ",3,TRUE,"20-06-2018 23:03","21-06-2020 00:23","Credit Card",FALSE,150,0
+2398,1453,"Scott Martin","Male",15,NA,NA,"Italy","Lazio","Rome","E-mails","books","novel","$10 ","$18 ",2,TRUE,"20-07-2018 20:01","20-07-2020 19:20","Paypal",FALSE,36,0
+2399,1481,"David Berry","Female",34,697,44654,"Japan","Tokyo","Yokohama","Google-ads","electronics","hair dryer","$25 ","$40 ",2,FALSE,"20-03-2011 22:11","20-01-2019 00:00",NA,NA,80,1
+2400,1373,"John Henry","Female",55,707,58533,"UK","England","Manchester","E-mails","books","novel","$10 ","$18 ",3,TRUE,"20-01-2004 21:12","20-07-2020 04:21","Debit Card",FALSE,54,1
+2401,1048,"Kyle Griffin","Female",28,692,51446,"USA","Texas","San Antonio","Google-ads","home appliances","mixer grinder","$60 ","$90 ",2,TRUE,"20-08-2006 23:13","20-10-2020 06:23","Cash On Delivery",FALSE,180,1
+2402,1226,"Tina Smith","Female",22,656,22154,"Italy","Lombardy","Bergamo","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",5,TRUE,"20-07-2029 22:16","20-07-2030 22:13","Cash On Delivery",FALSE,450,1
+2403,1243,"Sarah Holloway","Female",14,NA,NA,"Australia","New South Wales","Newcastle","E-mails","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-09-2001 22:09","20-01-2020 14:22","Credit Card",FALSE,100,1
+2404,1148,"Jeremy Lee","Male",38,687,41962,"India","Maharashtra","Mumbai","Facebook-ads","home appliances","toaster","$40 ","$60 ",4,TRUE,"20-01-2031 20:16","20-02-2020 02:20","Debit Card",FALSE,240,0
+2405,1093,"Angelica Adams","Female",28,699,44451,"Canada","Ontario","Mississauga","Instagram-ads","toys","plush toy","$12 ","$20 ",5,TRUE,"20-09-2002 22:22","20-02-2020 16:22","Cash On Delivery",FALSE,100,1
+2406,1258,"Peter Hobbs","Male",65,751,59126,"China","Shandong","Jinan","Google-ads","home appliances","toaster","$40 ","$60 ",1,FALSE,"20-01-2005 21:13","20-01-2019 00:00",NA,NA,60,0
+2407,1180,"Curtis Howard","Female",74,757,59959,"Spain","Catalonia","Tarragona","Google-ads","fashion","dress","$50 ","$80 ",2,TRUE,"20-04-2001 23:14","20-08-2020 01:23","Credit Card",FALSE,160,1
+2408,1082,"Jacqueline Pruitt","Female",24,600,32767,"Australia","New South Wales","Wollongong","E-mails","home appliances","mixer grinder","$60 ","$90 ",3,TRUE,"20-12-2027 23:23","20-01-2021 01:00","Credit Card",TRUE,270,1
+2409,1207,"Rachel Harris","Female",37,691,44430,"Italy","Lombardy","Brescia","E-mails","electronics","table fan","$30 ","$50 ",4,FALSE,"20-08-2019 21:09","20-01-2019 00:00",NA,NA,200,1
+2410,1288,"Lisa Rivera","Female",72,756,59007,"Japan","Tokyo","Tokyo","Twitter-ads","electronics","laptop","$800 ","$1,200 ",4,FALSE,"20-10-2006 20:04","20-01-2019 00:00",NA,NA,4800,1
+2411,1129,"Stephen Pearson","Female",14,NA,NA,"Japan","Tokyo","Yokohama","Twitter-ads","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-12-2006 23:04","20-06-2020 15:23","Credit Card",FALSE,100,1
+2412,1076,"Monica Smith","Male",24,632,17006,"Italy","Lazio","Rome","Google-ads","electronics","table fan","$30 ","$50 ",1,FALSE,"20-08-2031 23:16","20-01-2019 00:00",NA,NA,50,0
+2413,1084,"Tara Norton","Male",46,727,58650,"Italy","Lazio","Frosinone","Twitter-ads","fashion","dress","$50 ","$80 ",1,TRUE,"20-02-2010 23:18","20-08-2020 10:23","Cash On Delivery",FALSE,80,0
+2414,1215,"Aaron Cox","Female",44,730,56568,"India","Uttar Pradesh","Kanpur","Billboard-QR code","books","magazine","$5 ","$8 ",4,TRUE,"20-11-2022 21:21","20-11-2029 21:06","Credit Card",FALSE,32,1
+2415,1095,"Jasmine Brown","Female",67,743,59909,"USA","Texas","San Antonio","E-mails","fashion","jeans","$40 ","$70 ",5,FALSE,"20-03-2025 22:17","20-01-2019 00:00",NA,NA,350,1
+2416,1036,"Courtney Palmer","Male",45,703,56570,"Canada","Quebec","Quebec City","Billboard-QR code","toys","board game","$20 ","$35 ",3,FALSE,"20-02-2003 21:19","20-01-2019 00:00",NA,NA,105,0
+2417,1425,"Christopher Tran","Female",23,655,37563,"UK","Scotland","Aberdeen","E-mails","fashion","shoes","$60 ","$100 ",5,FALSE,"20-12-2030 23:20","20-01-2019 00:00",NA,NA,500,1
+2418,1156,"Megan Vaughan","Male",51,714,58739,"Australia","New South Wales","Newcastle","E-mails","fashion","t-shirt","$15 ","$25 ",1,TRUE,"20-12-2025 22:01","20-12-2028 22:23","Cash On Delivery",FALSE,25,0
+2419,1261,"Thomas Smith","Male",20,645,28659,"Canada","Ontario","Toronto","Google-ads","electronics","table fan","$30 ","$50 ",2,TRUE,"20-09-2025 20:08","20-01-2020 10:20","Debit Card",FALSE,100,0
+2420,1312,"Alyssa Berry","Female",62,746,59263,"China","Shandong","Yantai","Google-ads","toys","puzzle","$15 ","$25 ",2,FALSE,"20-08-2005 23:22","20-01-2019 00:00",NA,NA,50,1
+2421,1044,"Thomas Fitzgerald","Male",28,684,45763,"Canada","Ontario","Ottawa","Twitter-ads","toys","puzzle","$15 ","$25 ",1,TRUE,"20-11-2013 20:22","20-11-2020 16:20","Credit Card",FALSE,25,0
+2422,1064,"Kristen Bailey","Female",76,750,59183,"UK","England","Birmingham","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",5,FALSE,"20-11-2028 20:15","20-01-2019 00:00",NA,NA,2500,1
+2423,1217,"Shannon Anderson","Female",67,743,59405,"Japan","Kanagawa","Kawasaki","E-mails","toys","plush toy","$12 ","$20 ",5,FALSE,"20-04-2028 23:18","20-01-2019 00:00",NA,NA,100,1
+2424,1024,"Regina Mcfarland","Female",53,730,58533,"India","Maharashtra","Mumbai","E-mails","fashion","dress","$50 ","$80 ",5,FALSE,"20-07-2007 22:10","20-01-2019 00:00",NA,NA,400,1
+2425,1113,"Andrew Murphy","Male",73,743,59061,"UK","Scotland","Edinburgh","Facebook-ads","electronics","laptop","$800 ","$1,200 ",1,TRUE,"20-11-2015 22:22","20-11-2020 17:22","Credit Card",FALSE,1200,0
+2426,1174,"Jason Adams","Female",17,NA,NA,"USA","Texas","San Antonio","E-mails","fashion","shoes","$60 ","$100 ",3,FALSE,"20-08-2014 23:03","20-01-2019 00:00",NA,NA,300,1
+2427,1007,"Angela Chapman","Female",28,689,50284,"Australia","New South Wales","Sydney","Instagram-ads","home appliances","toaster","$40 ","$60 ",2,TRUE,"20-03-2010 21:07","20-05-2020 10:21","Credit Card",TRUE,120,1
+2428,1229,"Joanne Gallegos","Female",77,748,59342,"UK","England","London","Google-ads","home appliances","electric stove","$250 ","$400 ",1,TRUE,"20-08-2024 20:20","20-08-2027 20:16","Cash On Delivery",FALSE,400,1
+2429,1152,"Danielle Williams","Male",38,698,41718,"Canada","Quebec","Laval","Instagram-ads","electronics","laptop","$800 ","$1,200 ",5,TRUE,"20-06-2023 20:19","20-06-2028 20:23","Paypal",FALSE,6000,0
+2430,1086,"Cheryl Armstrong","Male",72,757,59678,"USA","Texas","San Antonio","E-mails","fashion","shoes","$60 ","$100 ",3,TRUE,"20-01-2004 23:06","20-05-2020 04:23","Debit Card",FALSE,300,0
+2431,1362,"Maria Adams","Male",62,753,59916,"India","Maharashtra","Mumbai","Billboard-QR code","toys","action figure","$8 ","$15 ",1,TRUE,"20-12-2020 23:12","20-12-2025 23:17","Paypal",FALSE,15,0
+2432,1049,"Bailey Reyes","Female",56,724,59142,"Spain","Andalusia","Seville","E-mails","home appliances","toaster","$40 ","$60 ",2,TRUE,"20-02-2007 22:19","20-09-2020 07:22","Credit Card",FALSE,120,1
+2433,1331,"Nathan Carson","Male",18,623,25555,"China","Guangdong","Shenzhen","Facebook-ads","books","magazine","$5 ","$8 ",4,TRUE,"20-05-2024 22:21","20-05-2025 22:03","Credit Card",FALSE,32,0
+2434,1081,"George Vargas","Male",36,686,43120,"Australia","New South Wales","Sydney","E-mails","toys","puzzle","$15 ","$25 ",5,TRUE,"20-02-2017 21:05","20-02-2020 21:21","Cash On Delivery",FALSE,125,0
+2435,1117,"Robert Hill","Male",53,727,56958,"Australia","Victoria","Melbourne","Google-ads","home appliances","mixer grinder","$60 ","$90 ",5,TRUE,"20-08-2020 21:04","20-08-2020 22:21","Paypal",FALSE,450,0
+2436,1354,"Janice Christensen","Female",26,646,27566,"India","Maharashtra","Pune","Facebook-ads","books","autobiography","$20 ","$35 ",2,TRUE,"20-09-2011 20:16","20-11-2020 16:20","Paypal",FALSE,70,1
+2437,1422,"Robert Smith","Female",40,681,43939,"Italy","Lombardy","Milan","Instagram-ads","home appliances","toaster","$40 ","$60 ",1,TRUE,"20-06-2027 22:02","20-03-2020 07:22","Credit Card",FALSE,60,1
+2438,1405,"Jessica Scott","Male",48,709,56385,"Spain","Andalusia","Granada","Facebook-ads","books","autobiography","$20 ","$35 ",1,FALSE,"20-02-2016 23:08","20-01-2019 00:00",NA,NA,35,0
+2439,1271,"Scott Thomas","Female",54,715,56243,"Australia","Victoria","Geelong","Facebook-ads","fashion","shoes","$60 ","$100 ",1,TRUE,"20-06-2001 21:09","20-11-2020 01:21","Cash On Delivery",FALSE,100,1
+2440,1206,"Loretta Campbell","Male",18,643,25545,"USA","Texas","Dallas","E-mails","electronics","table fan","$30 ","$50 ",1,TRUE,"20-10-2009 23:06","20-12-2020 09:23","Debit Card",FALSE,50,0
+2441,1242,"Shannon Hernandez","Male",40,697,43615,"Canada","Ontario","Mississauga","Google-ads","fashion","t-shirt","$15 ","$25 ",1,TRUE,"20-03-2030 20:01","20-03-2030 20:12","Credit Card",TRUE,25,0
+2442,1000,"Michael Saunders","Male",74,747,59129,"Canada","Quebec","Laval","E-mails","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-03-2006 20:21","20-05-2020 06:20","Paypal",FALSE,500,0
+2443,1124,"Annette Browning","Female",20,644,15407,"Spain","Andalusia","Granada","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",3,TRUE,"20-03-2024 22:08","20-03-2027 22:16","Cash On Delivery",FALSE,270,1
+2444,1041,"Maria Kelly","Female",17,NA,NA,"India","Uttar Pradesh","Ghaziabad","Google-ads","electronics","hair dryer","$25 ","$40 ",2,TRUE,"20-04-2004 20:17","20-08-2020 04:20","Cash On Delivery",FALSE,80,1
+2445,1060,"Brandon Johnson","Female",64,742,59747,"China","Guangdong","Dongguan","E-mails","books","autobiography","$20 ","$35 ",4,TRUE,"20-12-2018 23:13","20-12-2020 20:23","Cash On Delivery",TRUE,140,1
+2446,1204,"Daniel Dougherty","Female",15,NA,NA,"India","Maharashtra","Nagpur","Twitter-ads","home appliances","mixer grinder","$60 ","$90 ",2,TRUE,"20-06-2002 23:03","20-06-2020 02:23","Debit Card",FALSE,180,1
+2447,1351,"Mrs. Sara Morton","Female",21,603,21315,"Japan","Tokyo","Kawasaki","Twitter-ads","books","novel","$10 ","$18 ",1,FALSE,"20-10-2011 20:16","20-01-2019 00:00",NA,NA,18,1
+2448,1003,"Oscar Alvarado","Female",46,708,59165,"Japan","Kanagawa","Yokohama","Google-ads","books","textbook","$30 ","$50 ",4,TRUE,"20-01-2005 21:19","20-03-2020 05:21","Cash On Delivery",FALSE,200,1
+2449,1050,"Matthew Tapia","Female",56,722,59409,"Italy","Lombardy","Bergamo","E-mails","toys","puzzle","$15 ","$25 ",1,TRUE,"20-04-2019 21:03","20-04-2020 19:21","Cash On Delivery",FALSE,25,1
+2450,1017,"Tiffany King","Female",46,715,59931,"Japan","Kanagawa","Sagamihara","Twitter-ads","books","textbook","$30 ","$50 ",3,TRUE,"20-02-2028 20:17","20-02-2028 20:18","Cash On Delivery",FALSE,150,1
+2451,1032,"Nicole Lynn","Male",34,689,41570,"China","Guangdong","Dongguan","Billboard-QR code","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-04-2003 23:16","20-11-2020 03:23","Debit Card",FALSE,40,0
+2452,1153,"Heather David","Male",37,695,41308,"China","Guangdong","Guangzhou","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",2,TRUE,"20-11-2015 20:04","20-11-2020 18:20","Cash On Delivery",FALSE,50,0
+2453,1265,"Jennifer Mclaughlin","Female",31,696,43991,"Australia","Victoria","Geelong","E-mails","toys","plush toy","$12 ","$20 ",2,TRUE,"20-08-2024 21:12","20-08-2026 21:15","Paypal",FALSE,40,1
+2454,1402,"Justin Braun","Male",21,661,21177,"USA","California","Los Angeles","Instagram-ads","home appliances","mixer grinder","$60 ","$90 ",1,TRUE,"20-11-2028 20:12","20-05-2020 12:20","Debit Card",FALSE,90,0
+2455,1187,"Megan Clarke","Male",70,751,59718,"India","Maharashtra","Pune","Google-ads","books","autobiography","$20 ","$35 ",5,TRUE,"20-12-2021 22:18","20-12-2026 22:22","Credit Card",FALSE,175,0
+2456,1133,"Jeremiah Martinez","Male",18,633,29888,"Italy","Lombardy","Bergamo","Instagram-ads","home appliances","electric stove","$250 ","$400 ",5,TRUE,"20-08-2007 23:13","20-09-2020 07:23","Debit Card",FALSE,2000,0
+2457,1257,"Samuel Burke","Male",27,688,44326,"Spain","Catalonia","Barcelona","Google-ads","home appliances","microwave oven","$300 ","$500 ",4,TRUE,"20-03-2008 22:06","20-08-2020 08:22","Credit Card",FALSE,2000,0
+2458,1065,"Kevin Pineda","Female",23,639,21237,"UK","England","Birmingham","Billboard-QR code","toys","plush toy","$12 ","$20 ",3,FALSE,"20-03-2020 22:15","20-01-2019 00:00",NA,NA,60,1
+2459,1130,"David Fletcher","Male",72,757,59745,"China","Guangdong","Dongguan","Instagram-ads","books","textbook","$30 ","$50 ",2,TRUE,"20-06-2017 20:05","20-06-2020 21:20","Paypal",TRUE,100,0
+2460,1477,"Debra Johnson","Female",45,722,56493,"Italy","Lazio","Frosinone","Google-ads","toys","action figure","$8 ","$15 ",3,TRUE,"20-07-2030 23:20","20-07-2031 23:05","Credit Card",FALSE,45,1
+2461,1258,"Peter Hobbs","Male",65,751,59126,"China","Shandong","Jinan","Facebook-ads","toys","action figure","$8 ","$15 ",1,TRUE,"20-01-2025 23:16","20-01-2026 23:22","Credit Card",FALSE,15,0
+2462,1295,"Brittany Burgess","Male",70,755,59903,"Australia","New South Wales","Sydney","E-mails","electronics","hair dryer","$25 ","$40 ",2,TRUE,"20-10-2019 22:20","20-10-2026 22:12","Cash On Delivery",FALSE,80,0
+2463,1084,"Tara Norton","Male",46,727,58650,"Italy","Lazio","Frosinone","Facebook-ads","electronics","table fan","$30 ","$50 ",3,TRUE,"20-03-2010 22:11","20-09-2020 10:22","Debit Card",FALSE,150,0
+2464,1205,"Mary Patel","Female",27,693,46025,"USA","Texas","San Antonio","Twitter-ads","books","autobiography","$20 ","$35 ",1,TRUE,"20-10-2024 22:08","20-10-2026 22:15","Credit Card",FALSE,35,1
+2465,1216,"Kyle Williams","Male",68,747,59926,"Japan","Kanagawa","Yokohama","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",3,TRUE,"20-10-2025 23:07","20-10-2028 23:20","Debit Card",FALSE,270,0
+2466,1166,"Caitlin Zimmerman","Male",70,754,59634,"USA","California","San Diego","Google-ads","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-09-2016 21:01","20-09-2020 22:21","Credit Card",FALSE,2500,0
+2467,1409,"Laurie Brown","Male",59,760,59010,"Spain","Andalusia","Granada","Google-ads","books","autobiography","$20 ","$35 ",4,FALSE,"20-10-2018 23:12","20-01-2019 00:00",NA,NA,140,0
+2468,1094,"Mary Durham DVM","Female",36,683,47043,"USA","Texas","San Antonio","Instagram-ads","electronics","table fan","$30 ","$50 ",1,TRUE,"20-01-2030 20:16","20-01-2020 02:20","Debit Card",FALSE,50,1
+2469,1266,"Raymond Cobb","Female",45,715,56701,"Italy","Lombardy","Brescia","Twitter-ads","toys","board game","$20 ","$35 ",5,TRUE,"20-04-2024 20:20","20-04-2026 20:17","Debit Card",FALSE,175,1
+2470,1428,"Lisa Gonzalez","Male",66,757,59577,"Australia","New South Wales","Wollongong","Google-ads","books","textbook","$30 ","$50 ",3,TRUE,"20-04-2021 23:06","20-04-2028 23:00","Paypal",FALSE,150,0
+2471,1453,"Scott Martin","Male",15,NA,NA,"Italy","Lazio","Rome","Facebook-ads","electronics","television","$1,000 ","$1,500 ",3,TRUE,"20-09-2008 22:08","20-09-2020 08:22","Debit Card",FALSE,4500,0
+2472,1268,"Kenneth Robinson","Female",69,754,59990,"China","Shandong","Jinan","Instagram-ads","electronics","television","$1,000 ","$1,500 ",2,FALSE,"20-06-2009 22:08","20-01-2019 00:00",NA,NA,3000,1
+2473,1332,"Tammy Dunn","Male",33,699,45705,"India","Maharashtra","Pune","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",5,FALSE,"20-01-2014 20:13","20-01-2019 00:00",NA,NA,450,0
+2474,1022,"Teresa Small","Female",61,759,59426,"India","Uttar Pradesh","Ghaziabad","Billboard-QR code","electronics","hair dryer","$25 ","$40 ",3,TRUE,"20-08-2008 22:09","20-09-2020 08:22","Debit Card",FALSE,120,1
+2476,1472,"Cory Morales","Female",46,733,59171,"Spain","Andalusia","Granada","Facebook-ads","toys","action figure","$8 ","$15 ",5,TRUE,"20-01-2010 23:13","20-04-2020 10:23","Paypal",FALSE,75,1
+2477,1434,"Michael Taylor","Male",75,754,59295,"China","Shandong","Yantai","Google-ads","books","textbook","$30 ","$50 ",4,TRUE,"20-05-2001 23:09","20-11-2020 01:23","Paypal",FALSE,200,0
+2478,1038,"Elizabeth Orozco","Male",63,745,59751,"Australia","Victoria","Geelong","E-mails","electronics","laptop","$800 ","$1,200 ",2,TRUE,"20-03-2006 22:12","20-04-2020 06:22","Credit Card",FALSE,2400,0
+2479,1121,"Chris Kirk","Female",34,698,49955,"China","Shandong","Jinan","Billboard-QR code","books","magazine","$5 ","$8 ",2,TRUE,"20-03-2014 21:18","20-03-2020 21:21","Cash On Delivery",FALSE,16,1
+2480,1464,"Molly Coleman","Female",46,713,59796,"UK","Scotland","Glasgow","Google-ads","home appliances","toaster","$40 ","$60 ",4,TRUE,"20-08-2021 21:05","20-08-2020 22:21","Paypal",FALSE,240,1
+2481,1085,"Natasha Thomas","Male",45,726,60106,"Japan","Tokyo","Tokyo","Google-ads","fashion","shoes","$60 ","$100 ",3,FALSE,"20-08-2024 20:10","20-01-2019 00:00",NA,NA,300,0
+2482,1115,"Kevin Dominguez DDS","Female",14,NA,NA,"Japan","Kanagawa","Kawasaki","Twitter-ads","books","magazine","$5 ","$8 ",4,TRUE,"20-08-2014 21:23","20-08-2020 16:21","Cash On Delivery",FALSE,32,1
+2483,1308,"Sarah Powell","Female",58,747,59878,"USA","California","San Jose","Twitter-ads","electronics","television","$1,000 ","$1,500 ",4,TRUE,"20-01-2030 22:13","20-04-2020 02:22","Cash On Delivery",FALSE,6000,1
+2484,1424,"Anthony Hall","Female",31,689,44474,"Canada","Quebec","Quebec City","Facebook-ads","toys","puzzle","$15 ","$25 ",4,FALSE,"20-04-2015 20:12","20-01-2019 00:00",NA,NA,100,1
+2485,1473,"Steven Hernandez","Male",69,759,59690,"Japan","Kanagawa","Kawasaki","Facebook-ads","toys","puzzle","$15 ","$25 ",2,TRUE,"20-12-2009 23:13","20-09-2020 17:23","Debit Card",FALSE,50,0
+2486,1305,"Robert Lee","Male",34,694,49139,"Australia","New South Wales","Newcastle","Billboard-QR code","toys","board game","$20 ","$35 ",5,TRUE,"20-04-2014 22:03","20-04-2020 15:22","Cash On Delivery",TRUE,175,0
+2487,1391,"John Mahoney","Female",77,760,59104,"USA","California","Los Angeles","Twitter-ads","fashion","dress","$50 ","$80 ",1,TRUE,"20-11-2030 21:06","20-05-2020 12:21","Cash On Delivery",FALSE,80,1
+2488,1322,"Samuel Brown","Male",49,730,59143,"Canada","Quebec","Quebec City","Facebook-ads","books","magazine","$5 ","$8 ",2,TRUE,"20-06-2018 21:00","20-06-2020 21:21","Paypal",FALSE,16,0
+2489,1029,"Grace Sutton","Female",60,757,59503,"Australia","Victoria","Geelong","Instagram-ads","fashion","shoes","$60 ","$100 ",3,TRUE,"20-05-2009 22:20","20-09-2020 09:22","Credit Card",FALSE,300,1
+2490,1301,"Steven Jackson","Male",20,670,33348,"UK","England","Birmingham","Twitter-ads","books","novel","$10 ","$18 ",3,TRUE,"20-09-2019 20:13","20-09-2020 21:20","Cash On Delivery",FALSE,54,0
+2492,1204,"Daniel Dougherty","Female",15,NA,NA,"India","Maharashtra","Nagpur","Billboard-QR code","fashion","dress","$50 ","$80 ",4,TRUE,"20-06-2030 22:22","20-05-2020 07:22","Debit Card",FALSE,320,1
+2493,1466,"Shannon Munoz MD","Male",73,742,59316,"Canada","Ontario","Mississauga","Billboard-QR code","fashion","shoes","$60 ","$100 ",4,TRUE,"20-05-2011 22:22","20-07-2020 11:22","Cash On Delivery",FALSE,400,0
+2494,1072,"Jacob Stewart","Male",61,758,59340,"China","Guangdong","Guangzhou","Instagram-ads","home appliances","toaster","$40 ","$60 ",4,FALSE,"20-06-2008 23:14","20-01-2019 00:00",NA,NA,240,0
+2495,1031,"Kevin Campbell","Female",78,759,59851,"India","Maharashtra","Nagpur","Facebook-ads","books","novel","$10 ","$18 ",2,TRUE,"20-04-2009 23:10","20-06-2020 09:23","Cash On Delivery",FALSE,36,1
+2496,1134,"Christopher Wood","Male",53,711,59959,"Canada","Ontario","Mississauga","Facebook-ads","books","textbook","$30 ","$50 ",4,FALSE,"20-01-2013 23:18","20-01-2019 00:00",NA,NA,200,0
+2497,1303,"Bonnie Hodge","Male",56,721,57890,"Australia","Victoria","Ballarat","Twitter-ads","fashion","jeans","$40 ","$70 ",5,TRUE,"20-06-2001 23:14","20-12-2020 01:23","Debit Card",TRUE,350,0
+2498,1039,"Teresa Garcia","Female",73,741,59876,"China","Shandong","Jinan","Twitter-ads","books","novel","$10 ","$18 ",2,TRUE,"20-07-2019 23:06","20-07-2020 23:23","Cash On Delivery",FALSE,36,1
+2499,1347,"Jason Watson","Male",60,746,59674,"Japan","Tokyo","Tokyo","Facebook-ads","books","autobiography","$20 ","$35 ",5,TRUE,"20-06-2018 21:01","20-06-2020 23:21","Credit Card",FALSE,175,0
+2501,1420,"Jonathan Pitts","Female",23,671,25099,"USA","California","San Diego","Instagram-ads","fashion","jeans","$40 ","$70 ",5,TRUE,"20-11-2012 21:01","20-12-2020 13:21","Cash On Delivery",FALSE,350,1
+2502,1433,"Sean Lee","Male",68,742,59507,"Canada","Quebec","Laval","E-mails","fashion","dress","$50 ","$80 ",1,FALSE,"20-04-2008 20:02","20-01-2019 00:00",NA,NA,80,0
+2503,1271,"Scott Thomas","Female",54,715,56243,"Australia","Victoria","Geelong","Billboard-QR code","fashion","jeans","$40 ","$70 ",2,TRUE,"20-07-2007 20:08","20-11-2020 07:20","Debit Card",FALSE,140,1
+2504,1300,"Sara Patel","Male",41,682,44342,"China","Guangdong","Guangzhou","Instagram-ads","electronics","table fan","$30 ","$50 ",4,TRUE,"20-11-2005 20:05","20-05-2020 15:20","Credit Card",FALSE,200,0
+2505,1225,"Andrew Noble","Female",15,NA,NA,"UK","England","Manchester","Billboard-QR code","books","autobiography","$20 ","$35 ",3,TRUE,"20-11-2028 22:02","20-11-2029 22:10","Credit Card",FALSE,105,1
+2506,1136,"Brian Ramirez","Male",55,737,58771,"USA","California","Los Angeles","Instagram-ads","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-12-2013 21:05","20-12-2020 13:21","Credit Card",FALSE,160,0
+2507,1171,"April Blair","Female",65,746,59651,"Italy","Lombardy","Bergamo","E-mails","home appliances","electric stove","$250 ","$400 ",4,TRUE,"20-04-2024 23:09","21-04-2020 00:23","Cash On Delivery",FALSE,1600,1
+2508,1482,"Stephanie Kemp","Male",20,679,37754,"Australia","Victoria","Ballarat","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",4,TRUE,"20-08-2014 22:12","20-08-2020 14:22","Credit Card",FALSE,2000,0
+2509,1457,"Barbara Ochoa","Female",33,690,41308,"Canada","Ontario","Ottawa","Instagram-ads","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-10-2016 23:06","20-10-2020 21:23","Debit Card",FALSE,1500,1
+2510,1134,"Christopher Wood","Male",53,711,59959,"Canada","Ontario","Mississauga","Billboard-QR code","books","magazine","$5 ","$8 ",4,TRUE,"20-07-2023 22:08","20-07-2027 22:22","Credit Card",FALSE,32,0
+2511,1255,"Michael Matthews","Male",32,691,52893,"USA","California","San Jose","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-08-2014 20:08","20-08-2020 16:20","Cash On Delivery",FALSE,2500,0
+2512,1209,"Todd Williams","Female",35,698,46014,"Canada","Ontario","Mississauga","Twitter-ads","electronics","hair dryer","$25 ","$40 ",3,FALSE,"20-01-2009 22:23","20-01-2019 00:00",NA,NA,120,1
+2513,1316,"Elizabeth Trujillo","Female",65,745,59742,"India","Uttar Pradesh","Ghaziabad","Instagram-ads","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-04-2020 20:08","20-04-2020 22:20","Debit Card",FALSE,2500,1
+2514,1263,"Erik Wong","Male",57,736,58934,"Australia","Victoria","Melbourne","Instagram-ads","books","novel","$10 ","$18 ",1,TRUE,"20-05-2020 22:16","20-05-2020 23:22","Credit Card",FALSE,18,0
+2515,1052,"Ryan Hammond","Female",60,748,59791,"Canada","Quebec","Quebec City","E-mails","fashion","jeans","$40 ","$70 ",2,TRUE,"20-01-2021 23:04","20-01-2020 21:23","Paypal",FALSE,140,1
+2516,1217,"Shannon Anderson","Female",67,743,59405,"Japan","Kanagawa","Kawasaki","Twitter-ads","electronics","laptop","$800 ","$1,200 ",4,FALSE,"20-07-2001 23:21","20-01-2019 00:00",NA,NA,4800,1
+2517,1062,"Jesse Hernandez","Female",16,NA,NA,"USA","Texas","San Antonio","Billboard-QR code","toys","board game","$20 ","$35 ",4,TRUE,"20-10-2004 20:02","20-04-2020 13:20","Paypal",FALSE,140,1
+2518,1133,"Jeremiah Martinez","Male",18,633,29888,"Italy","Lombardy","Bergamo","Twitter-ads","home appliances","toaster","$40 ","$60 ",4,FALSE,"20-12-2009 23:12","20-01-2019 00:00",NA,NA,240,0
+2519,1256,"Timothy Meyer","Female",31,693,52684,"Italy","Lombardy","Brescia","Google-ads","fashion","t-shirt","$15 ","$25 ",1,TRUE,"20-12-2005 20:23","20-05-2020 16:20","Debit Card",FALSE,25,1
+2520,1366,"William Benton","Male",68,757,59755,"Canada","Ontario","Ottawa","E-mails","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-06-2016 22:02","20-06-2020 22:22","Debit Card",FALSE,300,0
+2521,1455,"Zachary Sanders","Male",62,755,59425,"Canada","Ontario","Ottawa","Billboard-QR code","books","magazine","$5 ","$8 ",2,FALSE,"20-10-2019 20:12","20-01-2019 00:00",NA,NA,16,0
+2522,1400,"Natalie Vasquez","Female",53,717,55741,"UK","England","Birmingham","Facebook-ads","electronics","hair dryer","$25 ","$40 ",2,FALSE,"20-06-2007 20:04","20-01-2019 00:00",NA,NA,80,1
+2523,1026,"Juan Davis","Male",18,663,21450,"Australia","Victoria","Geelong","Twitter-ads","electronics","laptop","$800 ","$1,200 ",2,TRUE,"20-12-2001 22:08","20-01-2020 14:22","Credit Card",FALSE,2400,0
+2524,1211,"Daniel Riley","Female",23,641,34870,"Japan","Tokyo","Yokohama","E-mails","fashion","jeans","$40 ","$70 ",1,TRUE,"20-04-2014 23:08","20-04-2020 21:23","Debit Card",FALSE,70,1
+2525,1079,"Aimee Perez","Male",38,686,42159,"UK","England","London","Google-ads","books","textbook","$30 ","$50 ",1,TRUE,"20-09-2001 22:08","20-01-2020 13:22","Credit Card",FALSE,50,0
+2526,1341,"Amanda Tanner","Female",40,696,47210,"Canada","Quebec","Laval","Google-ads","electronics","hair dryer","$25 ","$40 ",2,TRUE,"20-10-2001 22:12","20-01-2020 13:22","Cash On Delivery",FALSE,80,1
+2527,1408,"Gina Sanford","Female",62,752,59956,"USA","California","San Jose","Facebook-ads","toys","plush toy","$12 ","$20 ",1,TRUE,"20-03-2026 22:20","20-03-2027 22:14","Credit Card",FALSE,20,1
+2528,1345,"Jennifer Griffin","Female",46,709,56661,"Australia","Victoria","Melbourne","Google-ads","electronics","hair dryer","$25 ","$40 ",3,TRUE,"20-06-2007 20:17","20-12-2020 07:20","Cash On Delivery",FALSE,120,1
+2529,1003,"Oscar Alvarado","Female",46,708,59165,"Japan","Kanagawa","Yokohama","Google-ads","home appliances","mixer grinder","$60 ","$90 ",1,TRUE,"20-01-2009 23:09","20-07-2020 09:23","Debit Card",FALSE,90,1
+2530,1183,"Mrs. Cynthia Miller MD","Male",25,632,34625,"UK","England","Manchester","Instagram-ads","electronics","laptop","$800 ","$1,200 ",3,TRUE,"20-04-2021 21:18","21-04-2020 00:21","Credit Card",FALSE,3600,0
+2531,1035,"Tiffany Ferrell","Female",66,758,59438,"USA","California","Los Angeles","E-mails","books","textbook","$30 ","$50 ",1,TRUE,"20-06-2004 22:22","20-11-2020 04:22","Paypal",FALSE,50,1
+2532,1365,"Kathy Watkins","Female",59,741,59230,"China","Guangdong","Shenzhen","Twitter-ads","electronics","television","$1,000 ","$1,500 ",4,FALSE,"20-04-2003 20:21","20-01-2019 00:00",NA,NA,6000,1
+2534,1441,"Amber Mayo","Female",42,686,45141,"Spain","Andalusia","Malaga","Facebook-ads","home appliances","mixer grinder","$60 ","$90 ",5,TRUE,"20-05-2003 20:07","20-07-2020 03:20","Credit Card",TRUE,450,1
+2535,1159,"Omar Allen","Female",45,713,59140,"Japan","Kanagawa","Yokohama","Google-ads","books","textbook","$30 ","$50 ",5,TRUE,"20-04-2007 21:12","20-09-2020 07:21","Cash On Delivery",FALSE,250,1
+2536,1176,"Mark Ferguson","Male",30,690,48542,"Australia","New South Wales","Sydney","Facebook-ads","books","textbook","$30 ","$50 ",2,FALSE,"20-02-2025 22:13","20-01-2019 00:00",NA,NA,100,0
+2537,1205,"Mary Patel","Female",27,693,46025,"USA","Texas","San Antonio","Facebook-ads","toys","board game","$20 ","$35 ",1,TRUE,"20-02-2014 22:17","20-02-2020 15:22","Debit Card",TRUE,35,1
+2538,1396,"Anthony Santos","Female",63,754,59310,"Spain","Andalusia","Seville","Instagram-ads","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-09-2016 22:12","20-09-2020 22:22","Cash On Delivery",FALSE,160,1
+2539,1046,"Eric Gardner","Male",43,710,57621,"Italy","Lazio","Rome","Google-ads","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-07-2007 21:04","20-10-2020 07:21","Debit Card",FALSE,2500,0
+2540,1254,"Robert Miller","Female",29,690,42350,"UK","England","Manchester","Instagram-ads","electronics","laptop","$800 ","$1,200 ",5,FALSE,"20-06-2008 22:12","20-01-2019 00:00",NA,NA,6000,1
+2541,1418,"Kelly Moore","Male",28,682,50958,"Japan","Kanagawa","Sagamihara","Billboard-QR code","toys","board game","$20 ","$35 ",2,TRUE,"20-03-2006 20:16","20-08-2020 06:20","Credit Card",FALSE,70,0
+2543,1117,"Robert Hill","Male",53,727,56958,"Australia","Victoria","Melbourne","E-mails","fashion","jeans","$40 ","$70 ",3,FALSE,"20-11-2027 23:05","20-01-2019 00:00",NA,NA,210,0
+2544,1278,"Lisa Juarez","Female",18,607,21658,"Spain","Andalusia","Malaga","Billboard-QR code","books","autobiography","$20 ","$35 ",5,TRUE,"20-07-2010 20:11","20-09-2020 10:20","Debit Card",FALSE,175,1
+2545,1166,"Caitlin Zimmerman","Male",70,754,59634,"USA","California","San Diego","Google-ads","books","textbook","$30 ","$50 ",2,TRUE,"20-01-2004 22:13","20-04-2020 04:22","Paypal",FALSE,100,0
+2546,1358,"Gary Wolfe","Female",40,697,46213,"Italy","Lombardy","Bergamo","Google-ads","electronics","television","$1,000 ","$1,500 ",3,TRUE,"20-01-2023 22:02","20-01-2029 22:10","Paypal",FALSE,4500,1
+2547,1435,"Joshua Williams","Male",52,715,58739,"USA","Texas","San Antonio","Twitter-ads","fashion","jeans","$40 ","$70 ",1,TRUE,"20-02-2023 21:02","21-02-2020 00:21","Credit Card",TRUE,70,0
+2548,1314,"Willie Graham","Female",54,738,56851,"China","Guangdong","Shenzhen","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",2,TRUE,"20-12-2017 23:11","20-12-2020 22:23","Paypal",FALSE,50,1
+2549,1161,"Evelyn Smith","Male",72,759,59877,"Canada","Ontario","Toronto","Instagram-ads","home appliances","microwave oven","$300 ","$500 ",5,FALSE,"20-11-2001 21:18","20-01-2019 00:00",NA,NA,2500,0
+2550,1100,"George Stewart","Female",48,734,58180,"China","Shandong","Qingdao","Billboard-QR code","books","magazine","$5 ","$8 ",1,TRUE,"20-08-2031 21:00","20-03-2020 09:21","Cash On Delivery",FALSE,8,1
+2551,1255,"Michael Matthews","Male",32,691,52893,"USA","California","San Jose","Twitter-ads","books","textbook","$30 ","$50 ",1,TRUE,"20-03-2011 21:03","20-04-2020 11:21","Cash On Delivery",FALSE,50,0
+2552,1272,"Brenda Franco","Female",49,734,57206,"Spain","Catalonia","Girona","Twitter-ads","fashion","jeans","$40 ","$70 ",5,TRUE,"20-07-2021 21:20","20-07-2025 21:05","Cash On Delivery",FALSE,350,1
+2553,1483,"Zachary Pierce","Male",61,751,59174,"UK","Scotland","Edinburgh","Instagram-ads","books","textbook","$30 ","$50 ",2,TRUE,"20-06-2009 21:16","20-10-2020 09:21","Credit Card",FALSE,100,0
+2554,1421,"Leah Richmond","Male",74,760,59609,"Spain","Andalusia","Granada","Billboard-QR code","electronics","laptop","$800 ","$1,200 ",1,FALSE,"20-01-2031 21:22","20-01-2019 00:00",NA,NA,1200,0
+2555,1332,"Tammy Dunn","Male",33,699,45705,"India","Maharashtra","Pune","Instagram-ads","home appliances","toaster","$40 ","$60 ",1,TRUE,"20-01-2011 22:21","20-06-2020 11:22","Debit Card",FALSE,60,0
+2556,1074,"John Johns","Male",46,732,59131,"USA","Texas","Dallas","Instagram-ads","fashion","dress","$50 ","$80 ",5,TRUE,"20-11-2001 23:12","20-01-2020 14:23","Cash On Delivery",FALSE,400,0
+2557,1185,"Bryan Nguyen","Male",49,701,56463,"Japan","Tokyo","Tokyo","Facebook-ads","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-06-2015 23:04","20-06-2020 17:23","Cash On Delivery",TRUE,100,0
+2558,1167,"Anthony Golden","Male",45,736,60828,"India","Maharashtra","Pune","Billboard-QR code","electronics","laptop","$800 ","$1,200 ",4,TRUE,"20-03-2020 20:01","20-03-2020 23:20","Cash On Delivery",FALSE,4800,0
+2559,1335,"Matthew Reid","Female",51,736,58009,"Canada","Ontario","Toronto","Twitter-ads","toys","action figure","$8 ","$15 ",4,TRUE,"20-11-2009 20:01","20-09-2020 15:20","Cash On Delivery",FALSE,60,1
+2560,1448,"Jennifer Gomez","Male",43,732,57878,"UK","England","Manchester","E-mails","books","textbook","$30 ","$50 ",4,FALSE,"20-08-2027 23:17","20-01-2019 00:00",NA,NA,200,0
+2561,1388,"Monica Peterson","Male",18,627,21601,"Italy","Lazio","Latina","Billboard-QR code","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-09-2020 22:19","20-09-2027 22:16","Paypal",FALSE,500,0
+2562,1149,"Robert Shaffer","Male",20,633,30740,"China","Shandong","Yantai","Instagram-ads","books","novel","$10 ","$18 ",5,TRUE,"20-07-2029 20:14","20-07-2031 20:07","Cash On Delivery",FALSE,90,0
+2563,1071,"Rose Singh","Female",54,729,59013,"Spain","Andalusia","Seville","Facebook-ads","toys","plush toy","$12 ","$20 ",3,FALSE,"20-04-2009 22:14","20-01-2019 00:00",NA,NA,60,1
+2564,1472,"Cory Morales","Female",46,733,59171,"Spain","Andalusia","Granada","Billboard-QR code","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-01-2023 21:19","20-01-2029 21:14","Cash On Delivery",FALSE,300,1
+2565,1497,"Timothy Kelley","Male",23,625,23235,"Canada","Quebec","Quebec City","Google-ads","books","novel","$10 ","$18 ",1,TRUE,"20-10-2001 23:10","20-01-2020 15:23","Credit Card",FALSE,18,0
+2566,1345,"Jennifer Griffin","Female",46,709,56661,"Australia","Victoria","Melbourne","Billboard-QR code","books","textbook","$30 ","$50 ",3,TRUE,"20-07-2027 22:09","20-07-2031 22:01","Debit Card",FALSE,150,1
+2567,1061,"Jeremy Underwood","Male",28,688,45070,"India","Uttar Pradesh","Ghaziabad","Google-ads","fashion","jeans","$40 ","$70 ",3,TRUE,"20-09-2013 23:18","20-09-2020 17:23","Credit Card",FALSE,210,0
+2568,1298,"Scott Harris","Female",71,757,59148,"USA","California","Los Angeles","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",5,TRUE,"20-02-2019 20:19","21-02-2020 00:20","Credit Card",FALSE,125,1
+2569,1178,"Justin Marshall","Male",16,NA,NA,"China","Shandong","Jinan","E-mails","electronics","table fan","$30 ","$50 ",3,TRUE,"20-04-2026 21:09","20-01-2020 05:21","Cash On Delivery",FALSE,150,0
+2570,1481,"David Berry","Female",34,697,44654,"Japan","Tokyo","Yokohama","Google-ads","toys","board game","$20 ","$35 ",2,FALSE,"20-09-2009 23:17","20-01-2019 00:00",NA,NA,70,1
+2571,1317,"Cindy Hayes","Male",53,709,59856,"USA","California","San Diego","Twitter-ads","fashion","jeans","$40 ","$70 ",4,TRUE,"20-06-2010 20:23","20-10-2020 10:20","Paypal",FALSE,280,0
+2572,1208,"Patricia Smith","Male",24,620,33019,"Japan","Tokyo","Kawasaki","Twitter-ads","fashion","shoes","$60 ","$100 ",1,TRUE,"20-10-2031 22:09","20-06-2020 11:22","Debit Card",FALSE,100,0
+2573,1172,"Edward Little","Male",18,653,16725,"USA","Texas","Houston","Twitter-ads","toys","action figure","$8 ","$15 ",3,TRUE,"20-12-2013 22:01","20-12-2020 14:22","Cash On Delivery",FALSE,45,0
+2574,1118,"Amanda Watson","Female",48,711,60252,"Spain","Catalonia","Tarragona","Facebook-ads","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-01-2028 21:19","20-03-2020 02:21","Credit Card",FALSE,160,1
+2575,1051,"Amber Vargas","Female",41,697,41444,"Spain","Andalusia","Seville","Billboard-QR code","books","novel","$10 ","$18 ",4,TRUE,"20-01-2005 23:23","20-05-2020 05:23","Credit Card",FALSE,72,1
+2576,1077,"Stacy Carey","Female",28,694,51391,"Canada","Quebec","Laval","Google-ads","electronics","table fan","$30 ","$50 ",3,TRUE,"20-05-2005 21:04","20-09-2020 05:21","Credit Card",FALSE,150,1
+2578,1064,"Kristen Bailey","Female",76,750,59183,"UK","England","Birmingham","Billboard-QR code","electronics","table fan","$30 ","$50 ",4,TRUE,"20-04-2030 22:07","20-01-2020 05:22","Cash On Delivery",FALSE,200,1
+2579,1217,"Shannon Anderson","Female",67,743,59405,"Japan","Kanagawa","Kawasaki","Google-ads","home appliances","mixer grinder","$60 ","$90 ",2,TRUE,"20-01-2004 23:12","20-08-2020 04:23","Paypal",FALSE,180,1
+2580,1024,"Regina Mcfarland","Female",53,730,58533,"India","Maharashtra","Mumbai","Instagram-ads","toys","action figure","$8 ","$15 ",4,TRUE,"20-04-2024 23:07","20-04-2030 23:00","Credit Card",FALSE,60,1
+2581,1113,"Andrew Murphy","Male",73,743,59061,"UK","Scotland","Edinburgh","Billboard-QR code","books","textbook","$30 ","$50 ",2,TRUE,"20-09-2008 23:22","20-08-2020 14:23","Credit Card",FALSE,100,0
+2582,1174,"Jason Adams","Female",17,NA,NA,"USA","Texas","San Antonio","Twitter-ads","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-08-2019 23:21","20-08-2025 23:06","Credit Card",TRUE,300,1
+2583,1007,"Angela Chapman","Female",28,689,50284,"Australia","New South Wales","Sydney","Instagram-ads","electronics","hair dryer","$25 ","$40 ",5,FALSE,"20-05-2026 23:01","20-01-2019 00:00",NA,NA,200,1
+2584,1229,"Joanne Gallegos","Female",77,748,59342,"UK","England","London","Billboard-QR code","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-10-2025 23:16","20-10-2030 23:01","Debit Card",FALSE,2500,1
+2585,1152,"Danielle Williams","Male",38,698,41718,"Canada","Quebec","Laval","Facebook-ads","toys","plush toy","$12 ","$20 ",5,TRUE,"20-06-2027 20:15","20-06-2030 20:12","Credit Card",FALSE,100,0
+2586,1086,"Cheryl Armstrong","Male",72,757,59678,"USA","Texas","San Antonio","Google-ads","books","autobiography","$20 ","$35 ",5,TRUE,"20-06-2014 20:20","20-06-2020 20:20","Cash On Delivery",FALSE,175,0
+2587,1362,"Maria Adams","Male",62,753,59916,"India","Maharashtra","Mumbai","Twitter-ads","fashion","shoes","$60 ","$100 ",5,FALSE,"20-09-2028 20:15","20-01-2019 00:00",NA,NA,500,0
+2589,1049,"Bailey Reyes","Female",56,724,59142,"Spain","Andalusia","Seville","Google-ads","fashion","t-shirt","$15 ","$25 ",5,FALSE,"20-03-2013 20:18","20-01-2019 00:00",NA,NA,125,1
+2590,1331,"Nathan Carson","Male",18,623,25555,"China","Guangdong","Shenzhen","Facebook-ads","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-06-2030 21:14","20-04-2020 07:21","Debit Card",FALSE,100,0
+2591,1081,"George Vargas","Male",36,686,43120,"Australia","New South Wales","Sydney","Billboard-QR code","home appliances","toaster","$40 ","$60 ",4,TRUE,"20-04-2008 22:20","20-06-2020 08:22","Paypal",FALSE,240,0
+2592,1117,"Robert Hill","Male",53,727,56958,"Australia","Victoria","Melbourne","Billboard-QR code","books","magazine","$5 ","$8 ",2,TRUE,"20-06-2017 21:07","21-06-2020 00:21","Paypal",FALSE,16,0
+2593,1354,"Janice Christensen","Female",26,646,27566,"India","Maharashtra","Pune","Billboard-QR code","electronics","table fan","$30 ","$50 ",5,FALSE,"20-04-2030 22:15","20-01-2019 00:00",NA,NA,250,1
+2594,1422,"Robert Smith","Female",40,681,43939,"Italy","Lombardy","Milan","Facebook-ads","toys","action figure","$8 ","$15 ",3,TRUE,"20-03-2019 21:21","20-03-2020 23:21","Credit Card",TRUE,45,1
+2595,1405,"Jessica Scott","Male",48,709,56385,"Spain","Andalusia","Granada","Google-ads","home appliances","mixer grinder","$60 ","$90 ",5,TRUE,"20-02-2026 22:11","20-05-2020 03:22","Cash On Delivery",FALSE,450,0
+2596,1271,"Scott Thomas","Female",54,715,56243,"Australia","Victoria","Geelong","Billboard-QR code","toys","board game","$20 ","$35 ",1,TRUE,"20-12-2012 21:15","20-12-2020 13:21","Credit Card",FALSE,35,1
+2597,1206,"Loretta Campbell","Male",18,643,25545,"USA","Texas","Dallas","Instagram-ads","home appliances","electric stove","$250 ","$400 ",3,TRUE,"20-09-2006 20:12","20-06-2020 13:20","Credit Card",FALSE,1200,0
+2598,1242,"Shannon Hernandez","Male",40,697,43615,"Canada","Ontario","Mississauga","Billboard-QR code","fashion","jeans","$40 ","$70 ",1,TRUE,"20-06-2030 20:18","20-07-2020 07:20","Credit Card",FALSE,70,0
+2599,1000,"Michael Saunders","Male",74,747,59129,"Canada","Quebec","Laval","E-mails","home appliances","electric stove","$250 ","$400 ",5,FALSE,"20-07-2002 23:07","20-01-2019 00:00",NA,NA,2000,0
+2600,1124,"Annette Browning","Female",20,644,15407,"Spain","Andalusia","Granada","Facebook-ads","fashion","shoes","$60 ","$100 ",1,TRUE,"20-11-2005 22:04","20-05-2020 13:22","Credit Card",FALSE,100,1
+2601,1041,"Maria Kelly","Female",17,NA,NA,"India","Uttar Pradesh","Ghaziabad","Instagram-ads","electronics","television","$1,000 ","$1,500 ",1,TRUE,"20-09-2014 23:20","20-09-2020 16:23","Paypal",FALSE,1500,1
+2602,1060,"Brandon Johnson","Female",64,742,59747,"China","Guangdong","Dongguan","Google-ads","fashion","t-shirt","$15 ","$25 ",1,FALSE,"20-03-2013 23:05","20-01-2019 00:00",NA,NA,25,1
+2603,1204,"Daniel Dougherty","Female",15,NA,NA,"India","Maharashtra","Nagpur","Twitter-ads","fashion","t-shirt","$15 ","$25 ",1,TRUE,"20-08-2029 21:19","20-08-2029 21:21","Paypal",TRUE,25,1
+2604,1351,"Mrs. Sara Morton","Female",21,603,21315,"Japan","Tokyo","Kawasaki","Twitter-ads","electronics","laptop","$800 ","$1,200 ",3,TRUE,"20-10-2018 23:19","20-10-2025 23:00","Debit Card",FALSE,3600,1
+2605,1003,"Oscar Alvarado","Female",46,708,59165,"Japan","Kanagawa","Yokohama","Billboard-QR code","fashion","dress","$50 ","$80 ",2,TRUE,"20-02-2016 22:10","20-02-2020 17:22","Cash On Delivery",FALSE,160,1
+2606,1050,"Matthew Tapia","Female",56,722,59409,"Italy","Lombardy","Bergamo","E-mails","home appliances","microwave oven","$300 ","$500 ",1,FALSE,"20-12-2008 20:14","20-01-2019 00:00",NA,NA,500,1
+2607,1017,"Tiffany King","Female",46,715,59931,"Japan","Kanagawa","Sagamihara","Facebook-ads","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-10-2029 23:15","20-10-2030 23:20","Credit Card",FALSE,300,1
+2608,1032,"Nicole Lynn","Male",34,689,41570,"China","Guangdong","Dongguan","Google-ads","toys","action figure","$8 ","$15 ",4,TRUE,"20-11-2014 20:04","20-11-2020 20:20","Cash On Delivery",FALSE,60,0
+2609,1153,"Heather David","Male",37,695,41308,"China","Guangdong","Guangzhou","Twitter-ads","toys","puzzle","$15 ","$25 ",5,FALSE,"20-10-2031 21:08","20-01-2019 00:00",NA,NA,125,0
+2610,1265,"Jennifer Mclaughlin","Female",31,696,43991,"Australia","Victoria","Geelong","Facebook-ads","home appliances","electric stove","$250 ","$400 ",3,TRUE,"20-12-2009 21:01","20-12-2020 09:21","Credit Card",FALSE,1200,1
+2611,1402,"Justin Braun","Male",21,661,21177,"USA","California","Los Angeles","Instagram-ads","books","novel","$10 ","$18 ",1,TRUE,"20-08-2009 21:09","20-09-2020 09:21","Credit Card",TRUE,18,0
+2612,1187,"Megan Clarke","Male",70,751,59718,"India","Maharashtra","Pune","E-mails","electronics","television","$1,000 ","$1,500 ",1,TRUE,"20-02-2011 20:17","20-06-2020 11:20","Paypal",FALSE,1500,0
+2613,1133,"Jeremiah Martinez","Male",18,633,29888,"Italy","Lombardy","Bergamo","Instagram-ads","home appliances","electric stove","$250 ","$400 ",2,TRUE,"20-07-2013 22:07","20-07-2020 13:22","Paypal",FALSE,800,0
+2614,1257,"Samuel Burke","Male",27,688,44326,"Spain","Catalonia","Barcelona","Facebook-ads","toys","board game","$20 ","$35 ",5,TRUE,"20-03-2001 22:21","20-10-2020 01:22","Paypal",FALSE,175,0
+2615,1065,"Kevin Pineda","Female",23,639,21237,"UK","England","Birmingham","Instagram-ads","books","textbook","$30 ","$50 ",4,FALSE,"20-12-2022 23:17","20-01-2019 00:00",NA,NA,200,1
+2616,1130,"David Fletcher","Male",72,757,59745,"China","Guangdong","Dongguan","E-mails","fashion","jeans","$40 ","$70 ",3,TRUE,"20-10-2022 23:18","20-10-2027 23:10","Credit Card",FALSE,210,0
+2617,1477,"Debra Johnson","Female",45,722,56493,"Italy","Lazio","Frosinone","E-mails","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-12-2015 23:03","20-12-2020 15:23","Paypal",FALSE,160,1
+2618,1258,"Peter Hobbs","Male",65,751,59126,"China","Shandong","Jinan","Google-ads","books","autobiography","$20 ","$35 ",5,FALSE,"20-08-2011 22:16","20-01-2019 00:00",NA,NA,175,0
+2620,1295,"Brittany Burgess","Male",70,755,59903,"Australia","New South Wales","Sydney","Google-ads","toys","action figure","$8 ","$15 ",4,TRUE,"20-10-2031 23:17","20-06-2020 11:23","Debit Card",FALSE,60,0
+2621,1084,"Tara Norton","Male",46,727,58650,"Italy","Lazio","Frosinone","Google-ads","home appliances","electric stove","$250 ","$400 ",4,TRUE,"20-04-2023 22:17","20-04-2028 22:15","Credit Card",FALSE,1600,0
+2622,1205,"Mary Patel","Female",27,693,46025,"USA","Texas","San Antonio","Twitter-ads","books","novel","$10 ","$18 ",1,TRUE,"20-09-2013 23:01","20-09-2020 18:23","Debit Card",FALSE,18,1
+2623,1216,"Kyle Williams","Male",68,747,59926,"Japan","Kanagawa","Yokohama","E-mails","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-11-2017 22:18","20-11-2020 19:22","Paypal",FALSE,2500,0
+2624,1166,"Caitlin Zimmerman","Male",70,754,59634,"USA","California","San Diego","E-mails","electronics","table fan","$30 ","$50 ",1,TRUE,"20-01-2023 20:10","20-01-2020 23:20","Paypal",FALSE,50,0
+2625,1409,"Laurie Brown","Male",59,760,59010,"Spain","Andalusia","Granada","Facebook-ads","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-03-2026 20:01","20-03-2028 20:12","Debit Card",FALSE,500,0
+2626,1094,"Mary Durham DVM","Female",36,683,47043,"USA","Texas","San Antonio","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",4,TRUE,"20-09-2016 23:02","20-09-2020 17:23","Credit Card",FALSE,2000,1
+2627,1266,"Raymond Cobb","Female",45,715,56701,"Italy","Lombardy","Brescia","Facebook-ads","electronics","table fan","$30 ","$50 ",3,TRUE,"20-02-2021 20:18","20-02-2026 20:16","Debit Card",FALSE,150,1
+2628,1428,"Lisa Gonzalez","Male",66,757,59577,"Australia","New South Wales","Wollongong","E-mails","toys","board game","$20 ","$35 ",5,FALSE,"20-08-2031 21:05","20-01-2019 00:00",NA,NA,175,0
+2629,1453,"Scott Martin","Male",15,NA,NA,"Italy","Lazio","Rome","E-mails","books","autobiography","$20 ","$35 ",5,TRUE,"20-01-2030 20:17","20-05-2020 02:20","Credit Card",FALSE,175,0
+2630,1268,"Kenneth Robinson","Female",69,754,59990,"China","Shandong","Jinan","E-mails","fashion","dress","$50 ","$80 ",3,TRUE,"20-08-2007 21:13","20-07-2020 13:21","Credit Card",FALSE,240,1
+2631,1332,"Tammy Dunn","Male",33,699,45705,"India","Maharashtra","Pune","Instagram-ads","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-02-2011 20:00","20-08-2020 11:20","Cash On Delivery",FALSE,160,0
+2632,1022,"Teresa Small","Female",61,759,59426,"India","Uttar Pradesh","Ghaziabad","Facebook-ads","electronics","table fan","$30 ","$50 ",2,TRUE,"20-09-2013 22:00","20-09-2020 16:22","Paypal",FALSE,100,1
+2633,1472,"Cory Morales","Female",46,733,59171,"Spain","Andalusia","Granada","Facebook-ads","home appliances","electric stove","$250 ","$400 ",1,TRUE,"20-02-2004 21:00","20-05-2020 04:21","Paypal",FALSE,400,1
+2634,1434,"Michael Taylor","Male",75,754,59295,"China","Shandong","Yantai","Twitter-ads","home appliances","toaster","$40 ","$60 ",3,FALSE,"20-05-2009 20:20","20-01-2019 00:00",NA,NA,180,0
+2635,1038,"Elizabeth Orozco","Male",63,745,59751,"Australia","Victoria","Geelong","Twitter-ads","fashion","t-shirt","$15 ","$25 ",2,TRUE,"20-09-2027 21:13","20-09-2030 21:11","Debit Card",FALSE,50,0
+2636,1121,"Chris Kirk","Female",34,698,49955,"China","Shandong","Jinan","Google-ads","electronics","hair dryer","$25 ","$40 ",2,TRUE,"20-10-2003 21:04","20-03-2020 15:21","Debit Card",FALSE,80,1
+2637,1464,"Molly Coleman","Female",46,713,59796,"UK","Scotland","Glasgow","Billboard-QR code","electronics","table fan","$30 ","$50 ",3,FALSE,"20-11-2012 20:03","20-01-2019 00:00",NA,NA,150,1
+2638,1085,"Natasha Thomas","Male",45,726,60106,"Japan","Tokyo","Tokyo","Instagram-ads","electronics","table fan","$30 ","$50 ",1,TRUE,"20-04-2014 23:07","20-04-2020 16:23","Paypal",TRUE,50,0
+2639,1115,"Kevin Dominguez DDS","Female",14,NA,NA,"Japan","Kanagawa","Kawasaki","E-mails","books","magazine","$5 ","$8 ",1,TRUE,"20-07-2017 23:05","20-07-2020 18:23","Paypal",FALSE,8,1
+2640,1308,"Sarah Powell","Female",58,747,59878,"USA","California","San Jose","E-mails","toys","action figure","$8 ","$15 ",2,FALSE,"20-01-2004 23:04","20-01-2019 00:00",NA,NA,30,1
+2641,1424,"Anthony Hall","Female",31,689,44474,"Canada","Quebec","Quebec City","E-mails","fashion","dress","$50 ","$80 ",1,TRUE,"20-12-2015 20:19","20-12-2020 22:20","Debit Card",FALSE,80,1
+2642,1473,"Steven Hernandez","Male",69,759,59690,"Japan","Kanagawa","Kawasaki","Instagram-ads","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-05-2004 23:22","20-06-2020 04:23","Credit Card",TRUE,40,0
+2643,1305,"Robert Lee","Male",34,694,49139,"Australia","New South Wales","Newcastle","Google-ads","home appliances","electric stove","$250 ","$400 ",5,TRUE,"20-02-2023 21:04","20-01-2020 03:21","Paypal",FALSE,2000,0
+2644,1391,"John Mahoney","Female",77,760,59104,"USA","California","Los Angeles","Twitter-ads","electronics","laptop","$800 ","$1,200 ",4,TRUE,"20-02-2023 22:15","20-02-2020 23:22","Cash On Delivery",FALSE,4800,1
+2645,1322,"Samuel Brown","Male",49,730,59143,"Canada","Quebec","Quebec City","Billboard-QR code","toys","puzzle","$15 ","$25 ",2,FALSE,"20-11-2011 23:19","20-01-2019 00:00",NA,NA,50,0
+2646,1029,"Grace Sutton","Female",60,757,59503,"Australia","Victoria","Geelong","Google-ads","home appliances","microwave oven","$300 ","$500 ",3,FALSE,"20-12-2031 21:08","20-01-2019 00:00",NA,NA,1500,1
+2647,1301,"Steven Jackson","Male",20,670,33348,"UK","England","Birmingham","E-mails","toys","puzzle","$15 ","$25 ",4,TRUE,"20-10-2010 22:23","20-11-2020 10:22","Credit Card",FALSE,100,0
+2648,1204,"Daniel Dougherty","Female",15,NA,NA,"India","Maharashtra","Nagpur","E-mails","home appliances","mixer grinder","$60 ","$90 ",3,TRUE,"20-04-2028 20:05","20-01-2020 05:20","Debit Card",FALSE,270,1
+2649,1466,"Shannon Munoz MD","Male",73,742,59316,"Canada","Ontario","Mississauga","Facebook-ads","toys","puzzle","$15 ","$25 ",4,TRUE,"20-08-2014 22:17","20-08-2020 17:22","Cash On Delivery",FALSE,100,0
+2650,1072,"Jacob Stewart","Male",61,758,59340,"China","Guangdong","Guangzhou","Facebook-ads","books","novel","$10 ","$18 ",1,FALSE,"20-09-2030 20:20","20-01-2019 00:00",NA,NA,18,0
+2651,1031,"Kevin Campbell","Female",78,759,59851,"India","Maharashtra","Nagpur","Twitter-ads","books","textbook","$30 ","$50 ",4,FALSE,"20-11-2005 23:17","20-01-2019 00:00",NA,NA,200,1
+2652,1134,"Christopher Wood","Male",53,711,59959,"Canada","Ontario","Mississauga","Billboard-QR code","books","autobiography","$20 ","$35 ",5,FALSE,"20-08-2004 23:19","20-01-2019 00:00",NA,NA,175,0
+2653,1303,"Bonnie Hodge","Male",56,721,57890,"Australia","Victoria","Ballarat","Instagram-ads","electronics","laptop","$800 ","$1,200 ",2,TRUE,"20-06-2007 22:23","20-09-2020 07:22","Cash On Delivery",FALSE,2400,0
+2654,1039,"Teresa Garcia","Female",73,741,59876,"China","Shandong","Jinan","E-mails","home appliances","mixer grinder","$60 ","$90 ",5,TRUE,"20-08-2004 23:12","20-09-2020 04:23","Paypal",FALSE,450,1
+2655,1347,"Jason Watson","Male",60,746,59674,"Japan","Tokyo","Tokyo","E-mails","fashion","shoes","$60 ","$100 ",2,TRUE,"20-01-2011 22:11","20-06-2020 11:22","Debit Card",TRUE,200,0
+2656,1420,"Jonathan Pitts","Female",23,671,25099,"USA","California","San Diego","Billboard-QR code","books","autobiography","$20 ","$35 ",2,FALSE,"20-10-2020 23:17","20-01-2019 00:00",NA,NA,70,1
+2657,1433,"Sean Lee","Male",68,742,59507,"Canada","Quebec","Laval","Facebook-ads","electronics","laptop","$800 ","$1,200 ",1,FALSE,"20-10-2029 22:10","20-01-2019 00:00",NA,NA,1200,0
+2658,1271,"Scott Thomas","Female",54,715,56243,"Australia","Victoria","Geelong","Facebook-ads","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-08-2027 20:21","20-02-2020 09:20","Paypal",FALSE,500,1
+2659,1300,"Sara Patel","Male",41,682,44342,"China","Guangdong","Guangzhou","Billboard-QR code","books","textbook","$30 ","$50 ",3,TRUE,"20-03-2014 20:15","20-03-2020 19:20","Paypal",FALSE,150,0
+2660,1225,"Andrew Noble","Female",15,NA,NA,"UK","England","Manchester","Billboard-QR code","toys","board game","$20 ","$35 ",4,FALSE,"20-10-2025 22:03","20-01-2019 00:00",NA,NA,140,1
+2661,1136,"Brian Ramirez","Male",55,737,58771,"USA","California","Los Angeles","E-mails","fashion","shoes","$60 ","$100 ",1,TRUE,"20-10-2013 20:11","20-10-2020 17:20","Cash On Delivery",FALSE,100,0
+2662,1171,"April Blair","Female",65,746,59651,"Italy","Lombardy","Bergamo","Billboard-QR code","fashion","jeans","$40 ","$70 ",3,FALSE,"20-02-2024 22:13","20-01-2019 00:00",NA,NA,210,1
+2663,1482,"Stephanie Kemp","Male",20,679,37754,"Australia","Victoria","Ballarat","Instagram-ads","books","textbook","$30 ","$50 ",3,TRUE,"20-12-2020 23:08","20-12-2020 21:23","Cash On Delivery",TRUE,150,0
+2664,1457,"Barbara Ochoa","Female",33,690,41308,"Canada","Ontario","Ottawa","Twitter-ads","fashion","shoes","$60 ","$100 ",4,TRUE,"20-10-2027 20:06","20-10-2028 20:14","Paypal",FALSE,400,1
+2665,1134,"Christopher Wood","Male",53,711,59959,"Canada","Ontario","Mississauga","Billboard-QR code","toys","puzzle","$15 ","$25 ",2,TRUE,"20-09-2030 23:08","20-05-2020 10:23","Credit Card",FALSE,50,0
+2666,1255,"Michael Matthews","Male",32,691,52893,"USA","California","San Jose","Instagram-ads","fashion","dress","$50 ","$80 ",4,TRUE,"20-08-2019 22:11","20-08-2020 19:22","Paypal",FALSE,320,0
+2667,1209,"Todd Williams","Female",35,698,46014,"Canada","Ontario","Mississauga","Facebook-ads","books","textbook","$30 ","$50 ",3,TRUE,"20-10-2029 22:07","20-10-2031 22:23","Credit Card",FALSE,150,1
+2668,1316,"Elizabeth Trujillo","Female",65,745,59742,"India","Uttar Pradesh","Ghaziabad","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-12-2008 23:13","20-08-2020 17:23","Paypal",FALSE,1500,1
+2669,1263,"Erik Wong","Male",57,736,58934,"Australia","Victoria","Melbourne","E-mails","toys","puzzle","$15 ","$25 ",1,TRUE,"20-12-2006 22:18","20-12-2020 06:22","Cash On Delivery",FALSE,25,0
+2670,1052,"Ryan Hammond","Female",60,748,59791,"Canada","Quebec","Quebec City","Instagram-ads","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-04-2023 23:03","20-04-2025 23:01","Credit Card",FALSE,300,1
+2671,1217,"Shannon Anderson","Female",67,743,59405,"Japan","Kanagawa","Kawasaki","Twitter-ads","books","magazine","$5 ","$8 ",1,TRUE,"20-01-2010 23:16","20-03-2020 10:23","Paypal",FALSE,8,1
+2672,1062,"Jesse Hernandez","Female",16,NA,NA,"USA","Texas","San Antonio","Twitter-ads","fashion","dress","$50 ","$80 ",4,FALSE,"20-08-2030 23:06","20-01-2019 00:00",NA,NA,320,1
+2673,1133,"Jeremiah Martinez","Male",18,633,29888,"Italy","Lombardy","Bergamo","Google-ads","electronics","laptop","$800 ","$1,200 ",2,TRUE,"20-10-2014 21:01","20-10-2020 16:21","Credit Card",TRUE,2400,0
+2674,1256,"Timothy Meyer","Female",31,693,52684,"Italy","Lombardy","Brescia","E-mails","home appliances","mixer grinder","$60 ","$90 ",4,TRUE,"20-04-2004 21:15","20-08-2020 04:21","Paypal",FALSE,360,1
+2675,1366,"William Benton","Male",68,757,59755,"Canada","Ontario","Ottawa","Google-ads","fashion","dress","$50 ","$80 ",4,TRUE,"20-05-2025 21:21","20-05-2027 21:20","Debit Card",FALSE,320,0
+2676,1455,"Zachary Sanders","Male",62,755,59425,"Canada","Ontario","Ottawa","Billboard-QR code","electronics","television","$1,000 ","$1,500 ",4,TRUE,"20-07-2031 22:13","20-03-2020 08:22","Debit Card",FALSE,6000,0
+2677,1400,"Natalie Vasquez","Female",53,717,55741,"UK","England","Birmingham","Billboard-QR code","books","novel","$10 ","$18 ",3,TRUE,"20-04-2005 20:02","20-06-2020 05:20","Credit Card",FALSE,54,1
+2678,1026,"Juan Davis","Male",18,663,21450,"Australia","Victoria","Geelong","Twitter-ads","electronics","table fan","$30 ","$50 ",2,FALSE,"20-12-2027 23:17","20-01-2019 00:00",NA,NA,100,0
+2679,1211,"Daniel Riley","Female",23,641,34870,"Japan","Tokyo","Yokohama","E-mails","home appliances","toaster","$40 ","$60 ",2,TRUE,"20-10-2020 21:14","20-10-2026 21:12","Paypal",FALSE,120,1
+2680,1079,"Aimee Perez","Male",38,686,42159,"UK","England","London","Twitter-ads","fashion","dress","$50 ","$80 ",3,TRUE,"20-11-2002 21:11","20-02-2020 15:21","Debit Card",FALSE,240,0
+2682,1341,"Amanda Tanner","Female",40,696,47210,"Canada","Quebec","Laval","E-mails","toys","plush toy","$12 ","$20 ",4,TRUE,"20-04-2016 22:00","20-04-2020 22:22","Credit Card",TRUE,80,1
+2683,1408,"Gina Sanford","Female",62,752,59956,"USA","California","San Jose","Billboard-QR code","toys","board game","$20 ","$35 ",1,TRUE,"20-11-2019 20:15","21-11-2020 00:20","Cash On Delivery",FALSE,35,1
+2684,1345,"Jennifer Griffin","Female",46,709,56661,"Australia","Victoria","Melbourne","Facebook-ads","fashion","dress","$50 ","$80 ",1,FALSE,"20-11-2025 23:19","20-01-2019 00:00",NA,NA,80,1
+2685,1003,"Oscar Alvarado","Female",46,708,59165,"Japan","Kanagawa","Yokohama","Facebook-ads","fashion","dress","$50 ","$80 ",5,TRUE,"20-02-2012 21:18","20-07-2020 12:21","Credit Card",FALSE,400,1
+2686,1183,"Mrs. Cynthia Miller MD","Male",25,632,34625,"UK","England","Manchester","Billboard-QR code","books","autobiography","$20 ","$35 ",4,FALSE,"20-04-2012 23:03","20-01-2019 00:00",NA,NA,140,0
+2687,1035,"Tiffany Ferrell","Female",66,758,59438,"USA","California","Los Angeles","Billboard-QR code","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-03-2008 21:08","20-07-2020 08:21","Paypal",FALSE,160,1
+2690,1365,"Kathy Watkins","Female",59,741,59230,"China","Guangdong","Shenzhen","Billboard-QR code","electronics","table fan","$30 ","$50 ",2,TRUE,"20-04-2018 20:23","20-04-2025 20:23","Credit Card",FALSE,100,1
+2691,1441,"Amber Mayo","Female",42,686,45141,"Spain","Andalusia","Malaga","Twitter-ads","fashion","jeans","$40 ","$70 ",4,TRUE,"20-04-2008 22:10","20-05-2020 08:22","Credit Card",FALSE,280,1
+2693,1159,"Omar Allen","Female",45,713,59140,"Japan","Kanagawa","Yokohama","Twitter-ads","electronics","hair dryer","$25 ","$40 ",3,FALSE,"20-05-2023 21:15","20-01-2019 00:00",NA,NA,120,1
+2694,1176,"Mark Ferguson","Male",30,690,48542,"Australia","New South Wales","Sydney","Facebook-ads","fashion","t-shirt","$15 ","$25 ",2,TRUE,"20-12-2010 23:22","20-10-2020 17:23","Paypal",FALSE,50,0
+2695,1205,"Mary Patel","Female",27,693,46025,"USA","Texas","San Antonio","Facebook-ads","toys","action figure","$8 ","$15 ",3,TRUE,"20-05-2025 22:23","20-05-2030 22:23","Paypal",FALSE,45,1
+2696,1396,"Anthony Santos","Female",63,754,59310,"Spain","Andalusia","Seville","Billboard-QR code","toys","board game","$20 ","$35 ",2,TRUE,"20-07-2029 23:04","20-07-2030 23:17","Paypal",FALSE,70,1
+2697,1046,"Eric Gardner","Male",43,710,57621,"Italy","Lazio","Rome","Billboard-QR code","electronics","table fan","$30 ","$50 ",5,TRUE,"20-08-2030 23:02","20-05-2020 09:23","Paypal",FALSE,250,0
+2698,1254,"Robert Miller","Female",29,690,42350,"UK","England","Manchester","E-mails","books","textbook","$30 ","$50 ",3,TRUE,"20-12-2024 21:22","20-12-2028 21:01","Debit Card",FALSE,150,1
+2699,1418,"Kelly Moore","Male",28,682,50958,"Japan","Kanagawa","Sagamihara","Facebook-ads","toys","plush toy","$12 ","$20 ",5,TRUE,"20-11-2020 21:07","20-11-2020 21:21","Cash On Delivery",FALSE,100,0
+2700,1117,"Robert Hill","Male",53,727,56958,"Australia","Victoria","Melbourne","Instagram-ads","electronics","table fan","$30 ","$50 ",1,TRUE,"20-07-2006 20:12","20-08-2020 06:20","Paypal",FALSE,50,0
+2701,1278,"Lisa Juarez","Female",18,607,21658,"Spain","Andalusia","Malaga","Google-ads","toys","plush toy","$12 ","$20 ",2,TRUE,"20-07-2011 22:21","20-11-2020 14:22","Cash On Delivery",FALSE,40,1
+2702,1166,"Caitlin Zimmerman","Male",70,754,59634,"USA","California","San Diego","Instagram-ads","home appliances","electric stove","$250 ","$400 ",5,TRUE,"20-04-2016 22:13","20-04-2020 20:22","Cash On Delivery",FALSE,2000,0
+2704,1358,"Gary Wolfe","Female",40,697,46213,"Italy","Lombardy","Bergamo","Facebook-ads","fashion","t-shirt","$15 ","$25 ",2,TRUE,"20-05-2004 23:03","20-09-2020 04:23","Debit Card",FALSE,50,1
+2705,1435,"Joshua Williams","Male",52,715,58739,"USA","Texas","San Antonio","Facebook-ads","books","textbook","$30 ","$50 ",5,FALSE,"20-06-2007 21:20","20-01-2019 00:00",NA,NA,250,0
+2706,1314,"Willie Graham","Female",54,738,56851,"China","Guangdong","Shenzhen","Twitter-ads","fashion","shoes","$60 ","$100 ",1,TRUE,"20-11-2018 23:18","21-11-2020 00:23","Debit Card",FALSE,100,1
+2707,1161,"Evelyn Smith","Male",72,759,59877,"Canada","Ontario","Toronto","Instagram-ads","fashion","shoes","$60 ","$100 ",1,TRUE,"20-12-2020 21:12","20-12-2025 21:09","Credit Card",FALSE,100,0
+2708,1100,"George Stewart","Female",48,734,58180,"China","Shandong","Qingdao","E-mails","books","novel","$10 ","$18 ",3,TRUE,"20-10-2013 21:12","20-10-2020 17:21","Debit Card",FALSE,54,1
+2709,1255,"Michael Matthews","Male",32,691,52893,"USA","California","San Jose","Facebook-ads","fashion","dress","$50 ","$80 ",4,TRUE,"20-09-2027 21:14","20-09-2028 21:16","Debit Card",FALSE,320,0
+2710,1272,"Brenda Franco","Female",49,734,57206,"Spain","Catalonia","Girona","Instagram-ads","books","novel","$10 ","$18 ",2,TRUE,"20-11-2021 21:02","20-11-2020 22:21","Debit Card",FALSE,36,1
+2711,1483,"Zachary Pierce","Male",61,751,59174,"UK","Scotland","Edinburgh","Google-ads","home appliances","mixer grinder","$60 ","$90 ",4,TRUE,"20-06-2017 21:02","20-06-2020 23:21","Cash On Delivery",FALSE,360,0
+2712,1421,"Leah Richmond","Male",74,760,59609,"Spain","Andalusia","Granada","Twitter-ads","fashion","dress","$50 ","$80 ",4,TRUE,"20-08-2012 23:22","20-09-2020 12:23","Cash On Delivery",FALSE,320,0
+2713,1332,"Tammy Dunn","Male",33,699,45705,"India","Maharashtra","Pune","Twitter-ads","books","autobiography","$20 ","$35 ",4,TRUE,"20-10-2018 20:17","20-10-2020 19:20","Credit Card",FALSE,140,0
+2714,1074,"John Johns","Male",46,732,59131,"USA","Texas","Dallas","Google-ads","fashion","shoes","$60 ","$100 ",4,TRUE,"20-10-2031 22:09","20-02-2020 11:22","Credit Card",FALSE,400,0
+2715,1185,"Bryan Nguyen","Male",49,701,56463,"Japan","Tokyo","Tokyo","E-mails","fashion","jeans","$40 ","$70 ",4,FALSE,"20-09-2019 22:01","20-01-2019 00:00",NA,NA,280,0
+2716,1167,"Anthony Golden","Male",45,736,60828,"India","Maharashtra","Pune","E-mails","fashion","dress","$50 ","$80 ",1,TRUE,"20-10-2014 20:13","20-10-2020 15:20","Credit Card",FALSE,80,0
+2717,1335,"Matthew Reid","Female",51,736,58009,"Canada","Ontario","Toronto","Billboard-QR code","toys","puzzle","$15 ","$25 ",3,TRUE,"20-04-2011 23:08","20-07-2020 11:23","Credit Card",FALSE,75,1
+2718,1448,"Jennifer Gomez","Male",43,732,57878,"UK","England","Manchester","Billboard-QR code","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-10-2026 21:17","20-10-2029 21:11","Debit Card",TRUE,1500,0
+2719,1388,"Monica Peterson","Male",18,627,21601,"Italy","Lazio","Latina","Facebook-ads","electronics","hair dryer","$25 ","$40 ",2,FALSE,"20-10-2025 23:14","20-01-2019 00:00",NA,NA,80,0
+2721,1149,"Robert Shaffer","Male",20,633,30740,"China","Shandong","Yantai","Instagram-ads","electronics","table fan","$30 ","$50 ",2,FALSE,"20-03-2007 21:08","20-01-2019 00:00",NA,NA,100,0
+2722,1071,"Rose Singh","Female",54,729,59013,"Spain","Andalusia","Seville","Google-ads","electronics","hair dryer","$25 ","$40 ",5,TRUE,"20-07-2010 20:20","20-11-2020 10:20","Credit Card",FALSE,200,1
+2723,1472,"Cory Morales","Female",46,733,59171,"Spain","Andalusia","Granada","Instagram-ads","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-04-2006 22:11","20-07-2020 06:22","Credit Card",FALSE,40,1
+2725,1497,"Timothy Kelley","Male",23,625,23235,"Canada","Quebec","Quebec City","Twitter-ads","home appliances","toaster","$40 ","$60 ",5,FALSE,"20-12-2003 22:16","20-01-2019 00:00",NA,NA,300,0
+2726,1345,"Jennifer Griffin","Female",46,709,56661,"Australia","Victoria","Melbourne","E-mails","toys","action figure","$8 ","$15 ",1,TRUE,"20-08-2013 22:20","20-08-2020 16:22","Debit Card",FALSE,15,1
+2727,1061,"Jeremy Underwood","Male",28,688,45070,"India","Uttar Pradesh","Ghaziabad","Billboard-QR code","fashion","shoes","$60 ","$100 ",3,TRUE,"20-01-2011 23:09","20-06-2020 11:23","Paypal",FALSE,300,0
+2728,1298,"Scott Harris","Female",71,757,59148,"USA","California","Los Angeles","Facebook-ads","books","textbook","$30 ","$50 ",3,TRUE,"20-05-2021 23:19","20-05-2026 23:09","Paypal",FALSE,150,1
+2729,1178,"Justin Marshall","Male",16,NA,NA,"China","Shandong","Jinan","Twitter-ads","fashion","shoes","$60 ","$100 ",3,TRUE,"20-06-2010 22:20","20-12-2020 10:22","Paypal",FALSE,300,0
+2730,1481,"David Berry","Female",34,697,44654,"Japan","Tokyo","Yokohama","Facebook-ads","home appliances","toaster","$40 ","$60 ",3,TRUE,"20-09-2027 21:12","20-01-2020 10:21","Cash On Delivery",FALSE,180,1
+2731,1317,"Cindy Hayes","Male",53,709,59856,"USA","California","San Diego","Instagram-ads","fashion","t-shirt","$15 ","$25 ",1,FALSE,"20-06-2002 20:16","20-01-2019 00:00",NA,NA,25,0
+2732,1208,"Patricia Smith","Male",24,620,33019,"Japan","Tokyo","Kawasaki","Twitter-ads","books","autobiography","$20 ","$35 ",3,TRUE,"20-12-2007 22:19","20-07-2020 15:22","Paypal",FALSE,105,0
+2733,1172,"Edward Little","Male",18,653,16725,"USA","Texas","Houston","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",2,TRUE,"20-10-2009 20:07","20-10-2020 09:20","Debit Card",FALSE,180,0
+2734,1118,"Amanda Watson","Female",48,711,60252,"Spain","Catalonia","Tarragona","Twitter-ads","electronics","table fan","$30 ","$50 ",4,TRUE,"20-09-2014 20:00","20-09-2020 20:20","Debit Card",FALSE,200,1
+2735,1051,"Amber Vargas","Female",41,697,41444,"Spain","Andalusia","Seville","Instagram-ads","fashion","t-shirt","$15 ","$25 ",5,TRUE,"20-08-2011 23:11","20-11-2020 14:23","Cash On Delivery",FALSE,125,1
+2737,1077,"Stacy Carey","Female",28,694,51391,"Canada","Quebec","Laval","Billboard-QR code","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-02-2025 20:06","20-02-2028 20:17","Cash On Delivery",FALSE,2500,1
+2738,1064,"Kristen Bailey","Female",76,750,59183,"UK","England","Birmingham","Twitter-ads","fashion","jeans","$40 ","$70 ",5,TRUE,"20-02-2015 22:09","20-02-2020 19:22","Cash On Delivery",FALSE,350,1
+2739,1217,"Shannon Anderson","Female",67,743,59405,"Japan","Kanagawa","Kawasaki","Instagram-ads","books","magazine","$5 ","$8 ",1,FALSE,"20-08-2009 21:18","20-01-2019 00:00",NA,NA,8,1
+2740,1024,"Regina Mcfarland","Female",53,730,58533,"India","Maharashtra","Mumbai","Facebook-ads","books","novel","$10 ","$18 ",4,TRUE,"20-07-2009 21:15","20-09-2020 09:21","Debit Card",FALSE,72,1
+2741,1113,"Andrew Murphy","Male",73,743,59061,"UK","Scotland","Edinburgh","Instagram-ads","electronics","laptop","$800 ","$1,200 ",3,TRUE,"20-06-2006 21:20","20-09-2020 06:21","Credit Card",FALSE,3600,0
+2742,1174,"Jason Adams","Female",17,NA,NA,"USA","Texas","San Antonio","Google-ads","books","novel","$10 ","$18 ",5,TRUE,"20-11-2012 22:17","20-12-2020 17:22","Debit Card",FALSE,90,1
+2743,1007,"Angela Chapman","Female",28,689,50284,"Australia","New South Wales","Sydney","Billboard-QR code","books","novel","$10 ","$18 ",2,TRUE,"20-12-2013 21:19","20-12-2020 14:21","Cash On Delivery",FALSE,36,1
+2744,1229,"Joanne Gallegos","Female",77,748,59342,"UK","England","London","Billboard-QR code","electronics","television","$1,000 ","$1,500 ",2,TRUE,"20-05-2006 20:05","20-10-2020 06:20","Credit Card",FALSE,3000,1
+2745,1152,"Danielle Williams","Male",38,698,41718,"Canada","Quebec","Laval","Google-ads","books","novel","$10 ","$18 ",2,FALSE,"20-07-2019 23:07","20-01-2019 00:00",NA,NA,36,0
+2746,1086,"Cheryl Armstrong","Male",72,757,59678,"USA","Texas","San Antonio","Twitter-ads","books","autobiography","$20 ","$35 ",2,TRUE,"20-06-2006 21:21","20-11-2020 06:21","Paypal",FALSE,70,0
+2747,1362,"Maria Adams","Male",62,753,59916,"India","Maharashtra","Mumbai","Twitter-ads","electronics","hair dryer","$25 ","$40 ",1,TRUE,"20-01-2012 20:09","20-03-2020 12:20","Paypal",FALSE,40,0
+2748,1049,"Bailey Reyes","Female",56,724,59142,"Spain","Andalusia","Seville","Instagram-ads","electronics","television","$1,000 ","$1,500 ",3,TRUE,"20-09-2004 22:06","20-04-2020 13:22","Debit Card",FALSE,4500,1
+2749,1331,"Nathan Carson","Male",18,623,25555,"China","Guangdong","Shenzhen","E-mails","home appliances","electric stove","$250 ","$400 ",5,FALSE,"20-07-2009 21:12","20-01-2019 00:00",NA,NA,2000,0
+2750,1081,"George Vargas","Male",36,686,43120,"Australia","New South Wales","Sydney","Facebook-ads","fashion","dress","$50 ","$80 ",1,FALSE,"20-06-2018 20:21","20-01-2019 00:00",NA,NA,80,0
+2751,1117,"Robert Hill","Male",53,727,56958,"Australia","Victoria","Melbourne","E-mails","electronics","television","$1,000 ","$1,500 ",5,TRUE,"20-12-2018 20:22","20-12-2020 20:20","Credit Card",FALSE,7500,0
+2752,1354,"Janice Christensen","Female",26,646,27566,"India","Maharashtra","Pune","Google-ads","fashion","jeans","$40 ","$70 ",1,TRUE,"20-05-2001 23:22","20-09-2020 01:23","Paypal",FALSE,70,1
+2753,1422,"Robert Smith","Female",40,681,43939,"Italy","Lombardy","Milan","Facebook-ads","home appliances","mixer grinder","$60 ","$90 ",5,TRUE,"20-11-2023 21:10","20-11-2020 23:21","Debit Card",FALSE,450,1
+2754,1405,"Jessica Scott","Male",48,709,56385,"Spain","Andalusia","Granada","Billboard-QR code","toys","plush toy","$12 ","$20 ",3,FALSE,"20-04-2011 21:15","20-01-2019 00:00",NA,NA,60,0
+2755,1271,"Scott Thomas","Female",54,715,56243,"Australia","Victoria","Geelong","Instagram-ads","home appliances","mixer grinder","$60 ","$90 ",4,TRUE,"20-03-2028 22:22","20-03-2030 22:19","Paypal",FALSE,360,1
+2756,1206,"Loretta Campbell","Male",18,643,25545,"USA","Texas","Dallas","Google-ads","electronics","television","$1,000 ","$1,500 ",3,TRUE,"20-03-2007 21:09","20-08-2020 07:21","Cash On Delivery",FALSE,4500,0
+2757,1242,"Shannon Hernandez","Male",40,697,43615,"Canada","Ontario","Mississauga","E-mails","toys","puzzle","$15 ","$25 ",5,TRUE,"20-03-2027 23:08","20-03-2029 23:13","Credit Card",FALSE,125,0
+2758,1000,"Michael Saunders","Male",74,747,59129,"Canada","Quebec","Laval","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-09-2013 20:04","20-09-2020 16:20","Debit Card",FALSE,1500,0
+2759,1124,"Annette Browning","Female",20,644,15407,"Spain","Andalusia","Granada","Twitter-ads","toys","board game","$20 ","$35 ",3,TRUE,"20-07-2021 20:15","21-07-2020 00:20","Cash On Delivery",FALSE,105,1
+2760,1041,"Maria Kelly","Female",17,NA,NA,"India","Uttar Pradesh","Ghaziabad","Billboard-QR code","toys","plush toy","$12 ","$20 ",4,TRUE,"20-11-2008 23:15","20-08-2020 15:23","Paypal",FALSE,80,1
+2761,1060,"Brandon Johnson","Female",64,742,59747,"China","Guangdong","Dongguan","E-mails","electronics","table fan","$30 ","$50 ",2,TRUE,"20-09-2017 22:03","20-09-2020 19:22","Credit Card",FALSE,100,1
+2762,1204,"Daniel Dougherty","Female",15,NA,NA,"India","Maharashtra","Nagpur","E-mails","toys","action figure","$8 ","$15 ",3,TRUE,"20-06-2009 21:12","20-11-2020 09:21","Paypal",FALSE,45,1
+2763,1351,"Mrs. Sara Morton","Female",21,603,21315,"Japan","Tokyo","Kawasaki","Instagram-ads","electronics","table fan","$30 ","$50 ",2,TRUE,"20-05-2010 22:02","20-12-2020 10:22","Cash On Delivery",FALSE,100,1
+2764,1003,"Oscar Alvarado","Female",46,708,59165,"Japan","Kanagawa","Yokohama","Twitter-ads","home appliances","electric stove","$250 ","$400 ",4,TRUE,"20-07-2025 20:04","20-07-2028 20:02","Debit Card",FALSE,1600,1
+2765,1050,"Matthew Tapia","Female",56,722,59409,"Italy","Lombardy","Bergamo","E-mails","home appliances","toaster","$40 ","$60 ",2,TRUE,"20-09-2020 21:23","21-09-2020 00:21","Credit Card",FALSE,120,1
+2766,1017,"Tiffany King","Female",46,715,59931,"Japan","Kanagawa","Sagamihara","E-mails","toys","plush toy","$12 ","$20 ",5,TRUE,"20-10-2020 21:21","20-10-2020 23:21","Paypal",TRUE,100,1
+2767,1032,"Nicole Lynn","Male",34,689,41570,"China","Guangdong","Dongguan","Google-ads","home appliances","electric stove","$250 ","$400 ",5,FALSE,"20-05-2002 22:09","20-01-2019 00:00",NA,NA,2000,0
+2768,1153,"Heather David","Male",37,695,41308,"China","Guangdong","Guangzhou","Google-ads","electronics","table fan","$30 ","$50 ",3,TRUE,"20-07-2027 21:21","20-07-2030 21:07","Paypal",FALSE,150,0
+2769,1265,"Jennifer Mclaughlin","Female",31,696,43991,"Australia","Victoria","Geelong","Twitter-ads","books","autobiography","$20 ","$35 ",5,TRUE,"20-08-2024 21:09","20-08-2028 21:03","Debit Card",FALSE,175,1
+2770,1402,"Justin Braun","Male",21,661,21177,"USA","California","Los Angeles","Facebook-ads","fashion","shoes","$60 ","$100 ",3,TRUE,"20-02-2002 21:10","20-02-2020 02:21","Paypal",FALSE,300,0
+2771,1187,"Megan Clarke","Male",70,751,59718,"India","Maharashtra","Pune","Twitter-ads","fashion","shoes","$60 ","$100 ",1,TRUE,"20-12-2020 20:09","20-12-2025 20:16","Credit Card",TRUE,100,0
+2772,1133,"Jeremiah Martinez","Male",18,633,29888,"Italy","Lombardy","Bergamo","E-mails","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-07-2011 21:12","20-08-2020 11:21","Debit Card",FALSE,100,0
+2773,1257,"Samuel Burke","Male",27,688,44326,"Spain","Catalonia","Barcelona","Facebook-ads","toys","plush toy","$12 ","$20 ",4,TRUE,"20-05-2014 22:09","20-05-2020 17:22","Cash On Delivery",FALSE,80,0
+2774,1065,"Kevin Pineda","Female",23,639,21237,"UK","England","Birmingham","Billboard-QR code","books","magazine","$5 ","$8 ",4,FALSE,"20-07-2020 20:20","20-01-2019 00:00",NA,NA,32,1
+2775,1130,"David Fletcher","Male",72,757,59745,"China","Guangdong","Dongguan","Twitter-ads","books","novel","$10 ","$18 ",3,TRUE,"20-12-2027 23:02","20-02-2021 01:00","Paypal",FALSE,54,0
+2776,1477,"Debra Johnson","Female",45,722,56493,"Italy","Lazio","Frosinone","Google-ads","fashion","jeans","$40 ","$70 ",3,TRUE,"20-12-2009 21:07","20-09-2020 17:21","Paypal",TRUE,210,1
+2777,1258,"Peter Hobbs","Male",65,751,59126,"China","Shandong","Jinan","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",1,TRUE,"20-12-2026 21:22","20-12-2027 21:20","Paypal",FALSE,25,0
+2780,1295,"Brittany Burgess","Male",70,755,59903,"Australia","New South Wales","Sydney","Google-ads","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-09-2019 22:06","20-09-2020 23:22","Debit Card",FALSE,160,0
+2781,1084,"Tara Norton","Male",46,727,58650,"Italy","Lazio","Frosinone","E-mails","books","novel","$10 ","$18 ",4,TRUE,"20-04-2008 20:12","20-10-2020 08:20","Paypal",FALSE,72,0
+2782,1205,"Mary Patel","Female",27,693,46025,"USA","Texas","San Antonio","Twitter-ads","fashion","shoes","$60 ","$100 ",4,FALSE,"20-07-2027 20:08","20-01-2019 00:00",NA,NA,400,1
+2783,1216,"Kyle Williams","Male",68,747,59926,"Japan","Kanagawa","Yokohama","Instagram-ads","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-09-2006 21:18","20-06-2020 13:21","Debit Card",FALSE,160,0
+2784,1166,"Caitlin Zimmerman","Male",70,754,59634,"USA","California","San Diego","E-mails","toys","puzzle","$15 ","$25 ",5,TRUE,"20-04-2014 20:06","20-04-2020 18:20","Credit Card",TRUE,125,0
+2785,1409,"Laurie Brown","Male",59,760,59010,"Spain","Andalusia","Granada","Google-ads","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-02-2012 22:11","20-09-2020 12:22","Cash On Delivery",FALSE,2500,0
+2786,1094,"Mary Durham DVM","Female",36,683,47043,"USA","Texas","San Antonio","Facebook-ads","books","textbook","$30 ","$50 ",2,TRUE,"20-10-2004 20:04","20-10-2020 04:20","Cash On Delivery",FALSE,100,1
+2787,1266,"Raymond Cobb","Female",45,715,56701,"Italy","Lombardy","Brescia","Google-ads","home appliances","mixer grinder","$60 ","$90 ",5,FALSE,"20-09-2017 23:04","20-01-2019 00:00",NA,NA,450,1
+2788,1428,"Lisa Gonzalez","Male",66,757,59577,"Australia","New South Wales","Wollongong","Google-ads","books","textbook","$30 ","$50 ",4,FALSE,"20-04-2029 23:09","20-01-2019 00:00",NA,NA,200,0
+2789,1453,"Scott Martin","Male",15,NA,NA,"Italy","Lazio","Rome","Billboard-QR code","books","textbook","$30 ","$50 ",4,FALSE,"20-05-2027 21:21","20-01-2019 00:00",NA,NA,200,0
+2790,1268,"Kenneth Robinson","Female",69,754,59990,"China","Shandong","Jinan","Billboard-QR code","toys","board game","$20 ","$35 ",4,TRUE,"20-05-2019 20:18","20-05-2025 20:17","Cash On Delivery",FALSE,140,1
+2791,1332,"Tammy Dunn","Male",33,699,45705,"India","Maharashtra","Pune","Twitter-ads","electronics","hair dryer","$25 ","$40 ",2,FALSE,"20-07-2006 22:03","20-01-2019 00:00",NA,NA,80,0
+2792,1022,"Teresa Small","Female",61,759,59426,"India","Uttar Pradesh","Ghaziabad","E-mails","fashion","t-shirt","$15 ","$25 ",2,FALSE,"20-07-2019 23:02","20-01-2019 00:00",NA,NA,50,1
+2793,1472,"Cory Morales","Female",46,733,59171,"Spain","Andalusia","Granada","Facebook-ads","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-09-2024 20:09","21-09-2020 00:20","Cash On Delivery",FALSE,300,1
+2794,1434,"Michael Taylor","Male",75,754,59295,"China","Shandong","Yantai","E-mails","books","autobiography","$20 ","$35 ",2,TRUE,"20-03-2012 21:02","20-07-2020 12:21","Paypal",FALSE,70,0
+2795,1038,"Elizabeth Orozco","Male",63,745,59751,"Australia","Victoria","Geelong","Twitter-ads","books","autobiography","$20 ","$35 ",5,TRUE,"20-11-2016 21:11","20-11-2020 18:21","Debit Card",FALSE,175,0
+2796,1121,"Chris Kirk","Female",34,698,49955,"China","Shandong","Jinan","Facebook-ads","home appliances","microwave oven","$300 ","$500 ",4,TRUE,"20-12-2001 21:23","20-01-2020 13:21","Cash On Delivery",FALSE,2000,1
+2797,1464,"Molly Coleman","Female",46,713,59796,"UK","Scotland","Glasgow","Twitter-ads","fashion","dress","$50 ","$80 ",4,TRUE,"20-11-2028 21:10","20-01-2020 12:21","Paypal",FALSE,320,1
+2798,1085,"Natasha Thomas","Male",45,726,60106,"Japan","Tokyo","Tokyo","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",4,TRUE,"20-09-2009 20:10","20-12-2020 09:20","Credit Card",FALSE,360,0
+2799,1115,"Kevin Dominguez DDS","Female",14,NA,NA,"Japan","Kanagawa","Kawasaki","Twitter-ads","fashion","jeans","$40 ","$70 ",3,FALSE,"20-03-2002 22:06","20-01-2019 00:00",NA,NA,210,1
+2800,1308,"Sarah Powell","Female",58,747,59878,"USA","California","San Jose","Twitter-ads","toys","puzzle","$15 ","$25 ",3,TRUE,"20-04-2029 21:11","20-04-2020 05:21","Debit Card",FALSE,75,1
+2801,1424,"Anthony Hall","Female",31,689,44474,"Canada","Quebec","Quebec City","Facebook-ads","books","textbook","$30 ","$50 ",1,TRUE,"20-09-2020 22:23","21-09-2020 00:22","Credit Card",FALSE,50,1
+2802,1473,"Steven Hernandez","Male",69,759,59690,"Japan","Kanagawa","Kawasaki","Instagram-ads","fashion","t-shirt","$15 ","$25 ",3,TRUE,"20-06-2028 22:01","20-06-2030 22:18","Cash On Delivery",FALSE,75,0
+2803,1305,"Robert Lee","Male",34,694,49139,"Australia","New South Wales","Newcastle","Google-ads","home appliances","electric stove","$250 ","$400 ",3,TRUE,"20-08-2003 21:02","20-11-2020 03:21","Credit Card",FALSE,1200,0
+2804,1391,"John Mahoney","Female",77,760,59104,"USA","California","Los Angeles","Facebook-ads","books","textbook","$30 ","$50 ",1,TRUE,"20-08-2021 20:15","20-08-2020 21:20","Cash On Delivery",TRUE,50,1
+2805,1322,"Samuel Brown","Male",49,730,59143,"Canada","Quebec","Quebec City","Billboard-QR code","toys","puzzle","$15 ","$25 ",5,TRUE,"20-06-2024 20:09","20-06-2030 20:15","Cash On Delivery",FALSE,125,0
+2806,1029,"Grace Sutton","Female",60,757,59503,"Australia","Victoria","Geelong","Instagram-ads","fashion","dress","$50 ","$80 ",1,TRUE,"20-04-2028 23:20","20-03-2020 05:23","Cash On Delivery",FALSE,80,1
+2807,1301,"Steven Jackson","Male",20,670,33348,"UK","England","Birmingham","Twitter-ads","toys","puzzle","$15 ","$25 ",1,TRUE,"20-09-2007 23:15","20-07-2020 14:23","Paypal",FALSE,25,0
+2808,1204,"Daniel Dougherty","Female",15,NA,NA,"India","Maharashtra","Nagpur","E-mails","home appliances","mixer grinder","$60 ","$90 ",3,FALSE,"20-11-2015 23:21","20-01-2019 00:00",NA,NA,270,1
+2809,1466,"Shannon Munoz MD","Male",73,742,59316,"Canada","Ontario","Mississauga","Google-ads","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-08-2016 20:10","20-08-2020 23:20","Cash On Delivery",FALSE,100,0
+2810,1072,"Jacob Stewart","Male",61,758,59340,"China","Guangdong","Guangzhou","Billboard-QR code","home appliances","microwave oven","$300 ","$500 ",5,TRUE,"20-04-2029 21:09","20-01-2020 05:21","Debit Card",FALSE,2500,0
+2811,1031,"Kevin Campbell","Female",78,759,59851,"India","Maharashtra","Nagpur","Instagram-ads","electronics","hair dryer","$25 ","$40 ",4,TRUE,"20-06-2011 20:22","20-10-2020 11:20","Credit Card",FALSE,160,1
+2812,1134,"Christopher Wood","Male",53,711,59959,"Canada","Ontario","Mississauga","E-mails","electronics","hair dryer","$25 ","$40 ",2,TRUE,"20-08-2003 23:08","20-03-2020 13:23","Debit Card",FALSE,80,0
+2813,1303,"Bonnie Hodge","Male",56,721,57890,"Australia","Victoria","Ballarat","Instagram-ads","books","magazine","$5 ","$8 ",5,FALSE,"20-03-2001 22:10","20-01-2019 00:00",NA,NA,40,0
+2814,1039,"Teresa Garcia","Female",73,741,59876,"China","Shandong","Jinan","E-mails","electronics","hair dryer","$25 ","$40 ",1,FALSE,"20-09-2023 21:10","20-01-2019 00:00",NA,NA,40,1
+2815,1347,"Jason Watson","Male",60,746,59674,"Japan","Tokyo","Tokyo","Billboard-QR code","fashion","shoes","$60 ","$100 ",1,TRUE,"20-03-2014 22:10","20-03-2020 15:22","Cash On Delivery",FALSE,100,0
+2816,1420,"Jonathan Pitts","Female",23,671,25099,"USA","California","San Diego","Instagram-ads","electronics","table fan","$30 ","$50 ",4,TRUE,"20-08-2021 22:08","20-08-2020 23:22","Paypal",FALSE,200,1
+2817,1433,"Sean Lee","Male",68,742,59507,"Canada","Quebec","Laval","Facebook-ads","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-09-2014 22:10","20-09-2020 15:22","Credit Card",FALSE,300,0
+2818,1271,"Scott Thomas","Female",54,715,56243,"Australia","Victoria","Geelong","Instagram-ads","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-11-2013 20:21","20-11-2020 18:20","Credit Card",FALSE,300,1
+2819,1300,"Sara Patel","Male",41,682,44342,"China","Guangdong","Guangzhou","Google-ads","home appliances","mixer grinder","$60 ","$90 ",3,TRUE,"20-12-2007 23:15","20-07-2020 13:23","Paypal",FALSE,270,0
+2820,1225,"Andrew Noble","Female",15,NA,NA,"UK","England","Manchester","Billboard-QR code","toys","plush toy","$12 ","$20 ",4,FALSE,"20-10-2024 20:19","20-01-2019 00:00",NA,NA,80,1
+2821,1136,"Brian Ramirez","Male",55,737,58771,"USA","California","Los Angeles","Instagram-ads","electronics","hair dryer","$25 ","$40 ",3,FALSE,"20-06-2030 20:19","20-01-2019 00:00",NA,NA,120,0
+2822,1171,"April Blair","Female",65,746,59651,"Italy","Lombardy","Bergamo","Billboard-QR code","home appliances","electric stove","$250 ","$400 ",1,TRUE,"20-08-2013 23:06","20-08-2020 17:23","Debit Card",FALSE,400,1
+2823,1482,"Stephanie Kemp","Male",20,679,37754,"Australia","Victoria","Ballarat","Facebook-ads","electronics","table fan","$30 ","$50 ",5,TRUE,"20-03-2014 21:12","20-03-2020 20:21","Credit Card",FALSE,250,0
+2824,1457,"Barbara Ochoa","Female",33,690,41308,"Canada","Ontario","Ottawa","Google-ads","books","autobiography","$20 ","$35 ",4,TRUE,"20-04-2023 21:16","20-04-2028 21:14","Cash On Delivery",FALSE,140,1
+2825,1134,"Christopher Wood","Male",53,711,59959,"Canada","Ontario","Mississauga","Facebook-ads","home appliances","electric stove","$250 ","$400 ",5,FALSE,"20-11-2027 23:07","20-01-2019 00:00",NA,NA,2000,0
+2827,1255,"Michael Matthews","Male",32,691,52893,"USA","California","San Jose","Facebook-ads","home appliances","microwave oven","$300 ","$500 ",3,FALSE,"20-01-2014 23:21","20-01-2019 00:00",NA,NA,1500,0
+2828,1209,"Todd Williams","Female",35,698,46014,"Canada","Ontario","Mississauga","Instagram-ads","electronics","laptop","$800 ","$1,200 ",2,FALSE,"20-02-2006 20:15","20-01-2019 00:00",NA,NA,2400,1
+2829,1316,"Elizabeth Trujillo","Female",65,745,59742,"India","Uttar Pradesh","Ghaziabad","Twitter-ads","books","textbook","$30 ","$50 ",3,FALSE,"20-05-2001 22:04","20-01-2019 00:00",NA,NA,150,1
+2830,1263,"Erik Wong","Male",57,736,58934,"Australia","Victoria","Melbourne","Google-ads","home appliances","electric stove","$250 ","$400 ",4,TRUE,"20-01-2018 21:00","21-01-2020 00:21","Debit Card",TRUE,1600,0
+2831,1052,"Ryan Hammond","Female",60,748,59791,"Canada","Quebec","Quebec City","Twitter-ads","electronics","table fan","$30 ","$50 ",2,TRUE,"20-09-2014 20:16","20-09-2020 19:20","Debit Card",FALSE,100,1
+2832,1217,"Shannon Anderson","Female",67,743,59405,"Japan","Kanagawa","Kawasaki","Billboard-QR code","toys","plush toy","$12 ","$20 ",1,TRUE,"20-12-2018 22:06","21-12-2020 00:22","Cash On Delivery",FALSE,20,1
+2833,1062,"Jesse Hernandez","Female",16,NA,NA,"USA","Texas","San Antonio","Facebook-ads","electronics","laptop","$800 ","$1,200 ",2,TRUE,"20-10-2017 21:16","20-10-2020 19:21","Cash On Delivery",FALSE,2400,1
+2834,1133,"Jeremiah Martinez","Male",18,633,29888,"Italy","Lombardy","Bergamo","Google-ads","toys","board game","$20 ","$35 ",2,TRUE,"20-04-2030 22:02","20-04-2030 22:16","Debit Card",FALSE,70,0
+2835,1256,"Timothy Meyer","Female",31,693,52684,"Italy","Lombardy","Brescia","Instagram-ads","electronics","laptop","$800 ","$1,200 ",5,TRUE,"20-11-2026 20:18","20-02-2020 12:20","Paypal",FALSE,6000,1
+2836,1366,"William Benton","Male",68,757,59755,"Canada","Ontario","Ottawa","Billboard-QR code","electronics","television","$1,000 ","$1,500 ",2,TRUE,"20-09-2007 21:19","20-10-2020 07:21","Credit Card",FALSE,3000,0
+2838,1455,"Zachary Sanders","Male",62,755,59425,"Canada","Ontario","Ottawa","Facebook-ads","toys","action figure","$8 ","$15 ",3,TRUE,"20-11-2026 22:18","20-11-2028 22:22","Paypal",FALSE,45,0
+2839,1400,"Natalie Vasquez","Female",53,717,55741,"UK","England","Birmingham","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-07-2001 20:23","20-11-2020 01:20","Cash On Delivery",FALSE,500,1
+2841,1026,"Juan Davis","Male",18,663,21450,"Australia","Victoria","Geelong","Google-ads","books","novel","$10 ","$18 ",4,FALSE,"20-08-2029 22:16","20-01-2019 00:00",NA,NA,72,0
+2842,1211,"Daniel Riley","Female",23,641,34870,"Japan","Tokyo","Yokohama","Twitter-ads","home appliances","mixer grinder","$60 ","$90 ",3,TRUE,"20-03-2023 20:19","20-03-2025 20:23","Paypal",FALSE,270,1
+2843,1079,"Aimee Perez","Male",38,686,42159,"UK","England","London","E-mails","toys","puzzle","$15 ","$25 ",5,FALSE,"20-06-2026 23:01","20-01-2019 00:00",NA,NA,125,0
+2844,1341,"Amanda Tanner","Female",40,696,47210,"Canada","Quebec","Laval","Google-ads","fashion","t-shirt","$15 ","$25 ",2,TRUE,"20-04-2015 21:21","20-04-2020 16:21","Debit Card",TRUE,50,1
+2845,1408,"Gina Sanford","Female",62,752,59956,"USA","California","San Jose","Twitter-ads","electronics","hair dryer","$25 ","$40 ",3,TRUE,"20-03-2006 23:14","20-07-2020 06:23","Debit Card",FALSE,120,1
+2846,1345,"Jennifer Griffin","Female",46,709,56661,"Australia","Victoria","Melbourne","E-mails","home appliances","microwave oven","$300 ","$500 ",4,TRUE,"20-12-2018 20:04","20-12-2020 22:20","Paypal",FALSE,2000,1
+2847,1003,"Oscar Alvarado","Female",46,708,59165,"Japan","Kanagawa","Yokohama","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",1,FALSE,"20-09-2007 23:00","20-01-2019 00:00",NA,NA,90,1
+2848,1183,"Mrs. Cynthia Miller MD","Male",25,632,34625,"UK","England","Manchester","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",3,TRUE,"20-07-2013 21:22","20-07-2020 18:21","Debit Card",FALSE,75,0
+2849,1035,"Tiffany Ferrell","Female",66,758,59438,"USA","California","Los Angeles","Billboard-QR code","electronics","laptop","$800 ","$1,200 ",1,TRUE,"20-03-2021 21:04","20-03-2025 21:10","Debit Card",FALSE,1200,1
+2850,1365,"Kathy Watkins","Female",59,741,59230,"China","Guangdong","Shenzhen","Google-ads","electronics","table fan","$30 ","$50 ",1,TRUE,"20-07-2002 20:06","20-09-2020 02:20","Cash On Delivery",TRUE,50,1
+2851,1441,"Amber Mayo","Female",42,686,45141,"Spain","Andalusia","Malaga","Facebook-ads","fashion","t-shirt","$15 ","$25 ",3,TRUE,"20-11-2027 23:11","20-11-2030 23:17","Credit Card",FALSE,75,1
+2852,1159,"Omar Allen","Female",45,713,59140,"Japan","Kanagawa","Yokohama","Instagram-ads","electronics","table fan","$30 ","$50 ",3,FALSE,"20-01-2012 23:07","20-01-2019 00:00",NA,NA,150,1
+2853,1176,"Mark Ferguson","Male",30,690,48542,"Australia","New South Wales","Sydney","Facebook-ads","electronics","television","$1,000 ","$1,500 ",1,FALSE,"20-10-2012 21:04","20-01-2019 00:00",NA,NA,1500,0
+2854,1205,"Mary Patel","Female",27,693,46025,"USA","Texas","San Antonio","Twitter-ads","books","novel","$10 ","$18 ",1,FALSE,"20-05-2009 21:17","20-01-2019 00:00",NA,NA,18,1
+2855,1396,"Anthony Santos","Female",63,754,59310,"Spain","Andalusia","Seville","Facebook-ads","fashion","t-shirt","$15 ","$25 ",4,FALSE,"20-01-2003 20:01","20-01-2019 00:00",NA,NA,100,1
+2856,1046,"Eric Gardner","Male",43,710,57621,"Italy","Lazio","Rome","Google-ads","fashion","shoes","$60 ","$100 ",2,TRUE,"20-03-2007 23:08","20-04-2020 07:23","Credit Card",FALSE,200,0
+2857,1254,"Robert Miller","Female",29,690,42350,"UK","England","Manchester","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",2,TRUE,"20-01-2031 22:15","20-04-2020 02:22","Paypal",FALSE,180,1
+2858,1418,"Kelly Moore","Male",28,682,50958,"Japan","Kanagawa","Sagamihara","E-mails","toys","puzzle","$15 ","$25 ",3,TRUE,"20-07-2026 21:11","20-07-2031 21:12","Cash On Delivery",FALSE,75,0
+2859,1117,"Robert Hill","Male",53,727,56958,"Australia","Victoria","Melbourne","Billboard-QR code","electronics","television","$1,000 ","$1,500 ",5,TRUE,"20-02-2022 21:07","20-02-2026 21:03","Debit Card",FALSE,7500,0
+2860,1278,"Lisa Juarez","Female",18,607,21658,"Spain","Andalusia","Malaga","Google-ads","electronics","table fan","$30 ","$50 ",1,FALSE,"20-03-2011 23:21","20-01-2019 00:00",NA,NA,50,1
+2861,1166,"Caitlin Zimmerman","Male",70,754,59634,"USA","California","San Diego","Instagram-ads","books","novel","$10 ","$18 ",3,TRUE,"20-08-2021 23:23","20-08-2020 23:23","Debit Card",FALSE,54,0
+2862,1358,"Gary Wolfe","Female",40,697,46213,"Italy","Lombardy","Bergamo","Facebook-ads","fashion","dress","$50 ","$80 ",1,TRUE,"20-08-2008 21:19","20-09-2020 08:21","Cash On Delivery",FALSE,80,1
+2863,1435,"Joshua Williams","Male",52,715,58739,"USA","Texas","San Antonio","Twitter-ads","books","novel","$10 ","$18 ",4,FALSE,"20-11-2003 22:13","20-01-2019 00:00",NA,NA,72,0
+2864,1314,"Willie Graham","Female",54,738,56851,"China","Guangdong","Shenzhen","Twitter-ads","electronics","table fan","$30 ","$50 ",5,TRUE,"20-10-2016 21:14","20-10-2020 19:21","Cash On Delivery",FALSE,250,1
+2865,1161,"Evelyn Smith","Male",72,759,59877,"Canada","Ontario","Toronto","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",2,TRUE,"20-02-2020 21:20","20-02-2027 21:03","Cash On Delivery",FALSE,180,0
+2866,1100,"George Stewart","Female",48,734,58180,"China","Shandong","Qingdao","Twitter-ads","electronics","table fan","$30 ","$50 ",4,TRUE,"20-02-2009 20:23","20-07-2020 09:20","Cash On Delivery",FALSE,200,1
+2867,1255,"Michael Matthews","Male",32,691,52893,"USA","California","San Jose","Instagram-ads","fashion","jeans","$40 ","$70 ",2,TRUE,"20-01-2020 21:22","20-01-2020 23:21","Cash On Delivery",FALSE,140,0
+2868,1272,"Brenda Franco","Female",49,734,57206,"Spain","Catalonia","Girona","Billboard-QR code","books","novel","$10 ","$18 ",4,TRUE,"20-11-2002 20:19","20-02-2020 13:20","Credit Card",FALSE,72,1
+2870,1483,"Zachary Pierce","Male",61,751,59174,"UK","Scotland","Edinburgh","Billboard-QR code","home appliances","microwave oven","$300 ","$500 ",2,TRUE,"20-06-2019 22:11","20-06-2020 22:22","Cash On Delivery",FALSE,1000,0
+2871,1421,"Leah Richmond","Male",74,760,59609,"Spain","Andalusia","Granada","Twitter-ads","toys","action figure","$8 ","$15 ",2,TRUE,"20-07-2014 23:17","20-07-2020 19:23","Credit Card",FALSE,30,0
+2872,1332,"Tammy Dunn","Male",33,699,45705,"India","Maharashtra","Pune","Google-ads","fashion","t-shirt","$15 ","$25 ",5,FALSE,"20-10-2021 20:17","20-01-2019 00:00",NA,NA,125,0
+2873,1074,"John Johns","Male",46,732,59131,"USA","Texas","Dallas","Google-ads","fashion","jeans","$40 ","$70 ",1,TRUE,"20-02-2017 21:10","20-02-2020 23:21","Credit Card",FALSE,70,0
+2874,1185,"Bryan Nguyen","Male",49,701,56463,"Japan","Tokyo","Tokyo","Twitter-ads","home appliances","mixer grinder","$60 ","$90 ",4,FALSE,"20-09-2007 21:01","20-01-2019 00:00",NA,NA,360,0
+2875,1167,"Anthony Golden","Male",45,736,60828,"India","Maharashtra","Pune","Facebook-ads","fashion","t-shirt","$15 ","$25 ",1,FALSE,"20-03-2004 23:12","20-01-2019 00:00",NA,NA,25,0
+2876,1335,"Matthew Reid","Female",51,736,58009,"Canada","Ontario","Toronto","Twitter-ads","toys","action figure","$8 ","$15 ",2,TRUE,"20-11-2017 20:17","20-11-2020 23:20","Credit Card",FALSE,30,1
+2877,1448,"Jennifer Gomez","Male",43,732,57878,"UK","England","Manchester","Google-ads","toys","action figure","$8 ","$15 ",1,TRUE,"20-05-2025 21:01","20-05-2029 21:16","Debit Card",FALSE,15,0
+2878,1388,"Monica Peterson","Male",18,627,21601,"Italy","Lazio","Latina","Google-ads","electronics","table fan","$30 ","$50 ",3,TRUE,"20-08-2008 21:09","20-08-2020 14:21","Cash On Delivery",FALSE,150,0
+2879,1149,"Robert Shaffer","Male",20,633,30740,"China","Shandong","Yantai","E-mails","toys","action figure","$8 ","$15 ",1,TRUE,"20-09-2005 22:03","20-05-2020 14:22","Credit Card",FALSE,15,0
+2880,1071,"Rose Singh","Female",54,729,59013,"Spain","Andalusia","Seville","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",3,FALSE,"20-06-2010 22:10","20-01-2019 00:00",NA,NA,270,1
+2881,1472,"Cory Morales","Female",46,733,59171,"Spain","Andalusia","Granada","Google-ads","fashion","t-shirt","$15 ","$25 ",5,TRUE,"20-05-2020 23:06","20-05-2020 22:23","Cash On Delivery",FALSE,125,1
+2882,1497,"Timothy Kelley","Male",23,625,23235,"Canada","Quebec","Quebec City","Instagram-ads","fashion","t-shirt","$15 ","$25 ",4,FALSE,"20-11-2007 22:15","20-01-2019 00:00",NA,NA,100,0
+2883,1345,"Jennifer Griffin","Female",46,709,56661,"Australia","Victoria","Melbourne","Google-ads","books","autobiography","$20 ","$35 ",2,TRUE,"20-05-2024 22:07","20-05-2025 22:19","Debit Card",TRUE,70,1
+2884,1061,"Jeremy Underwood","Male",28,688,45070,"India","Uttar Pradesh","Ghaziabad","Instagram-ads","fashion","dress","$50 ","$80 ",4,TRUE,"20-05-2013 21:18","20-05-2020 17:21","Debit Card",FALSE,320,0
+2885,1298,"Scott Harris","Female",71,757,59148,"USA","California","Los Angeles","Twitter-ads","toys","action figure","$8 ","$15 ",4,TRUE,"20-06-2006 20:09","20-08-2020 06:20","Paypal",FALSE,60,1
+2886,1178,"Justin Marshall","Male",16,NA,NA,"China","Shandong","Jinan","E-mails","books","textbook","$30 ","$50 ",3,TRUE,"20-03-2012 21:11","20-03-2020 12:21","Paypal",FALSE,150,0
+2887,1481,"David Berry","Female",34,697,44654,"Japan","Tokyo","Yokohama","Google-ads","books","autobiography","$20 ","$35 ",3,FALSE,"20-09-2028 21:15","20-01-2019 00:00",NA,NA,105,1
+2888,1317,"Cindy Hayes","Male",53,709,59856,"USA","California","San Diego","Twitter-ads","electronics","laptop","$800 ","$1,200 ",4,TRUE,"20-03-2026 20:09","20-03-2030 20:13","Debit Card",FALSE,4800,0
+2889,1208,"Patricia Smith","Male",24,620,33019,"Japan","Tokyo","Kawasaki","E-mails","books","novel","$10 ","$18 ",2,TRUE,"20-09-2015 20:19","20-09-2020 17:20","Credit Card",FALSE,36,0
+2890,1172,"Edward Little","Male",18,653,16725,"USA","Texas","Houston","Billboard-QR code","home appliances","electric stove","$250 ","$400 ",3,TRUE,"20-03-2015 20:12","20-03-2020 21:20","Cash On Delivery",FALSE,1200,0
+2891,1118,"Amanda Watson","Female",48,711,60252,"Spain","Catalonia","Tarragona","Billboard-QR code","home appliances","electric stove","$250 ","$400 ",4,TRUE,"20-09-2015 20:00","20-09-2020 19:20","Cash On Delivery",TRUE,1600,1
+2892,1051,"Amber Vargas","Female",41,697,41444,"Spain","Andalusia","Seville","E-mails","fashion","dress","$50 ","$80 ",4,TRUE,"20-10-2018 20:18","21-10-2020 00:20","Cash On Delivery",FALSE,320,1
+2893,1077,"Stacy Carey","Female",28,694,51391,"Canada","Quebec","Laval","Twitter-ads","fashion","shoes","$60 ","$100 ",4,FALSE,"20-10-2018 22:00","20-01-2019 00:00",NA,NA,400,1
+2894,1056,"Jerome Martin","Male",18,648,26151,"USA","Texas","Dallas","Facebook-ads","home appliances","electric stove","$250 ","$400 ",5,TRUE,"20-06-2013 23:16","20-06-2020 16:23","Debit Card",FALSE,2000,0
+2895,1168,"Edward Martin","Male",28,694,47050,"UK","Scotland","Glasgow","Billboard-QR code","home appliances","toaster","$40 ","$60 ",2,TRUE,"20-06-2006 20:11","20-08-2020 06:20","Credit Card",FALSE,120,0
+2896,1112,"Michele Heath","Male",33,685,51524,"India","Uttar Pradesh","Ghaziabad","Instagram-ads","books","novel","$10 ","$18 ",4,FALSE,"20-11-2014 21:06","20-01-2019 00:00",NA,NA,72,0
+2897,1408,"Gina Sanford","Female",62,752,59956,"USA","California","San Jose","Billboard-QR code","fashion","dress","$50 ","$80 ",5,TRUE,"20-12-2009 23:20","20-09-2020 13:23","Paypal",FALSE,400,1
+2898,1047,"Chad Meyers","Male",17,NA,NA,"Spain","Andalusia","Malaga","Instagram-ads","home appliances","mixer grinder","$60 ","$90 ",2,FALSE,"20-04-2023 22:12","20-01-2019 00:00",NA,NA,180,0
+2899,1406,"Roger Ramirez","Male",76,757,59956,"Spain","Andalusia","Seville","Billboard-QR code","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-04-2029 22:16","20-02-2020 05:22","Credit Card",FALSE,300,0
+2900,1127,"Michael Weber","Male",71,752,59963,"Australia","Victoria","Melbourne","E-mails","home appliances","toaster","$40 ","$60 ",1,TRUE,"20-02-2008 22:23","20-09-2020 08:22","Paypal",FALSE,60,0
+2901,1081,"George Vargas","Male",36,686,43120,"Australia","New South Wales","Sydney","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",2,FALSE,"20-05-2015 22:18","20-01-2019 00:00",NA,NA,180,0
+2902,1379,"Brian Harding","Female",44,714,59594,"India","Uttar Pradesh","Lucknow","Facebook-ads","toys","action figure","$8 ","$15 ",5,FALSE,"20-03-2019 23:02","20-01-2019 00:00",NA,NA,75,1
+2903,1098,"Kenneth Castro","Male",22,628,21115,"Australia","Victoria","Ballarat","Google-ads","fashion","dress","$50 ","$80 ",5,TRUE,"20-01-2030 20:21","20-02-2020 02:20","Paypal",FALSE,400,0
+2904,1417,"Jessica Gray","Female",25,664,37194,"Spain","Andalusia","Granada","Twitter-ads","toys","action figure","$8 ","$15 ",1,TRUE,"20-05-2004 23:12","20-08-2020 04:23","Debit Card",TRUE,15,1
+2905,1439,"Ashley Russell","Female",68,760,59467,"USA","California","Los Angeles","Facebook-ads","home appliances","microwave oven","$300 ","$500 ",4,TRUE,"20-06-2005 23:21","20-10-2020 05:23","Debit Card",FALSE,2000,1
+2906,1339,"Tammy Park","Female",28,692,42852,"China","Shandong","Jinan","Facebook-ads","toys","board game","$20 ","$35 ",2,TRUE,"20-04-2025 22:02","20-04-2027 22:11","Debit Card",FALSE,70,1
+2907,1389,"Jason Bryant","Male",69,748,59458,"Australia","Victoria","Ballarat","Google-ads","electronics","television","$1,000 ","$1,500 ",1,TRUE,"20-01-2019 21:11","20-01-2020 19:21","Credit Card",FALSE,1500,0
+2908,1388,"Monica Peterson","Male",18,627,21601,"Italy","Lazio","Latina","Instagram-ads","electronics","laptop","$800 ","$1,200 ",4,TRUE,"20-03-2012 20:20","20-05-2020 12:20","Credit Card",FALSE,4800,0
+2909,1026,"Juan Davis","Male",18,663,21450,"Australia","Victoria","Geelong","E-mails","books","autobiography","$20 ","$35 ",1,TRUE,"20-06-2026 23:11","20-06-2029 23:12","Credit Card",FALSE,35,0
+2910,1437,"Haley Stewart","Male",80,756,59034,"Australia","New South Wales","Wollongong","E-mails","toys","board game","$20 ","$35 ",1,FALSE,"20-10-2021 23:11","20-01-2019 00:00",NA,NA,35,0
+2911,1102,"Carlos Barry","Female",25,633,24750,"Canada","Ontario","Ottawa","Google-ads","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-09-2007 20:07","20-07-2020 16:20","Cash On Delivery",TRUE,500,1
+2912,1368,"Nicholas Dominguez","Female",16,NA,NA,"Japan","Kanagawa","Yokohama","Billboard-QR code","books","autobiography","$20 ","$35 ",1,TRUE,"20-12-2015 20:04","20-12-2020 21:20","Cash On Delivery",FALSE,35,1
+2913,1085,"Natasha Thomas","Male",45,726,60106,"Japan","Tokyo","Tokyo","Billboard-QR code","toys","puzzle","$15 ","$25 ",3,TRUE,"20-08-2022 22:02","20-08-2025 22:10","Credit Card",FALSE,75,0
+2914,1061,"Jeremy Underwood","Male",28,688,45070,"India","Uttar Pradesh","Ghaziabad","Instagram-ads","books","autobiography","$20 ","$35 ",3,TRUE,"20-06-2008 23:10","20-10-2020 08:23","Credit Card",FALSE,105,0
+2915,1049,"Bailey Reyes","Female",56,724,59142,"Spain","Andalusia","Seville","Facebook-ads","toys","board game","$20 ","$35 ",5,TRUE,"20-12-2025 23:23","20-01-2021 01:00","Debit Card",FALSE,175,1
+2916,1010,"Larry Hendricks","Female",32,698,47865,"Spain","Catalonia","Barcelona","Instagram-ads","home appliances","microwave oven","$300 ","$500 ",5,FALSE,"20-07-2008 23:23","20-01-2019 00:00",NA,NA,2500,1
+2917,1169,"Andrew Carrillo","Male",29,684,50036,"UK","Scotland","Aberdeen","Instagram-ads","electronics","television","$1,000 ","$1,500 ",5,TRUE,"20-09-2022 21:03","20-09-2020 23:21","Cash On Delivery",FALSE,7500,0
+2918,1046,"Eric Gardner","Male",43,710,57621,"Italy","Lazio","Rome","E-mails","fashion","shoes","$60 ","$100 ",4,FALSE,"20-11-2007 22:17","20-01-2019 00:00",NA,NA,400,0
+2919,1402,"Justin Braun","Male",21,661,21177,"USA","California","Los Angeles","Google-ads","fashion","dress","$50 ","$80 ",4,TRUE,"20-08-2014 22:11","20-08-2020 20:22","Cash On Delivery",FALSE,320,0
+2920,1170,"Christopher Jacobson","Female",37,681,48337,"Japan","Tokyo","Kawasaki","E-mails","books","autobiography","$20 ","$35 ",5,TRUE,"20-10-2029 23:13","20-10-2031 23:08","Debit Card",FALSE,175,1
+2921,1435,"Joshua Williams","Male",52,715,58739,"USA","Texas","San Antonio","E-mails","electronics","laptop","$800 ","$1,200 ",1,TRUE,"20-11-2008 20:18","20-08-2020 16:20","Cash On Delivery",TRUE,1200,0
+2922,1255,"Michael Matthews","Male",32,691,52893,"USA","California","San Jose","Google-ads","toys","puzzle","$15 ","$25 ",3,TRUE,"20-07-2007 21:00","20-12-2020 07:21","Credit Card",TRUE,75,0
+2923,1475,"Craig Petersen","Male",46,728,55855,"China","Shandong","Jinan","Facebook-ads","toys","action figure","$8 ","$15 ",5,TRUE,"20-05-2020 20:21","20-05-2020 21:20","Cash On Delivery",FALSE,75,0
+2924,1448,"Jennifer Gomez","Male",43,732,57878,"UK","England","Manchester","Twitter-ads","electronics","table fan","$30 ","$50 ",1,TRUE,"20-11-2020 21:02","21-11-2020 00:21","Credit Card",FALSE,50,0
+2925,1385,"Brett Mayo","Male",57,732,59050,"Canada","Quebec","Quebec City","Twitter-ads","fashion","shoes","$60 ","$100 ",2,TRUE,"20-06-2028 20:23","20-03-2020 07:20","Paypal",FALSE,200,0
+2926,1148,"Jeremy Lee","Male",38,687,41962,"India","Maharashtra","Mumbai","Google-ads","home appliances","toaster","$40 ","$60 ",3,FALSE,"20-03-2001 23:11","20-01-2019 00:00",NA,NA,180,0
+2927,1241,"Antonio Robinson","Female",77,751,59436,"Italy","Lombardy","Milan","E-mails","toys","plush toy","$12 ","$20 ",1,TRUE,"20-01-2006 20:09","20-02-2020 06:20","Credit Card",FALSE,20,1
+2928,1002,"Colleen Mcclain","Female",24,605,23007,"Japan","Kanagawa","Yokohama","Billboard-QR code","electronics","laptop","$800 ","$1,200 ",4,TRUE,"20-09-2003 21:22","20-11-2020 03:21","Paypal",FALSE,4800,1
+2929,1034,"Stephen Turner","Male",60,742,59549,"China","Shandong","Yantai","Instagram-ads","books","novel","$10 ","$18 ",3,TRUE,"20-10-2021 20:01","20-10-2020 23:20","Debit Card",FALSE,54,0
+2930,1231,"Dr. Keith Goodman","Female",40,690,51568,"UK","England","London","E-mails","books","novel","$10 ","$18 ",1,FALSE,"20-06-2024 22:20","20-01-2019 00:00",NA,NA,18,1
+2931,1089,"Victor Bautista","Male",56,719,59704,"UK","England","Birmingham","Facebook-ads","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-02-2009 23:00","20-08-2020 09:23","Debit Card",FALSE,1500,0
+2932,1036,"Courtney Palmer","Male",45,703,56570,"Canada","Quebec","Quebec City","Twitter-ads","toys","puzzle","$15 ","$25 ",4,TRUE,"20-06-2016 23:04","20-06-2020 20:23","Credit Card",FALSE,100,0
+2933,1430,"Charles Bass","Male",37,682,49438,"India","Uttar Pradesh","Ghaziabad","Billboard-QR code","home appliances","mixer grinder","$60 ","$90 ",4,TRUE,"20-10-2022 20:10","20-10-2026 20:08","Paypal",FALSE,360,0
+2934,1189,"Charles Allen","Male",29,684,43542,"Australia","Victoria","Melbourne","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",1,TRUE,"20-04-2024 22:07","20-04-2025 22:09","Cash On Delivery",FALSE,25,0
+2935,1306,"Matthew Smith","Female",55,708,56833,"Spain","Catalonia","Tarragona","Google-ads","toys","plush toy","$12 ","$20 ",5,TRUE,"20-07-2007 23:08","20-07-2020 13:23","Paypal",FALSE,100,1
+2936,1469,"Paula Ware","Female",46,707,56645,"Italy","Lombardy","Bergamo","E-mails","electronics","table fan","$30 ","$50 ",4,TRUE,"20-02-2020 23:15","20-02-2020 22:23","Cash On Delivery",FALSE,200,1
+2937,1355,"Dennis Scott","Male",53,737,55878,"Australia","New South Wales","Wollongong","Billboard-QR code","toys","action figure","$8 ","$15 ",5,TRUE,"20-05-2001 22:18","20-06-2020 01:22","Paypal",FALSE,75,0
+2938,1074,"John Johns","Male",46,732,59131,"USA","Texas","Dallas","Instagram-ads","fashion","jeans","$40 ","$70 ",1,FALSE,"20-01-2005 20:00","20-01-2019 00:00",NA,NA,70,0
+2939,1247,"Michael Ford","Male",78,751,59397,"India","Uttar Pradesh","Ghaziabad","Facebook-ads","toys","plush toy","$12 ","$20 ",4,FALSE,"20-06-2009 23:13","20-01-2019 00:00",NA,NA,80,0
+2940,1175,"Alexa Petersen","Male",59,755,59026,"USA","Texas","San Antonio","Facebook-ads","books","novel","$10 ","$18 ",5,FALSE,"20-07-2019 22:04","20-01-2019 00:00",NA,NA,90,0
+2941,1410,"Brittney Wolfe","Male",21,666,37893,"UK","Scotland","Glasgow","Instagram-ads","home appliances","mixer grinder","$60 ","$90 ",4,TRUE,"20-03-2023 20:09","20-03-2020 23:20","Cash On Delivery",FALSE,360,0
+2942,1042,"James Carter","Female",42,687,45226,"Australia","New South Wales","Sydney","Facebook-ads","home appliances","mixer grinder","$60 ","$90 ",5,TRUE,"20-11-2005 21:04","20-05-2020 13:21","Debit Card",FALSE,450,1
+2943,1115,"Kevin Dominguez DDS","Female",14,NA,NA,"Japan","Kanagawa","Kawasaki","Facebook-ads","books","magazine","$5 ","$8 ",4,TRUE,"20-02-2022 22:22","20-02-2020 23:22","Paypal",FALSE,32,1
+2944,1098,"Kenneth Castro","Male",22,628,21115,"Australia","Victoria","Ballarat","Instagram-ads","home appliances","electric stove","$250 ","$400 ",5,FALSE,"20-09-2009 21:08","20-01-2019 00:00",NA,NA,2000,0
+2945,1267,"Tracy Lowe","Male",32,687,50488,"Spain","Andalusia","Granada","Billboard-QR code","toys","action figure","$8 ","$15 ",2,FALSE,"20-01-2007 23:00","20-01-2019 00:00",NA,NA,30,0
+2946,1012,"Lisa Ho MD","Male",17,NA,NA,"Canada","Ontario","Mississauga","E-mails","home appliances","toaster","$40 ","$60 ",2,TRUE,"20-05-2009 23:13","20-11-2020 09:23","Credit Card",FALSE,120,0
+2947,1202,"Makayla Coleman","Male",57,716,56965,"Spain","Andalusia","Granada","Twitter-ads","fashion","t-shirt","$15 ","$25 ",3,FALSE,"20-01-2013 23:00","20-01-2019 00:00",NA,NA,75,0
+2948,1200,"Charles Pace","Male",14,NA,NA,"Spain","Andalusia","Seville","Instagram-ads","home appliances","toaster","$40 ","$60 ",1,FALSE,"20-08-2013 21:10","20-01-2019 00:00",NA,NA,60,0
+2949,1034,"Stephen Turner","Male",60,742,59549,"China","Shandong","Yantai","Billboard-QR code","toys","action figure","$8 ","$15 ",1,TRUE,"20-02-2010 20:15","20-07-2020 10:20","Debit Card",FALSE,15,0
+2950,1029,"Grace Sutton","Female",60,757,59503,"Australia","Victoria","Geelong","E-mails","toys","board game","$20 ","$35 ",5,TRUE,"20-03-2031 20:23","20-06-2020 04:20","Paypal",FALSE,175,1
+2951,1264,"Sheryl Williamson","Male",57,717,57340,"USA","Texas","Houston","E-mails","fashion","shoes","$60 ","$100 ",1,TRUE,"20-10-2003 23:19","20-11-2020 03:23","Paypal",FALSE,100,0
+2952,1444,"Jessica Kelly","Female",52,716,56948,"USA","Texas","Dallas","E-mails","toys","plush toy","$12 ","$20 ",5,TRUE,"20-03-2031 21:02","20-02-2020 04:21","Debit Card",FALSE,100,1
+2953,1157,"Courtney Norman","Female",63,751,59987,"Spain","Catalonia","Tarragona","Twitter-ads","books","novel","$10 ","$18 ",4,FALSE,"20-04-2011 20:19","20-01-2019 00:00",NA,NA,72,1
+2954,1369,"Kelsey Richardson","Female",71,758,59890,"China","Shandong","Jinan","Billboard-QR code","electronics","table fan","$30 ","$50 ",1,TRUE,"20-11-2009 22:16","20-12-2020 09:22","Paypal",FALSE,50,1
+2955,1178,"Justin Marshall","Male",16,NA,NA,"China","Shandong","Jinan","Google-ads","home appliances","mixer grinder","$60 ","$90 ",3,TRUE,"20-08-2012 20:08","20-10-2020 12:20","Cash On Delivery",FALSE,270,0
+2956,1297,"Dakota Smith","Female",30,687,46947,"India","Maharashtra","Nagpur","Billboard-QR code","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-09-2014 21:07","20-09-2020 19:21","Debit Card",FALSE,500,1
+2957,1302,"Willie Simmons","Female",24,657,28660,"Australia","Victoria","Ballarat","Google-ads","toys","plush toy","$12 ","$20 ",1,TRUE,"20-03-2005 20:08","20-04-2020 05:20","Debit Card",FALSE,20,1
+2958,1231,"Dr. Keith Goodman","Female",40,690,51568,"UK","England","London","Twitter-ads","electronics","table fan","$30 ","$50 ",5,TRUE,"20-06-2030 20:19","20-04-2020 07:20","Credit Card",TRUE,250,1
+2960,1391,"John Mahoney","Female",77,760,59104,"USA","California","Los Angeles","Instagram-ads","toys","action figure","$8 ","$15 ",4,FALSE,"20-09-2021 20:07","20-01-2019 00:00",NA,NA,60,1
+2961,1214,"Dustin Soto","Female",25,638,19641,"Spain","Catalonia","Tarragona","Google-ads","fashion","dress","$50 ","$80 ",5,FALSE,"20-06-2025 21:12","20-01-2019 00:00",NA,NA,400,1
+2962,1143,"William Moore","Female",54,714,59627,"China","Guangdong","Guangzhou","Google-ads","electronics","laptop","$800 ","$1,200 ",2,TRUE,"20-10-2012 22:15","20-11-2020 12:22","Cash On Delivery",FALSE,2400,1
+2963,1005,"Patrick York","Female",22,637,25990,"India","Uttar Pradesh","Kanpur","E-mails","books","novel","$10 ","$18 ",1,FALSE,"20-11-2008 22:18","20-01-2019 00:00",NA,NA,18,1
+2964,1082,"Jacqueline Pruitt","Female",24,600,32767,"Australia","New South Wales","Wollongong","Facebook-ads","toys","plush toy","$12 ","$20 ",1,TRUE,"20-10-2018 20:12","20-10-2020 20:20","Debit Card",FALSE,20,1
+2965,1309,"Amy Tanner","Male",48,722,57745,"Japan","Tokyo","Yokohama","Instagram-ads","home appliances","toaster","$40 ","$60 ",4,TRUE,"20-09-2012 23:09","20-12-2020 14:23","Cash On Delivery",TRUE,240,0
+2966,1470,"Heather Carter","Male",50,709,58686,"USA","Texas","Dallas","E-mails","electronics","television","$1,000 ","$1,500 ",3,TRUE,"20-03-2009 21:20","20-07-2020 09:21","Paypal",FALSE,4500,0
+2967,1126,"Sean Hansen","Male",29,684,43741,"Spain","Catalonia","Girona","Instagram-ads","home appliances","microwave oven","$300 ","$500 ",4,TRUE,"20-06-2015 20:13","20-06-2020 21:20","Debit Card",FALSE,2000,0
+2968,1468,"Mrs. Jennifer Scott","Male",62,756,59229,"Australia","Victoria","Geelong","Instagram-ads","books","magazine","$5 ","$8 ",1,TRUE,"20-01-2004 22:12","20-03-2020 04:22","Credit Card",FALSE,8,0
+2969,1035,"Tiffany Ferrell","Female",66,758,59438,"USA","California","Los Angeles","Google-ads","electronics","laptop","$800 ","$1,200 ",5,TRUE,"20-08-2031 23:16","20-05-2020 09:23","Cash On Delivery",FALSE,6000,1
+2970,1398,"Eric Dixon","Male",29,689,43847,"Japan","Kanagawa","Sagamihara","Google-ads","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-07-2023 23:09","20-07-2029 23:08","Paypal",FALSE,1500,0
+2971,1198,"Michael Dalton","Female",61,754,59863,"China","Shandong","Jinan","E-mails","toys","action figure","$8 ","$15 ",5,TRUE,"20-01-2030 20:09","20-06-2020 02:20","Debit Card",FALSE,75,1
+2972,1147,"Taylor Edwards","Female",61,749,59217,"China","Guangdong","Shenzhen","Google-ads","books","textbook","$30 ","$50 ",3,TRUE,"20-02-2022 21:23","20-02-2028 21:04","Credit Card",FALSE,150,1
+2973,1229,"Joanne Gallegos","Female",77,748,59342,"UK","England","London","Facebook-ads","books","textbook","$30 ","$50 ",1,TRUE,"20-10-2029 20:14","20-05-2020 11:20","Debit Card",FALSE,50,1
+2974,1449,"Chloe White","Female",43,724,58210,"India","Uttar Pradesh","Ghaziabad","E-mails","books","magazine","$5 ","$8 ",5,TRUE,"20-01-2018 22:10","20-01-2020 21:22","Cash On Delivery",FALSE,40,1
+2975,1165,"Sharon Wilson","Female",78,753,59360,"Australia","Victoria","Melbourne","E-mails","fashion","dress","$50 ","$80 ",2,TRUE,"20-06-2002 20:16","20-02-2020 13:20","Credit Card",FALSE,160,1
+2976,1353,"Keith Gallegos","Male",55,711,56152,"Italy","Lazio","Latina","Twitter-ads","books","magazine","$5 ","$8 ",1,TRUE,"20-12-2011 22:08","20-11-2020 18:22","Debit Card",FALSE,8,0
+2977,1055,"Vanessa Hamilton","Female",18,617,19218,"Italy","Lazio","Rome","Instagram-ads","fashion","dress","$50 ","$80 ",3,TRUE,"20-02-2024 21:20","20-02-2020 03:21","Paypal",FALSE,240,1
+2978,1246,"Jimmy Floyd","Male",59,745,59718,"USA","California","San Diego","Twitter-ads","home appliances","mixer grinder","$60 ","$90 ",3,FALSE,"20-04-2026 23:05","20-01-2019 00:00",NA,NA,270,0
+2979,1393,"Mark Mckay","Male",19,678,20109,"USA","California","San Diego","E-mails","home appliances","toaster","$40 ","$60 ",3,TRUE,"20-04-2003 20:14","20-07-2020 03:20","Credit Card",FALSE,180,0
+2980,1191,"Michelle Martinez","Male",32,683,46780,"China","Guangdong","Dongguan","Facebook-ads","books","textbook","$30 ","$50 ",4,TRUE,"20-04-2012 22:00","20-06-2020 12:22","Debit Card",FALSE,200,0
+2981,1324,"Nicole Wilson","Male",29,698,44716,"UK","Scotland","Glasgow","Facebook-ads","home appliances","mixer grinder","$60 ","$90 ",4,TRUE,"20-10-2031 21:19","20-01-2020 11:21","Debit Card",FALSE,360,0
+2982,1292,"Dr. Charles Booker","Male",52,727,57899,"Australia","New South Wales","Sydney","Billboard-QR code","fashion","t-shirt","$15 ","$25 ",4,TRUE,"20-02-2002 23:12","20-07-2020 02:23","Paypal",FALSE,100,0
+2983,1430,"Charles Bass","Male",37,682,49438,"India","Uttar Pradesh","Ghaziabad","Facebook-ads","electronics","table fan","$30 ","$50 ",2,TRUE,"20-10-2014 22:21","20-10-2020 16:22","Debit Card",FALSE,100,0
+2984,1109,"William Lowe","Female",64,750,59913,"Canada","Quebec","Montreal","Twitter-ads","home appliances","electric stove","$250 ","$400 ",2,TRUE,"20-11-2024 23:15","21-11-2020 00:23","Cash On Delivery",FALSE,800,1
+2985,1486,"Jordan Hoffman","Female",29,695,44738,"Australia","Victoria","Geelong","Instagram-ads","fashion","dress","$50 ","$80 ",4,TRUE,"20-07-2022 21:06","20-07-2026 21:02","Paypal",FALSE,320,1
+2986,1310,"David Lara","Female",57,709,60892,"Italy","Lazio","Rome","Instagram-ads","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-06-2006 20:20","20-12-2020 06:20","Paypal",FALSE,1500,1
+2987,1122,"Jessica Anthony","Male",59,741,59674,"USA","California","Los Angeles","Billboard-QR code","home appliances","microwave oven","$300 ","$500 ",2,FALSE,"20-04-2001 20:03","20-01-2019 00:00",NA,NA,1000,0
+2988,1257,"Samuel Burke","Male",27,688,44326,"Spain","Catalonia","Barcelona","Google-ads","home appliances","toaster","$40 ","$60 ",3,TRUE,"20-05-2007 20:09","20-09-2020 07:20","Paypal",FALSE,180,0
+2989,1086,"Cheryl Armstrong","Male",72,757,59678,"USA","Texas","San Antonio","Google-ads","fashion","t-shirt","$15 ","$25 ",5,FALSE,"20-06-2011 23:06","20-01-2019 00:00",NA,NA,125,0
+2990,1486,"Jordan Hoffman","Female",29,695,44738,"Australia","Victoria","Geelong","Twitter-ads","fashion","dress","$50 ","$80 ",4,TRUE,"20-04-2013 21:12","20-04-2020 15:21","Cash On Delivery",FALSE,320,1
+2991,1437,"Haley Stewart","Male",80,756,59034,"Australia","New South Wales","Wollongong","Google-ads","books","textbook","$30 ","$50 ",5,TRUE,"20-02-2006 23:23","20-04-2020 06:23","Credit Card",FALSE,250,0
+2992,1017,"Tiffany King","Female",46,715,59931,"Japan","Kanagawa","Sagamihara","Instagram-ads","electronics","television","$1,000 ","$1,500 ",3,FALSE,"20-10-2020 20:17","20-01-2019 00:00",NA,NA,4500,1
+2993,1121,"Chris Kirk","Female",34,698,49955,"China","Shandong","Jinan","Facebook-ads","books","novel","$10 ","$18 ",5,TRUE,"20-08-2014 21:16","20-08-2020 17:21","Debit Card",FALSE,90,1
+2994,1341,"Amanda Tanner","Female",40,696,47210,"Canada","Quebec","Laval","Twitter-ads","home appliances","microwave oven","$300 ","$500 ",5,FALSE,"20-12-2023 20:19","20-01-2019 00:00",NA,NA,2500,1
+2995,1157,"Courtney Norman","Female",63,751,59987,"Spain","Catalonia","Tarragona","Billboard-QR code","electronics","television","$1,000 ","$1,500 ",1,TRUE,"20-10-2012 23:16","20-12-2020 15:23","Paypal",FALSE,1500,1
+2996,1233,"Michael Brown","Male",80,753,59140,"Japan","Kanagawa","Yokohama","Google-ads","home appliances","microwave oven","$300 ","$500 ",3,FALSE,"20-02-2002 20:12","20-01-2019 00:00",NA,NA,1500,0
+2997,1080,"Jennifer Strickland","Female",56,720,55977,"Japan","Tokyo","Yokohama","Billboard-QR code","fashion","jeans","$40 ","$70 ",4,TRUE,"20-01-2022 23:01","21-01-2020 00:23","Paypal",FALSE,280,1
+2998,1115,"Kevin Dominguez DDS","Female",14,NA,NA,"Japan","Kanagawa","Kawasaki","Twitter-ads","fashion","shoes","$60 ","$100 ",5,TRUE,"20-07-2015 23:08","20-07-2020 16:23","Debit Card",FALSE,500,1
+2999,1374,"Adam Tate","Female",71,753,59621,"India","Uttar Pradesh","Ghaziabad","Google-ads","fashion","t-shirt","$15 ","$25 ",5,TRUE,"20-08-2001 20:05","20-01-2020 14:20","Debit Card",FALSE,125,1
+3000,1041,"Maria Kelly","Female",17,NA,NA,"India","Uttar Pradesh","Ghaziabad","Google-ads","books","novel","$10 ","$18 ",3,TRUE,"20-05-2016 23:05","20-05-2020 21:23","Credit Card",FALSE,54,1
+3001,1078,"Frank Brooks","Female",31,698,47247,"USA","California","Los Angeles","Twitter-ads","fashion","shoes","$60 ","$100 ",5,TRUE,"20-06-2027 23:07","20-06-2030 23:02","Debit Card",FALSE,500,1
+3002,1343,"David Johnson","Female",15,NA,NA,"Italy","Lazio","Latina","Billboard-QR code","toys","puzzle","$15 ","$25 ",1,TRUE,"20-02-2021 20:07","20-02-2027 20:10","Cash On Delivery",FALSE,25,1
+3003,1436,"Benjamin Robinson","Male",66,742,59935,"Japan","Tokyo","Tokyo","E-mails","electronics","table fan","$30 ","$50 ",4,TRUE,"20-04-2021 20:06","20-04-2020 22:20","Credit Card",FALSE,200,0
+3004,1394,"Ryan Cherry","Male",25,606,24739,"Australia","Victoria","Melbourne","Billboard-QR code","home appliances","toaster","$40 ","$60 ",5,FALSE,"20-09-2027 21:02","20-01-2019 00:00",NA,NA,300,0
+3005,1260,"Shelly Anderson","Male",32,694,50095,"USA","Texas","Houston","Billboard-QR code","toys","puzzle","$15 ","$25 ",1,TRUE,"20-05-2007 21:12","20-08-2020 07:21","Credit Card",FALSE,25,0
+3006,1082,"Jacqueline Pruitt","Female",24,600,32767,"Australia","New South Wales","Wollongong","Facebook-ads","books","autobiography","$20 ","$35 ",5,TRUE,"20-08-2009 22:15","20-10-2020 09:22","Credit Card",FALSE,175,1
+3007,1339,"Tammy Park","Female",28,692,42852,"China","Shandong","Jinan","Google-ads","electronics","television","$1,000 ","$1,500 ",4,TRUE,"20-05-2024 23:22","20-05-2031 23:16","Debit Card",FALSE,6000,1
+3008,1075,"Andrea Brown","Female",46,701,57509,"China","Shandong","Yantai","E-mails","home appliances","microwave oven","$300 ","$500 ",1,FALSE,"20-11-2020 22:19","20-01-2019 00:00",NA,NA,500,1
+3009,1316,"Elizabeth Trujillo","Female",65,745,59742,"India","Uttar Pradesh","Ghaziabad","Google-ads","fashion","jeans","$40 ","$70 ",3,TRUE,"20-02-2014 22:01","20-02-2020 20:22","Cash On Delivery",FALSE,210,1
+3011,1466,"Shannon Munoz MD","Male",73,742,59316,"Canada","Ontario","Mississauga","Instagram-ads","books","autobiography","$20 ","$35 ",3,TRUE,"20-04-2009 20:20","20-10-2020 09:20","Debit Card",FALSE,105,0
+3012,1496,"Ashlee Murphy PhD","Male",49,727,58158,"China","Guangdong","Shenzhen","E-mails","home appliances","mixer grinder","$60 ","$90 ",5,TRUE,"20-02-2009 21:07","20-03-2020 09:21","Credit Card",TRUE,450,0
+3013,1192,"Chad Luna","Male",59,759,59421,"USA","Texas","San Antonio","Twitter-ads","books","novel","$10 ","$18 ",5,FALSE,"20-02-2024 20:06","20-01-2019 00:00",NA,NA,90,0
+3014,1081,"George Vargas","Male",36,686,43120,"Australia","New South Wales","Sydney","Google-ads","home appliances","toaster","$40 ","$60 ",4,TRUE,"20-05-2013 23:17","20-05-2020 16:23","Paypal",FALSE,240,0
+3015,1333,"Terry Montgomery","Female",68,744,59752,"Spain","Andalusia","Seville","Google-ads","toys","plush toy","$12 ","$20 ",4,TRUE,"20-02-2006 21:15","20-03-2020 06:21","Credit Card",FALSE,80,1
+3016,1485,"Ryan Dominguez","Female",57,722,56338,"China","Shandong","Qingdao","Google-ads","fashion","t-shirt","$15 ","$25 ",3,TRUE,"20-02-2006 23:05","20-06-2020 06:23","Cash On Delivery",FALSE,75,1
+3017,1030,"Brooke Pollard","Male",68,746,59753,"USA","California","Los Angeles","Google-ads","home appliances","microwave oven","$300 ","$500 ",2,TRUE,"20-09-2004 21:17","20-04-2020 13:21","Paypal",FALSE,1000,0
+3018,1274,"William Reyes","Male",30,690,51283,"Spain","Andalusia","Malaga","Twitter-ads","electronics","laptop","$800 ","$1,200 ",5,TRUE,"20-01-2015 23:17","20-01-2020 18:23","Cash On Delivery",FALSE,6000,0
+3019,1110,"Kristen Schaefer","Female",19,672,21454,"Japan","Tokyo","Tokyo","Google-ads","electronics","laptop","$800 ","$1,200 ",5,TRUE,"20-05-2003 23:04","20-10-2020 03:23","Debit Card",FALSE,6000,1
+3020,1110,"Kristen Schaefer","Female",19,672,21454,"Japan","Tokyo","Tokyo","Billboard-QR code","books","magazine","$5 ","$8 ",4,TRUE,"20-07-2016 20:20","20-07-2020 18:20","Credit Card",FALSE,32,1
+3021,1412,"Patricia Garza","Female",28,687,49696,"UK","Scotland","Glasgow","Billboard-QR code","books","novel","$10 ","$18 ",4,FALSE,"20-05-2010 20:07","20-01-2019 00:00",NA,NA,72,1
+3022,1479,"Christine Robertson","Male",49,738,55918,"China","Shandong","Qingdao","Google-ads","home appliances","microwave oven","$300 ","$500 ",3,TRUE,"20-02-2017 20:22","20-02-2020 20:20","Credit Card",FALSE,1500,0
+3023,1125,"Jenna Berry","Male",70,760,59016,"Spain","Catalonia","Barcelona","Facebook-ads","fashion","shoes","$60 ","$100 ",2,TRUE,"20-11-2020 22:16","20-11-2020 21:22","Paypal",FALSE,200,0
+3024,1375,"William Cardenas","Female",38,699,44911,"Japan","Tokyo","Yokohama","Facebook-ads","home appliances","electric stove","$250 ","$400 ",5,FALSE,"20-06-2023 22:19","20-01-2019 00:00",NA,NA,2000,1
+3025,1228,"Alicia Anderson","Female",23,654,29711,"India","Uttar Pradesh","Lucknow","E-mails","fashion","t-shirt","$15 ","$25 ",3,FALSE,"20-12-2026 21:17","20-01-2019 00:00",NA,NA,75,1
+3026,1392,"Steven Zavala","Male",39,694,46071,"Italy","Lazio","Frosinone","Twitter-ads","electronics","laptop","$800 ","$1,200 ",2,TRUE,"20-03-2010 21:04","20-07-2020 10:21","Debit Card",FALSE,2400,0
+3027,1196,"Ethan Delgado","Male",42,683,44417,"Canada","Quebec","Quebec City","Billboard-QR code","home appliances","electric stove","$250 ","$400 ",3,TRUE,"20-12-2020 21:13","20-12-2026 21:17","Cash On Delivery",FALSE,1200,0
+3028,1141,"Dr. John Howard MD","Female",20,645,22178,"USA","Texas","Houston","Twitter-ads","home appliances","electric stove","$250 ","$400 ",5,FALSE,"20-11-2019 23:20","20-01-2019 00:00",NA,NA,2000,1
+3029,1224,"Micheal Mcmillan","Male",71,756,59737,"Spain","Andalusia","Malaga","Google-ads","electronics","television","$1,000 ","$1,500 ",1,TRUE,"20-10-2022 21:11","20-10-2027 21:00","Credit Card",FALSE,1500,0
+3030,1096,"Tiffany Little","Male",64,746,59431,"UK","Scotland","Edinburgh","Billboard-QR code","books","autobiography","$20 ","$35 ",1,TRUE,"20-07-2019 23:19","20-07-2025 23:17","Credit Card",FALSE,35,0
+3031,1270,"Allison Morgan","Male",75,755,59808,"India","Uttar Pradesh","Kanpur","Google-ads","toys","action figure","$8 ","$15 ",5,FALSE,"20-03-2021 23:02","20-01-2019 00:00",NA,NA,75,0
+3032,1497,"Timothy Kelley","Male",23,625,23235,"Canada","Quebec","Quebec City","Google-ads","home appliances","microwave oven","$300 ","$500 ",1,TRUE,"20-08-2010 23:17","20-10-2020 13:23","Debit Card",FALSE,500,0
+3033,1037,"Mary Maldonado","Male",45,715,60200,"Canada","Ontario","Mississauga","Facebook-ads","electronics","television","$1,000 ","$1,500 ",4,TRUE,"20-10-2031 23:18","20-03-2020 11:23","Paypal",FALSE,6000,0
+3034,1175,"Alexa Petersen","Male",59,755,59026,"USA","Texas","San Antonio","Facebook-ads","electronics","laptop","$800 ","$1,200 ",3,FALSE,"20-06-2024 22:09","20-01-2019 00:00",NA,NA,3600,0
+3035,1025,"Jonathan Flores","Female",76,742,59555,"Italy","Lazio","Frosinone","Google-ads","electronics","television","$1,000 ","$1,500 ",3,TRUE,"20-03-2016 23:05","20-03-2020 17:23","Paypal",FALSE,4500,1
+3036,1310,"David Lara","Female",57,709,60892,"Italy","Lazio","Rome","Google-ads","home appliances","toaster","$40 ","$60 ",2,TRUE,"20-10-2011 23:13","20-11-2020 14:23","Debit Card",FALSE,120,1
+3037,1279,"Robert Cantrell","Male",34,689,50143,"Canada","Quebec","Laval","Google-ads","books","novel","$10 ","$18 ",4,TRUE,"20-08-2027 23:19","20-02-2020 09:23","Paypal",FALSE,72,0
+3038,1010,"Larry Hendricks","Female",32,698,47865,"Spain","Catalonia","Barcelona","Billboard-QR code","fashion","jeans","$40 ","$70 ",3,FALSE,"20-05-2004 23:10","20-01-2019 00:00",NA,NA,210,1
+3039,1398,"Eric Dixon","Male",29,689,43847,"Japan","Kanagawa","Sagamihara","Twitter-ads","fashion","shoes","$60 ","$100 ",3,TRUE,"20-10-2008 20:07","20-10-2020 08:20","Debit Card",FALSE,300,0
+3040,1476,"Brenda Bennett","Male",41,683,48939,"Spain","Andalusia","Seville","Instagram-ads","home appliances","microwave oven","$300 ","$500 ",4,TRUE,"20-06-2008 21:09","20-07-2020 08:21","Paypal",FALSE,2000,0
+3041,1365,"Kathy Watkins","Female",59,741,59230,"China","Guangdong","Shenzhen","Billboard-QR code","books","textbook","$30 ","$50 ",4,FALSE,"20-03-2026 22:13","20-01-2019 00:00",NA,NA,200,1
+3043,1079,"Aimee Perez","Male",38,686,42159,"UK","England","London","Google-ads","books","magazine","$5 ","$8 ",3,TRUE,"20-03-2017 23:08","20-03-2020 22:23","Paypal",FALSE,24,0
+3044,1422,"Robert Smith","Female",40,681,43939,"Italy","Lombardy","Milan","Google-ads","books","novel","$10 ","$18 ",5,FALSE,"20-08-2020 22:22","20-01-2019 00:00",NA,NA,90,1
+3045,1401,"Timothy Collins","Male",75,745,59224,"Spain","Catalonia","Barcelona","Billboard-QR code","home appliances","toaster","$40 ","$60 ",5,TRUE,"20-03-2026 22:16","20-03-2031 22:04","Cash On Delivery",TRUE,300,0
+3046,1108,"Lori Thompson DVM","Male",59,756,59646,"China","Shandong","Yantai","Facebook-ads","fashion","dress","$50 ","$80 ",2,TRUE,"20-12-2030 20:01","20-01-2020 01:21","Cash On Delivery",FALSE,160,0
